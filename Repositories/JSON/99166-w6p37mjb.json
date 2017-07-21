@@ -1,0 +1,100 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6p37mjb",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "MaHdCBA",
+            "id": "76764375",
+            "version": "11225637"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:28:33",
+            "standardDateTime": "2016-11-22T11:28:33",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "City of Boston Archives & Records Management Division",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "City of Boston Archives & Records Management Division",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76764374",
+                    "version": "11225637"
+                }
+            ],
+            "id": "76764373",
+            "version": "11225637"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "City of Boston Archives & Records Management Division",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "33 Millstone Rd.  Hyde Park, Massachusetts 02136  United States",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76764377",
+                    "version": "11225637"
+                }
+            ],
+            "id": "76764376",
+            "version": "11225637"
+        }
+    ],
+    "id": "76764372",
+    "version": "11225640"
+}

@@ -1,0 +1,167 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w60m2xzh",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "124215",
+            "id": "76761901",
+            "version": "11224729"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:26:28",
+            "standardDateTime": "2016-11-22T11:26:28",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Biblioth\u00e8que de la Ville de la Chaux-de-Fonds",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Biblioth\u00e8que de la Ville de la Chaux-de-Fonds",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76761900",
+                    "version": "11224729"
+                }
+            ],
+            "id": "76761899",
+            "version": "11224729"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76761898",
+            "targetConstellation": "13700241",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w60m2xzh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6f530kb",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Bibliothe\u0300que de la ville (La Chaux-de-Fonds). De\u0301partement audiovisuel."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Biblioth\u00e8que de la Ville de la Chaux-de-Fonds",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Rue du Progr\u00e8s 33",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761903",
+                    "version": "11224729"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "La Chaux-de-Fonds",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761904",
+                    "version": "11224729"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "2300",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761905",
+                    "version": "11224729"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CH",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761906",
+                    "version": "11224729"
+                }
+            ],
+            "geoplace": {
+                "id": "17337",
+                "name": "Biblioth\u00e8que de la Ville de la Chaux-de-Fonds",
+                "latitude": "47.1043000",
+                "longitude": "6.8263200"
+            },
+            "confirmed": true,
+            "id": "76761902",
+            "version": "11224729"
+        }
+    ],
+    "id": "76761898",
+    "version": "11224732"
+}

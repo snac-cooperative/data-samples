@@ -1,0 +1,178 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6t54gdp",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "DE-MnBSB,GyMB-A",
+            "id": "76761440",
+            "version": "11224549"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "39230",
+            "id": "76761441",
+            "version": "11224549"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:26:03",
+            "standardDateTime": "2016-11-22T11:26:03",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Bayerische Staatsbibliothek",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Bayerische Staatsbibliothek",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76761439",
+                    "version": "11224549"
+                }
+            ],
+            "id": "76761438",
+            "version": "11224549"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76761437",
+            "targetConstellation": "50031774",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6t54gdp",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w69w46xp",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Bayerische Staatsbibliothek"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Bayerische Staatsbibliothek",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Ludwigstr. 16",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761443",
+                    "version": "11224549"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Mu\u0308nchen",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761444",
+                    "version": "11224549"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "80539",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761445",
+                    "version": "11224549"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "DE",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761446",
+                    "version": "11224549"
+                }
+            ],
+            "geoplace": {
+                "id": "16892",
+                "name": "Bayerische Staatsbibliothek",
+                "latitude": "48.1474571",
+                "longitude": "11.5801907"
+            },
+            "confirmed": true,
+            "id": "76761442",
+            "version": "11224549"
+        }
+    ],
+    "id": "76761437",
+    "version": "11224552"
+}

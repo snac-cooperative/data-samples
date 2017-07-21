@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w65z2zdr",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "TNSB-S",
+            "id": "76772856",
+            "version": "11228841"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "85420",
+            "id": "76772857",
+            "version": "11228841"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:35:45",
+            "standardDateTime": "2016-11-22T11:35:45",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "LIFEWAY CHRISTIAN RESOURCES",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "LIFEWAY CHRISTIAN RESOURCES",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76772855",
+                    "version": "11228841"
+                }
+            ],
+            "id": "76772854",
+            "version": "11228841"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "LIFEWAY CHRISTIAN RESOURCES",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Dargan Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76772859",
+                    "version": "11228841"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "One Lifeway Plaza",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76772860",
+                    "version": "11228841"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Nashville",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76772861",
+                    "version": "11228841"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-TN",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76772862",
+                    "version": "11228841"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "37234-0142",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76772863",
+                    "version": "11228841"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76772864",
+                    "version": "11228841"
+                }
+            ],
+            "geoplace": {
+                "id": "16541",
+                "name": "LIFEWAY CHRISTIAN RESOURCES",
+                "latitude": "36.1678391",
+                "longitude": "-86.7781601"
+            },
+            "confirmed": true,
+            "id": "76772858",
+            "version": "11228841"
+        }
+    ],
+    "id": "76772853",
+    "version": "11228844"
+}

@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6t25sjj",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:29:52",
+            "standardDateTime": "2016-11-28T17:29:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "UCLA. Library. Center for Oral History Research",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "UCLA. Library. Center for Oral History Research",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76797070",
+                    "version": "11240905"
+                }
+            ],
+            "id": "76797069",
+            "version": "11240905"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797068",
+            "targetConstellation": "71615456",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6t25sjj",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65r713c",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "UCLA Library Center for Oral History Research"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "UCLA. Library. Center for Oral History Research",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Los Angeles, CA 90095",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76797072",
+                    "version": "11240905"
+                }
+            ],
+            "id": "76797071",
+            "version": "11240905"
+        }
+    ],
+    "id": "76797068",
+    "version": "11240908"
+}

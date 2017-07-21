@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6ck9333",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "NjHoS",
+            "id": "76783270",
+            "version": "11232705"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "1802",
+            "id": "76783271",
+            "version": "11232705"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:44:32",
+            "standardDateTime": "2016-11-22T11:44:32",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Stevens Institute of Technology, Samuel C. Williams Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Stevens Institute of Technology, Samuel C. Williams Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76783269",
+                    "version": "11232705"
+                }
+            ],
+            "id": "76783268",
+            "version": "11232705"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Stevens Institute of Technology, Samuel C. Williams Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Stevens Inst Of Tech",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783273",
+                    "version": "11232705"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Castle Point On Hudson",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783274",
+                    "version": "11232705"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Hoboken",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783275",
+                    "version": "11232705"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-NJ",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783276",
+                    "version": "11232705"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "07030",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783277",
+                    "version": "11232705"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783278",
+                    "version": "11232705"
+                }
+            ],
+            "geoplace": {
+                "id": "17336",
+                "name": "Stevens Institute of Technology, Samuel C. Williams Library",
+                "latitude": "40.7371597",
+                "longitude": "-74.0309677"
+            },
+            "confirmed": true,
+            "id": "76783272",
+            "version": "11232705"
+        }
+    ],
+    "id": "76783267",
+    "version": "11232708"
+}

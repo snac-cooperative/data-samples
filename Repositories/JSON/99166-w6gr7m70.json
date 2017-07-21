@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6gr7m70",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "49745",
+            "id": "76769857",
+            "version": "11227717"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:33:12",
+            "standardDateTime": "2016-11-22T11:33:12",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "HILLWOOD ESTATE MUSEUM & GARDENS",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "HILLWOOD ESTATE MUSEUM & GARDENS",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76769856",
+                    "version": "11227717"
+                }
+            ],
+            "id": "76769855",
+            "version": "11227717"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "HILLWOOD ESTATE MUSEUM & GARDENS",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "4155 Linnean Ave NW",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769859",
+                    "version": "11227717"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Washington",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769860",
+                    "version": "11227717"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-DC",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769861",
+                    "version": "11227717"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "20008-3804",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769862",
+                    "version": "11227717"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769863",
+                    "version": "11227717"
+                }
+            ],
+            "geoplace": {
+                "id": "17370",
+                "name": "HILLWOOD ESTATE MUSEUM & GARDENS",
+                "latitude": "38.9437430",
+                "longitude": "-77.0543390"
+            },
+            "confirmed": true,
+            "id": "76769858",
+            "version": "11227717"
+        }
+    ],
+    "id": "76769854",
+    "version": "11227720"
+}

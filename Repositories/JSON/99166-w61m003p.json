@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w61m003p",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "72090",
+            "id": "76759627",
+            "version": "11223861"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:24:25",
+            "standardDateTime": "2016-11-22T11:24:25",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Agence bibliographique de l'enseignement sup\u00e9rieur, ABES",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Agence bibliographique de l'enseignement sup\u00e9rieur, ABES",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76759626",
+                    "version": "11223861"
+                }
+            ],
+            "id": "76759625",
+            "version": "11223861"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Agence bibliographique de l'enseignement sup\u00e9rieur, ABES",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Parc Euromedecine 2",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76759629",
+                    "version": "11223861"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "227 Ave Prof J-L Viala B.P. 84308",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76759630",
+                    "version": "11223861"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Montpellier CEDEX 5",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76759631",
+                    "version": "11223861"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "34193",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76759632",
+                    "version": "11223861"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "FR",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76759633",
+                    "version": "11223861"
+                }
+            ],
+            "geoplace": {
+                "id": "15171",
+                "name": "Agence bibliographique de l'enseignement sup\u00e9rieur, ABES",
+                "latitude": "43.6362460",
+                "longitude": "3.8284560"
+            },
+            "confirmed": true,
+            "id": "76759628",
+            "version": "11223861"
+        }
+    ],
+    "id": "76759624",
+    "version": "11223864"
+}

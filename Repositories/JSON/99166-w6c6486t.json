@@ -1,0 +1,120 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6c6486t",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "MaCbHC",
+            "id": "76763257",
+            "version": "11225213"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:27:36",
+            "standardDateTime": "2016-11-22T11:27:36",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Cambridge Historical Commission",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Cambridge Historical Commission",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76763256",
+                    "version": "11225213"
+                }
+            ],
+            "id": "76763255",
+            "version": "11225213"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76763254",
+            "targetConstellation": "2832769",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c6486t",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w60x1j1k",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Cambridge Historical Commission"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Cambridge Historical Commission",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "831 Massachusetts Ave.  Cambridge, Massachusetts 02139  United States",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76763259",
+                    "version": "11225213"
+                }
+            ],
+            "id": "76763258",
+            "version": "11225213"
+        }
+    ],
+    "id": "76763254",
+    "version": "11225216"
+}

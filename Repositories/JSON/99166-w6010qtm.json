@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6010qtm",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "TxU-O",
+            "id": "76788361",
+            "version": "11234513"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "2938",
+            "id": "76788362",
+            "version": "11234513"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:48:45",
+            "standardDateTime": "2016-11-22T11:48:45",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of Texas of the Permian Basin, J. Conrad Dunagan Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of Texas of the Permian Basin, J. Conrad Dunagan Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76788360",
+                    "version": "11234513"
+                }
+            ],
+            "id": "76788359",
+            "version": "11234513"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "University of Texas of the Permian Basin, J. Conrad Dunagan Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "J Conrad Dunagan Libr",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788364",
+                    "version": "11234513"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "4901 E University Blvd",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788365",
+                    "version": "11234513"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Odessa",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788366",
+                    "version": "11234513"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-TX",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788367",
+                    "version": "11234513"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "79762-0001",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788368",
+                    "version": "11234513"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788369",
+                    "version": "11234513"
+                }
+            ],
+            "geoplace": {
+                "id": "17233",
+                "name": "University of Texas of the Permian Basin, J. Conrad Dunagan Library",
+                "latitude": "31.8893000",
+                "longitude": "-102.3280000"
+            },
+            "confirmed": true,
+            "id": "76788363",
+            "version": "11234513"
+        }
+    ],
+    "id": "76788358",
+    "version": "11234516"
+}

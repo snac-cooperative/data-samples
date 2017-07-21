@@ -1,0 +1,171 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6bq0rdn",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "MoSU",
+            "id": "76781103",
+            "version": "11231901"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "5429",
+            "id": "76781104",
+            "version": "11231901"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:42:45",
+            "standardDateTime": "2016-11-22T11:42:45",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Saint Louis University - Main Campus, Pius XII Memorial Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Saint Louis University - Main Campus, Pius XII Memorial Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76781102",
+                    "version": "11231901"
+                }
+            ],
+            "id": "76781101",
+            "version": "11231901"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Saint Louis University - Main Campus, Pius XII Memorial Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "3650 Lindell Blvd",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76781106",
+                    "version": "11231901"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "St Louis",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76781107",
+                    "version": "11231901"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-MO",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76781108",
+                    "version": "11231901"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "63108-3302",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76781109",
+                    "version": "11231901"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76781110",
+                    "version": "11231901"
+                }
+            ],
+            "geoplace": {
+                "id": "15067",
+                "name": "Saint Louis University - Main Campus, Pius XII Memorial Library",
+                "latitude": "38.6360000",
+                "longitude": "-90.2350000"
+            },
+            "confirmed": true,
+            "id": "76781105",
+            "version": "11231901"
+        }
+    ],
+    "id": "76781100",
+    "version": "11231904"
+}

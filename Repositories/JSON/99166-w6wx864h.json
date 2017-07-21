@@ -1,0 +1,171 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6wx864h",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "NbBlaD",
+            "id": "76765724",
+            "version": "11226125"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "44936",
+            "id": "76765725",
+            "version": "11226125"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:29:37",
+            "standardDateTime": "2016-11-22T11:29:37",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Dana College, C.A. Dana-Life Library, C.A. Dana-LIFE Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Dana College, C.A. Dana-Life Library, C.A. Dana-LIFE Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76765723",
+                    "version": "11226125"
+                }
+            ],
+            "id": "76765722",
+            "version": "11226125"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Dana College, C.A. Dana-Life Library, C.A. Dana-LIFE Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "2848 College Dr",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765727",
+                    "version": "11226125"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Blair",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765728",
+                    "version": "11226125"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-NE",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765729",
+                    "version": "11226125"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "68008-1099",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765730",
+                    "version": "11226125"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765731",
+                    "version": "11226125"
+                }
+            ],
+            "geoplace": {
+                "id": "15997",
+                "name": "Dana College, C.A. Dana-Life Library, C.A. Dana-LIFE Library",
+                "latitude": "41.5517654",
+                "longitude": "-96.1540756"
+            },
+            "confirmed": true,
+            "id": "76765726",
+            "version": "11226125"
+        }
+    ],
+    "id": "76765721",
+    "version": "11226128"
+}

@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6gr7mcs",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "213",
+            "id": "76782334",
+            "version": "11232361"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:43:47",
+            "standardDateTime": "2016-11-22T11:43:47",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Sofia University Library, Sofia University Library (formerly ITP Library)",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Sofia University Library, Sofia University Library (formerly ITP Library)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76782333",
+                    "version": "11232361"
+                }
+            ],
+            "id": "76782332",
+            "version": "11232361"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Sofia University Library, Sofia University Library (formerly ITP Library)",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "1069 East Meadow Circle",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782336",
+                    "version": "11232361"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Palo Alto",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782337",
+                    "version": "11232361"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-CA",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782338",
+                    "version": "11232361"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "94303",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782339",
+                    "version": "11232361"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782340",
+                    "version": "11232361"
+                }
+            ],
+            "geoplace": {
+                "id": "14904",
+                "name": "Sofia University Library, Sofia University Library (formerly ITP Library)",
+                "latitude": "37.4303818",
+                "longitude": "-122.1086810"
+            },
+            "confirmed": true,
+            "id": "76782335",
+            "version": "11232361"
+        }
+    ],
+    "id": "76782331",
+    "version": "11232364"
+}

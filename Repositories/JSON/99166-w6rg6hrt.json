@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6rg6hrt",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:20:52",
+            "standardDateTime": "2016-11-28T17:20:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Columbia University. Avery Architectural and Fine Arts Library, Department of Drawings & Archives,",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Columbia University. Avery Architectural and Fine Arts Library, Department of Drawings & Archives,",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792722",
+                    "version": "11236789"
+                }
+            ],
+            "id": "76792721",
+            "version": "11236789"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792720",
+            "targetConstellation": "76792730",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6rg6hrt",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gz518q",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Columbia University. Avery Architectural and Fine Arts Library. Dept. of Drawings & Archives,"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792720",
+            "targetConstellation": "76792740",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6rg6hrt",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w67j278r",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Columbia University. Avery Architecture and Fine Arts Library. Department of Drawings and Archives."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Columbia University. Avery Architectural and Fine Arts Library, Department of Drawings & Archives,",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "1172 Amsterdam Ave., Mail Code 0301, New York, NY 10027.",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792724",
+                    "version": "11236789"
+                }
+            ],
+            "id": "76792723",
+            "version": "11236789"
+        }
+    ],
+    "id": "76792720",
+    "version": "11236792"
+}

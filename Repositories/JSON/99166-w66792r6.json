@@ -1,0 +1,191 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w66792r6",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "SiSiNL",
+            "id": "76776344",
+            "version": "11230141"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "63464",
+            "id": "76776345",
+            "version": "11230141"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:38:42",
+            "standardDateTime": "2016-11-22T11:38:42",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "National Library Board, Singapore",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "National Library Board, Singapore",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76776343",
+                    "version": "11230141"
+                }
+            ],
+            "id": "76776342",
+            "version": "11230141"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76776341",
+            "targetConstellation": "6663158",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w66792r6",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w66f0qbb",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Singapore. National Library Board"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "National Library Board, Singapore",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "National Library Board,",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76776347",
+                    "version": "11230141"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "100 Victoria Street, #14-01, National Library Building",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76776348",
+                    "version": "11230141"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Singapore",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76776349",
+                    "version": "11230141"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "188064",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76776350",
+                    "version": "11230141"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "SG",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76776351",
+                    "version": "11230141"
+                }
+            ],
+            "geoplace": {
+                "id": "16971",
+                "name": "National Library Board, Singapore",
+                "latitude": "1.2977390",
+                "longitude": "103.8539220"
+            },
+            "confirmed": true,
+            "id": "76776346",
+            "version": "11230141"
+        }
+    ],
+    "id": "76776341",
+    "version": "11230144"
+}

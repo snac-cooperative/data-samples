@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6bw8591",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "NdVcT",
+            "id": "76789416",
+            "version": "11234873"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "2211",
+            "id": "76789417",
+            "version": "11234873"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:49:35",
+            "standardDateTime": "2016-11-22T11:49:35",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Valley City State University, Allen Memorial Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Valley City State University, Allen Memorial Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76789415",
+                    "version": "11234873"
+                }
+            ],
+            "id": "76789414",
+            "version": "11234873"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Valley City State University, Allen Memorial Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Allen Memorial Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789419",
+                    "version": "11234873"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "101 College St. SW",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789420",
+                    "version": "11234873"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Valley City",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789421",
+                    "version": "11234873"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-ND",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789422",
+                    "version": "11234873"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "58072-4098",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789423",
+                    "version": "11234873"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789424",
+                    "version": "11234873"
+                }
+            ],
+            "geoplace": {
+                "id": "16506",
+                "name": "Valley City State University, Allen Memorial Library",
+                "latitude": "46.9193382",
+                "longitude": "-98.0029144"
+            },
+            "confirmed": true,
+            "id": "76789418",
+            "version": "11234873"
+        }
+    ],
+    "id": "76789413",
+    "version": "11234876"
+}

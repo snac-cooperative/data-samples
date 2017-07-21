@@ -1,0 +1,237 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w60w92g9",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "ViU",
+            "id": "76788622",
+            "version": "11234605"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "5019",
+            "id": "76788623",
+            "version": "11234605"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:48:58",
+            "standardDateTime": "2016-11-22T11:48:58",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2017-03-30T15:57:12",
+            "standardDateTime": "2017-03-30T15:57:12",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Daniel Pitti (danielvpitti@gmail.com)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2017-03-30T16:00:29",
+            "standardDateTime": "2017-03-30T16:00:29",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Daniel Pitti (danielvpitti@gmail.com)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of Virginia. Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of Virginia",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76788621",
+                    "version": "11243233"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "Library",
+                    "order": "1",
+                    "type": {
+                        "id": "400230",
+                        "term": "SubdivisionName",
+                        "type": "name_component"
+                    },
+                    "id": "76799277",
+                    "version": "11243233"
+                }
+            ],
+            "id": "76788620",
+            "version": "11243233"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76788619",
+            "targetConstellation": "36531868",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w60w92g9",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w68s8w4t",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Virginia. Library. Community for the Alleviation of Boredom in the UVA Libraries."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "University of Virginia, University of Virginia Libraries; University of Virginia Library; UVa Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "See individual libraries",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788625",
+                    "version": "11234605"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "University of Virginia",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788626",
+                    "version": "11234605"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Charlottesville",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788627",
+                    "version": "11234605"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-VA",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788628",
+                    "version": "11234605"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76788629",
+                    "version": "11234605"
+                }
+            ],
+            "geoplace": {
+                "id": "15129",
+                "name": "University of Virginia, University of Virginia Libraries; University of Virginia Library; UVa Library",
+                "latitude": "38.0355520",
+                "longitude": "-78.5034510"
+            },
+            "confirmed": true,
+            "id": "76788624",
+            "version": "11234605"
+        }
+    ],
+    "id": "76788619",
+    "version": "11243237"
+}

@@ -1,0 +1,209 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6zm658n",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "CRo",
+            "id": "76780790",
+            "version": "11231789"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "8569",
+            "id": "76780791",
+            "version": "11231789"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:42:29",
+            "standardDateTime": "2016-11-22T11:42:29",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Roseville Public Library, Downtown Roseville Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Roseville Public Library, Downtown Roseville Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76780789",
+                    "version": "11231789"
+                }
+            ],
+            "id": "76780788",
+            "version": "11231789"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76780787",
+            "targetConstellation": "37983305",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zm658n",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6v81qr8",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Roseville Public Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76780787",
+            "targetConstellation": "76795571",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zm658n",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6kf2mrn",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Roseville Public Library History Collection"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Roseville Public Library, Downtown Roseville Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "225 Taylor Street",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780793",
+                    "version": "11231789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Roseville",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780794",
+                    "version": "11231789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-CA",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780795",
+                    "version": "11231789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "95678",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780796",
+                    "version": "11231789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780797",
+                    "version": "11231789"
+                }
+            ],
+            "geoplace": {
+                "id": "16000",
+                "name": "Roseville Public Library, Downtown Roseville Library",
+                "latitude": "38.7459068",
+                "longitude": "-121.2844700"
+            },
+            "confirmed": true,
+            "id": "76780792",
+            "version": "11231789"
+        }
+    ],
+    "id": "76780787",
+    "version": "11231792"
+}

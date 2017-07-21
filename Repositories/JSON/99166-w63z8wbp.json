@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w63z8wbp",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "118345",
+            "id": "76785549",
+            "version": "11233549"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:46:27",
+            "standardDateTime": "2016-11-22T11:46:27",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Universite de Moncton Group Batchload",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Universite de Moncton Group Batchload",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76785548",
+                    "version": "11233549"
+                }
+            ],
+            "id": "76785547",
+            "version": "11233549"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Universite de Moncton Group Batchload",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "18 Ave Antonine-Maillet",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785551",
+                    "version": "11233549"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Moncton",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785552",
+                    "version": "11233549"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA-NB",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785553",
+                    "version": "11233549"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "E1A 3E9",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785554",
+                    "version": "11233549"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785555",
+                    "version": "11233549"
+                }
+            ],
+            "geoplace": {
+                "id": "16121",
+                "name": "Universite de Moncton Group Batchload",
+                "latitude": "46.1043015",
+                "longitude": "-64.7821808"
+            },
+            "confirmed": true,
+            "id": "76785550",
+            "version": "11233549"
+        }
+    ],
+    "id": "76785546",
+    "version": "11233552"
+}

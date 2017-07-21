@@ -1,0 +1,204 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6nx06vq",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "NBuU",
+            "id": "76783498",
+            "version": "11232789"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "2032",
+            "id": "76783499",
+            "version": "11232789"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:44:44",
+            "standardDateTime": "2016-11-22T11:44:44",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "SUNY at Buffalo, University at Buffalo",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "SUNY at Buffalo, University at Buffalo",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76783497",
+                    "version": "11232789"
+                }
+            ],
+            "id": "76783496",
+            "version": "11232789"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76783495",
+            "targetConstellation": "27698603",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nx06vq",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6r07rxh",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Wesley Foundation Campus Ministry at SUNY Buffalo"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "SUNY at Buffalo, University at Buffalo",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "University Libraries",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783501",
+                    "version": "11232789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "SUNY at Buffalo",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783502",
+                    "version": "11232789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Buffalo",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783503",
+                    "version": "11232789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-NY",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783504",
+                    "version": "11232789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "14260-2200",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783505",
+                    "version": "11232789"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783506",
+                    "version": "11232789"
+                }
+            ],
+            "geoplace": {
+                "id": "16130",
+                "name": "SUNY at Buffalo, University at Buffalo",
+                "latitude": "42.9998000",
+                "longitude": "-78.7849000"
+            },
+            "confirmed": true,
+            "id": "76783500",
+            "version": "11232789"
+        }
+    ],
+    "id": "76783495",
+    "version": "11232792"
+}

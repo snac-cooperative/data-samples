@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6r31q8b",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:25:03",
+            "standardDateTime": "2016-11-28T17:25:03",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "NASA Ames History Office. NASA Ames Research Center.Ames History Office",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "NASA Ames History Office. NASA Ames Research Center.Ames History Office",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794747",
+                    "version": "11238709"
+                }
+            ],
+            "id": "76794746",
+            "version": "11238709"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794745",
+            "targetConstellation": "69011059",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6r31q8b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hv4szp",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "NASA Ames Research Center NASA Ames History Office"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794745",
+            "targetConstellation": "76794756",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6r31q8b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gk06st",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "NASA Ames Research CenterNASA Ames History Office"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "NASA Ames History Office. NASA Ames Research Center.Ames History Office",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Moffett Field, California 94035",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76794749",
+                    "version": "11238709"
+                }
+            ],
+            "id": "76794748",
+            "version": "11238709"
+        }
+    ],
+    "id": "76794745",
+    "version": "11238712"
+}

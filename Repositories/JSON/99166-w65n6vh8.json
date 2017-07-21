@@ -1,0 +1,87 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w65n6vh8",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:25:58",
+            "standardDateTime": "2016-11-28T17:25:58",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Pacific Lutheran University Archives and Special Collections Scandinavian Immigrant Experience Collection",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Pacific Lutheran University Archives and Special Collections Scandinavian Immigrant Experience Collection",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76795204",
+                    "version": "11239129"
+                }
+            ],
+            "id": "76795203",
+            "version": "11239129"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Pacific Lutheran University Archives and Special Collections Scandinavian Immigrant Experience Collection",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "12180 Park Avenue South Tacoma, Washington, 98447 253-535-7586 http:\/\/www.plu.edu\/archives",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76795206",
+                    "version": "11239129"
+                }
+            ],
+            "id": "76795205",
+            "version": "11239129"
+        }
+    ],
+    "id": "76795202",
+    "version": "11239132"
+}

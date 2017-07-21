@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6815r5w</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-11-22T11:35:19">2016-11-22T11:35:19</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+                    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <entityId>TxLarC</entityId>
+      <entityId>64967</entityId>
+      <nameEntry snac:preferenceScore="99">
+        <part>Laredo Community College</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
+        <snac:placeEntry>
+          <placeEntry>Laredo Community College</placeEntry>
+          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="27.5087310" longitude="-99.5189660" administrationCode="" countryCode="">Laredo Community College
+                    </snac:placeEntryBestMaybeSame>
+        </snac:placeEntry>
+      </place>
+    </description>
+    <relations>
+                                            </relations>
+  </cpfDescription>
+</eac-cpf>

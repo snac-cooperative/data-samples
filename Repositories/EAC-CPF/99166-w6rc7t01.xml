@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6rc7t01</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-11-22T11:25:54">2016-11-22T11:25:54</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+                    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <entityId>MoSpBB</entityId>
+      <entityId>1642</entityId>
+      <nameEntry snac:preferenceScore="99">
+        <part>Baptist Bible College, G B Vick Memorial Library</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
+        <snac:placeEntry>
+          <placeEntry>Baptist Bible College, G B Vick Memorial Library</placeEntry>
+          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="37.2632294" longitude="-93.2949600" administrationCode="" countryCode="">Baptist Bible College, G B Vick Memorial Library
+                    </snac:placeEntryBestMaybeSame>
+        </snac:placeEntry>
+      </place>
+    </description>
+    <relations>
+                                            </relations>
+  </cpfDescription>
+</eac-cpf>

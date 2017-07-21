@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6sp0zvn",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:30:45",
+            "standardDateTime": "2016-11-28T17:30:45",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of California, Santa Barbara. Davidson Library. Department of Special Collections.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of California, Santa Barbara. Davidson Library. Department of Special Collections.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76797509",
+                    "version": "11241277"
+                }
+            ],
+            "id": "76797508",
+            "version": "11241277"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797507",
+            "targetConstellation": "39236620",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sp0zvn",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cp9764",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Special Collections, University Library, University of California, Santa Cruz"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "University of California, Santa Barbara. Davidson Library. Department of Special Collections.",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Santa Barbara, California 93106-9010",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76797511",
+                    "version": "11241277"
+                }
+            ],
+            "id": "76797510",
+            "version": "11241277"
+        }
+    ],
+    "id": "76797507",
+    "version": "11241280"
+}

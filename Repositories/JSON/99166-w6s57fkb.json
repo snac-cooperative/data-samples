@@ -1,0 +1,204 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6s57fkb",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "OkArNF",
+            "id": "76784497",
+            "version": "11233157"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "63749",
+            "id": "76784498",
+            "version": "11233157"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:45:34",
+            "standardDateTime": "2016-11-22T11:45:34",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "The Samuel Roberts Noble Foundation, Noble Foundation",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "The Samuel Roberts Noble Foundation, Noble Foundation",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76784496",
+                    "version": "11233157"
+                }
+            ],
+            "id": "76784495",
+            "version": "11233157"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76784494",
+            "targetConstellation": "16508571",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6s57fkb",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w68108zh",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Samuel Roberts Noble Foundation"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "The Samuel Roberts Noble Foundation, Noble Foundation",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "2510 Sam Noble Pkwy",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784500",
+                    "version": "11233157"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "PO Box 2180",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784501",
+                    "version": "11233157"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Ardmore",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784502",
+                    "version": "11233157"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-OK",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784503",
+                    "version": "11233157"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "73402-2180",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784504",
+                    "version": "11233157"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784505",
+                    "version": "11233157"
+                }
+            ],
+            "geoplace": {
+                "id": "15296",
+                "name": "The Samuel Roberts Noble Foundation, Noble Foundation",
+                "latitude": "34.1872253",
+                "longitude": "-97.0845642"
+            },
+            "confirmed": true,
+            "id": "76784499",
+            "version": "11233157"
+        }
+    ],
+    "id": "76784494",
+    "version": "11233160"
+}

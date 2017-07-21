@@ -1,0 +1,191 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6vz154g",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "BarBU",
+            "id": "76784574",
+            "version": "11233185"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "41707",
+            "id": "76784575",
+            "version": "11233185"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:45:38",
+            "standardDateTime": "2016-11-22T11:45:38",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "The University of the West Indies, Cave Hill Campus, UWI Cave Hill Campus",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "The University of the West Indies, Cave Hill Campus, UWI Cave Hill Campus",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76784573",
+                    "version": "11233185"
+                }
+            ],
+            "id": "76784572",
+            "version": "11233185"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76784571",
+            "targetConstellation": "16634455",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6vz154g",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6tg5g34",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of the West Indies (Cave Hill, Barbados). History Dept.."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "The University of the West Indies, Cave Hill Campus, UWI Cave Hill Campus",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Cave Hill Campus",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784577",
+                    "version": "11233185"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "PO Box 1334",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784578",
+                    "version": "11233185"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Bridgetown",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784579",
+                    "version": "11233185"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "BB11000",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784580",
+                    "version": "11233185"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "BB",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784581",
+                    "version": "11233185"
+                }
+            ],
+            "geoplace": {
+                "id": "15146",
+                "name": "The University of the West Indies, Cave Hill Campus, UWI Cave Hill Campus",
+                "latitude": "13.1120901",
+                "longitude": "-59.6126785"
+            },
+            "confirmed": true,
+            "id": "76784576",
+            "version": "11233185"
+        }
+    ],
+    "id": "76784571",
+    "version": "11233188"
+}

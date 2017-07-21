@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6kq8qzm",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:22:45",
+            "standardDateTime": "2016-11-28T17:22:45",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Historical Library, Harvey Cushing \/ John Hay Whitney Medical Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Historical Library, Harvey Cushing \/ John Hay Whitney Medical Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76793614",
+                    "version": "11237661"
+                }
+            ],
+            "id": "76793613",
+            "version": "11237661"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793612",
+            "targetConstellation": "61573000",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6kq8qzm",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65r33c8",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Harvey Cushing\/John Hay Whitney Medical Library"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Historical Library, Harvey Cushing \/ John Hay Whitney Medical Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Yale University 333 Cedar St. New Haven, CT 06520-8014 Email: medical.historical@yale.edu Phone: 203-737-1192 Fax: 203-785-5636",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76793616",
+                    "version": "11237661"
+                }
+            ],
+            "id": "76793615",
+            "version": "11237661"
+        }
+    ],
+    "id": "76793612",
+    "version": "11237664"
+}

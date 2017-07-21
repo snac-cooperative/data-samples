@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w62g8bcc",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:31:47",
+            "standardDateTime": "2016-11-28T17:31:47",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of Pennsylvania: Biddle Law Library: Manuscripts Collection",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of Pennsylvania: Biddle Law Library: Manuscripts Collection",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76797944",
+                    "version": "11241733"
+                }
+            ],
+            "id": "76797943",
+            "version": "11241733"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797942",
+            "targetConstellation": "76787710",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62g8bcc",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zd8rjz",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Pennsylvania Law Library, Biddle Law Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797942",
+            "targetConstellation": "76797948",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62g8bcc",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6t25sk0",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Pennsylvania: Biddle Law Library: Rare Book Collection"
+        }
+    ],
+    "id": "76797942",
+    "version": "11241736"
+}

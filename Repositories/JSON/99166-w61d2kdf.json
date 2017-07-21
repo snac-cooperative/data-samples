@@ -1,0 +1,171 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w61d2kdf",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "CHu",
+            "id": "76770363",
+            "version": "11227917"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "8514",
+            "id": "76770364",
+            "version": "11227917"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:33:39",
+            "standardDateTime": "2016-11-22T11:33:39",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Huntington Beach Public Library, HBPL; Huntington Beach Library and Cultural Center",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Huntington Beach Public Library, HBPL; Huntington Beach Library and Cultural Center",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76770362",
+                    "version": "11227917"
+                }
+            ],
+            "id": "76770361",
+            "version": "11227917"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Huntington Beach Public Library, HBPL; Huntington Beach Library and Cultural Center",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "7111 Talbert Avenue",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770366",
+                    "version": "11227917"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Huntington Beach",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770367",
+                    "version": "11227917"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-CA",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770368",
+                    "version": "11227917"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "92648",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770369",
+                    "version": "11227917"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770370",
+                    "version": "11227917"
+                }
+            ],
+            "geoplace": {
+                "id": "15877",
+                "name": "Huntington Beach Public Library, HBPL; Huntington Beach Library and Cultural Center",
+                "latitude": "33.7015152",
+                "longitude": "-118.0042880"
+            },
+            "confirmed": true,
+            "id": "76770365",
+            "version": "11227917"
+        }
+    ],
+    "id": "76770360",
+    "version": "11227920"
+}

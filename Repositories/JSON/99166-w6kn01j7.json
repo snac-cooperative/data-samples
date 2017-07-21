@@ -1,0 +1,114 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6kn01j7",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:21:13",
+            "standardDateTime": "2016-11-28T17:21:13",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "DeGolyer Library, Southern Methodist University",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "DeGolyer Library, Southern Methodist University",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792922",
+                    "version": "11236949"
+                }
+            ],
+            "id": "76792921",
+            "version": "11236949"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792920",
+            "targetConstellation": "76782679",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6kn01j7",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gn8ww5",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Southern Methodist University, DeGolyer Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792920",
+            "targetConstellation": "76796096",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6kn01j7",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6b95z1z",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Southern Methodist University Archives, DeGolyer Library, Southern Methodist University"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792920",
+            "targetConstellation": "76796100",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6kn01j7",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w66j5685",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Southern Methodist University DeGolyer Library"
+        }
+    ],
+    "id": "76792920",
+    "version": "11236952"
+}

@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6n11w5f",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "59585",
+            "id": "76785508",
+            "version": "11233533"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:46:25",
+            "standardDateTime": "2016-11-22T11:46:25",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Universidad Peruana de Ciencias Aplicadas",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Universidad Peruana de Ciencias Aplicadas",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76785507",
+                    "version": "11233533"
+                }
+            ],
+            "id": "76785506",
+            "version": "11233533"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Universidad Peruana de Ciencias Aplicadas",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Centro de Inform UPC",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785510",
+                    "version": "11233533"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Prolongacion Primavera 2930",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785511",
+                    "version": "11233533"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Monterrico Lima",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785512",
+                    "version": "11233533"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "33",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785513",
+                    "version": "11233533"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "PE",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785514",
+                    "version": "11233533"
+                }
+            ],
+            "geoplace": {
+                "id": "16504",
+                "name": "Universidad Peruana de Ciencias Aplicadas",
+                "latitude": "-12.1043262",
+                "longitude": "-76.9631958"
+            },
+            "confirmed": true,
+            "id": "76785509",
+            "version": "11233533"
+        }
+    ],
+    "id": "76785505",
+    "version": "11233536"
+}

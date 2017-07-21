@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w67763qb",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "OWpT",
+            "id": "76765874",
+            "version": "11226177"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "85916",
+            "id": "76765875",
+            "version": "11226177"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:29:44",
+            "standardDateTime": "2016-11-22T11:29:44",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "D'Azzo Research Library - AFRL, AFRL Technical Library - WPAFB",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "D'Azzo Research Library - AFRL, AFRL Technical Library - WPAFB",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76765873",
+                    "version": "11226177"
+                }
+            ],
+            "id": "76765872",
+            "version": "11226177"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "D'Azzo Research Library - AFRL, AFRL Technical Library - WPAFB",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "AFRL\/RQWL (ILL-Library)",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765877",
+                    "version": "11226177"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "2950 Hobson Way, Bldg 642",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765878",
+                    "version": "11226177"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Wright-Patterson AFB",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765879",
+                    "version": "11226177"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-OH",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765880",
+                    "version": "11226177"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "45433",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765881",
+                    "version": "11226177"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76765882",
+                    "version": "11226177"
+                }
+            ],
+            "geoplace": {
+                "id": "15242",
+                "name": "D'Azzo Research Library - AFRL, AFRL Technical Library - WPAFB",
+                "latitude": "39.8000603",
+                "longitude": "-84.0621872"
+            },
+            "confirmed": true,
+            "id": "76765876",
+            "version": "11226177"
+        }
+    ],
+    "id": "76765871",
+    "version": "11226180"
+}

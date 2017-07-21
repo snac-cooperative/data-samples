@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6vj6bjp",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "87107",
+            "id": "76785570",
+            "version": "11233557"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:46:28",
+            "standardDateTime": "2016-11-22T11:46:28",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Universit\u00e9 de Sherbrooke - Service des biblioth\u00e8ques et archives",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Universit\u00e9 de Sherbrooke - Service des biblioth\u00e8ques et archives",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76785569",
+                    "version": "11233557"
+                }
+            ],
+            "id": "76785568",
+            "version": "11233557"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Universit\u00e9 de Sherbrooke - Service des biblioth\u00e8ques et archives",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Pavillon Georges-Cabana (B2) Universit\u00e9 de Sherbrooke 2500, Boulevard de l\u2019Universit\u00e9",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785572",
+                    "version": "11233557"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Sherbrooke",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785573",
+                    "version": "11233557"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA-QC",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785574",
+                    "version": "11233557"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "J1K 2R1",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785575",
+                    "version": "11233557"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785576",
+                    "version": "11233557"
+                }
+            ],
+            "geoplace": {
+                "id": "16281",
+                "name": "Universit\u00e9 de Sherbrooke - Service des biblioth\u00e8ques et archives",
+                "latitude": "45.3812410",
+                "longitude": "-71.9306410"
+            },
+            "confirmed": true,
+            "id": "76785571",
+            "version": "11233557"
+        }
+    ],
+    "id": "76785567",
+    "version": "11233560"
+}

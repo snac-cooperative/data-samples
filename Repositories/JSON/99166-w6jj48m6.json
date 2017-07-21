@@ -1,0 +1,204 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6jj48m6",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "CoDMNH",
+            "id": "76766009",
+            "version": "11226229"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "45346",
+            "id": "76766010",
+            "version": "11226229"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:29:51",
+            "standardDateTime": "2016-11-22T11:29:51",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Denver Museum of Nature & Science, Alfred M. Bailey Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Denver Museum of Nature & Science, Alfred M. Bailey Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76766008",
+                    "version": "11226229"
+                }
+            ],
+            "id": "76766007",
+            "version": "11226229"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76766006",
+            "targetConstellation": "76791645",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6jj48m6",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w66v19ds",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Alfred M. Bailey Library and Archives,Denver Museum of Nature & Science"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Denver Museum of Nature & Science, Alfred M. Bailey Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "2001 Colorado Blvd",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766012",
+                    "version": "11226229"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Library, Mailbox 06",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766013",
+                    "version": "11226229"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Denver",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766014",
+                    "version": "11226229"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-CO",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766015",
+                    "version": "11226229"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "80205-5798",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766016",
+                    "version": "11226229"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766017",
+                    "version": "11226229"
+                }
+            ],
+            "geoplace": {
+                "id": "16412",
+                "name": "Denver Museum of Nature & Science, Alfred M. Bailey Library",
+                "latitude": "39.7475750",
+                "longitude": "-104.9409800"
+            },
+            "confirmed": true,
+            "id": "76766011",
+            "version": "11226229"
+        }
+    ],
+    "id": "76766006",
+    "version": "11226232"
+}

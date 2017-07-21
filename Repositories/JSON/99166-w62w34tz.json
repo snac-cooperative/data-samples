@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w62w34tz",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:19:05",
+            "standardDateTime": "2016-11-28T17:19:05",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Arizona State University Libraries Arizona Collection",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Arizona State University Libraries Arizona Collection",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76791896",
+                    "version": "11236005"
+                }
+            ],
+            "id": "76791895",
+            "version": "11236005"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791894",
+            "targetConstellation": "71164154",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62w34tz",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6rr7rm2",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Arizona State University. Libraries. Arizona Collection."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791894",
+            "targetConstellation": "76791912",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62w34tz",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6pm14wx",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Arizona State University Libraries Child Drama Collection"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Arizona State University Libraries Arizona Collection",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Arizona State University Libraries P.O. Box 871006 Tempe, Arizona 85287-1006 Phone: 480 965 4932 Fax: 480 965 776 E-Mail: archives@asu.edu",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76791898",
+                    "version": "11236005"
+                }
+            ],
+            "id": "76791897",
+            "version": "11236005"
+        }
+    ],
+    "id": "76791894",
+    "version": "11236008"
+}

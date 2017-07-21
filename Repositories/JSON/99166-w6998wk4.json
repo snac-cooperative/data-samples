@@ -1,0 +1,158 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6998wk4",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "Uk",
+            "id": "76784109",
+            "version": "11233017"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "32305",
+            "id": "76784110",
+            "version": "11233017"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:45:15",
+            "standardDateTime": "2016-11-22T11:45:15",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "The British Library, On Demand, The British Library, Document Supply, Boston Spa",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "The British Library, On Demand, The British Library, Document Supply, Boston Spa",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76784108",
+                    "version": "11233017"
+                }
+            ],
+            "id": "76784107",
+            "version": "11233017"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "The British Library, On Demand, The British Library, Document Supply, Boston Spa",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Boston Spa",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784112",
+                    "version": "11233017"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Wetherby, West Yorkshire",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784113",
+                    "version": "11233017"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "LS23 7BQ",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784114",
+                    "version": "11233017"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "GB",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784115",
+                    "version": "11233017"
+                }
+            ],
+            "geoplace": {
+                "id": "16587",
+                "name": "The British Library, On Demand, The British Library, Document Supply, Boston Spa",
+                "latitude": "53.9191132",
+                "longitude": "-1.3227330"
+            },
+            "confirmed": true,
+            "id": "76784111",
+            "version": "11233017"
+        }
+    ],
+    "id": "76784106",
+    "version": "11233020"
+}

@@ -1,0 +1,87 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6dc8qm4",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:23:56",
+            "standardDateTime": "2016-11-28T17:23:56",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Liberian Collectionshttp:\/\/www.onliberia.org",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Liberian Collectionshttp:\/\/www.onliberia.org",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794172",
+                    "version": "11238193"
+                }
+            ],
+            "id": "76794171",
+            "version": "11238193"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Liberian Collectionshttp:\/\/www.onliberia.org",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Liberian Collections Indiana University 504 North Fess Avenue Bloomington, IN 47408 Phone: (812) 856-0782 Email: liberia@indiana.edu",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76794174",
+                    "version": "11238193"
+                }
+            ],
+            "id": "76794173",
+            "version": "11238193"
+        }
+    ],
+    "id": "76794170",
+    "version": "11238196"
+}

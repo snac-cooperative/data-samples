@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6bq0r8v",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "KFlGs,KFlACP",
+            "id": "76770488",
+            "version": "11227969"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "72895",
+            "id": "76770489",
+            "version": "11227969"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:33:46",
+            "standardDateTime": "2016-11-22T11:33:46",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Ike Skelton Combined Arms Research Library, Ike Skelton Combined Arms Research Library; CARL; Fort Leavenworth Library;",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Ike Skelton Combined Arms Research Library, Ike Skelton Combined Arms Research Library; CARL; Fort Leavenworth Library;",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76770487",
+                    "version": "11227969"
+                }
+            ],
+            "id": "76770486",
+            "version": "11227969"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Ike Skelton Combined Arms Research Library, Ike Skelton Combined Arms Research Library; CARL; Fort Leavenworth Library;",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "250 Gibbon Avenue",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770491",
+                    "version": "11227969"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Attn: ATZL-LSA-Y",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770492",
+                    "version": "11227969"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Fort Leavenworth",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770493",
+                    "version": "11227969"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-KS",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770494",
+                    "version": "11227969"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "66027-7800",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770495",
+                    "version": "11227969"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770496",
+                    "version": "11227969"
+                }
+            ],
+            "geoplace": {
+                "id": "15480",
+                "name": "Ike Skelton Combined Arms Research Library, Ike Skelton Combined Arms Research Library; CARL; Fort Leavenworth Library;",
+                "latitude": "39.3467216",
+                "longitude": "-94.9158630"
+            },
+            "confirmed": true,
+            "id": "76770490",
+            "version": "11227969"
+        }
+    ],
+    "id": "76770485",
+    "version": "11227972"
+}

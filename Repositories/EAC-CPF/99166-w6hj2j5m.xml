@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6hj2j5m</recordId>
+    <otherRecordId localType="http://viaf.org/viaf/terms#viafID">136204389</otherRecordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <conventionDeclaration>
+      <citation>VIAF</citation>
+    </conventionDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="">2015-09-17</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>CPF merge program</agent>
+        <eventDescription>Merge v2.0</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-18T03:26:41">2016-08-18T03:26:41</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Parser</agent>
+        <eventDescription>Bulk ingest into SNAC Database</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-18T03:26:41">2016-08-18T03:26:41</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription/>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+      <source xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hou00046" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/harvard/hou00046.xml</filename>
+            <ead_entity en_type="corpname">University of New England.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/192007324" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/262623467" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://viaf.org/viaf/136204389" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.oac.cdlib.org/ark:/13030/tf8g5006rh" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/oac/berkeley/bancroft/m69_33_cubanc.xml</filename>
+            <ead_entity en_type="corpname">University of New England</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=sch01194" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/harvard/sch01194.xml</filename>
+            <ead_entity en_type="corpname">University of New England,</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <nameEntry snac:preferenceScore="99">
+        <part>University of New England</part>
+      </nameEntry>
+      <nameEntry>
+        <part>New England University</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Armidale, Australia. University of New England</part>
+      </nameEntry>
+      <nameEntry>
+        <part>University of New England Ehemalige Vorzugsbenennung SWD</part>
+      </nameEntry>
+      <nameEntry>
+        <part>University of New England - Armidale</part>
+      </nameEntry>
+      <nameEntry>
+        <part>UNE</part>
+      </nameEntry>
+      <nameEntry>
+        <part>UNE Abkuerzung</part>
+      </nameEntry>
+      <nameEntry>
+        <part>University of New England, NSW</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Armidale (N.S.W.) University of New England</part>
+      </nameEntry>
+    </identity>
+    <description>
+                                                                                                            
+            
+            
+            
+            
+                        
+        </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6gt7scj">
+        <relationEntry>Bernice Resnick Sandler</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6086gfg">
+        <relationEntry>Condliffe, J. B. (John Bell), 1891-1981</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6hn17gk">
+        <relationEntry>Deborah Morton Society (University of New England)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6p58t9r">
+        <relationEntry>Glassman, Caroline D. (Caroline Duby), 1922-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w64f246n">
+        <relationEntry>Yourcenar, Marguerite.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://viaf.org/viaf/136204389">
+        <relationEntry>University of New England</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://www.worldcat.org/wcidentities/lccn-n80069074">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://id.loc.gov/authorities/names/n80069074">
+        <relationEntry/>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Acta of the University of New England (Armidale, Australia)</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Acta of the University of New England (Armidale, Australia)</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Time and geology</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Time and geology</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The role of science in the development of the animal industries of Australia</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The role of science in the development of the animal industries of Australia</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Literature and its study in a university context</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Literature and its study in a university context</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Working the walk : activating reconciliation</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Working the walk : activating reconciliation</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Wildlife conservation in Eastern Australia.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Wildlife conservation in Eastern Australia.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>J. educ. adm.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>J. educ. adm.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>&amp;quot;Dictionary&amp;quot; Johnson</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>&amp;quot;Dictionary&amp;quot; Johnson</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Eternal vigilance; the duplicity of psychology</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Eternal vigilance; the duplicity of psychology</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Monographs</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Monographs</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Recent advances in animal nutrition in Australia.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Recent advances in animal nutrition in Australia.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Sustainable education on engineering sustainability</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Sustainable education on engineering sustainability</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.oac.cdlib.org/ark:/13030/tf8g5006rh">
+        <relationEntry>J. B. (John Bell) Condliffe Papers: Additions, 1919-1981, 1960-1969</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Condliffe, J. B. (John Bell),          1891-1981</persname>
+            </origination>
+            <unittitle>J. B. (John Bell) Condliffe Papers: Additions 1919-1981 1960-1969</unittitle>
+            <physdesc>
+              <extent>Number of containers: 14 boxes, 24 cartons, 1 oversize folder; Linear feet: 35.8</extent>
+            </physdesc>
+            <abstract>Correspondence (personal and professional); manuscripts of his        autobiography and other writings, speeches, and lecture notes; correspondence and subject        files relating to his work with Stanford Research Institute; Subject files; clippings, and        miscellaneous personal papers concerning his life and activities with family, friends, and        associates involved in teaching and writing.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6xf1qhg">The Bancroft Library.</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Hypermedia Joyce studies</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Hypermedia Joyce studies</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>[Papers.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>[Papers.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Sex, politics, and religion, 1999:</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Sex, politics, and religion, 1999:</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hou00046">
+        <relationEntry>Marguerite Yourcenar additional papers, 1842-1996.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Yourcenar, Marguerite. </persname>
+            </origination>
+            <unittitle>Marguerite Yourcenar additional papers, 1842-1996.</unittitle>
+            <physdesc>
+              <extent>144 boxes and 53 volumes (52 linear ft.)</extent>
+            </physdesc>
+            <abstract>Additional papers of Marguerite Yourcenar (1903-1987), the French author, as well as        papers of her companion, Grace Frick.</abstract>
+            <langmaterial>
+              <language langcode="fre">French</language>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6zt3k8j">Houghton Library, , Harvard College Library, Harvard University</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Future pathways : equity or isolation</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Future pathways : equity or isolation</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/262623467">
+        <relationEntry>Glassman, Caroline D. (Caroline Duby), 1922-. Justice Caroline D. Glassman collection, ca. 1940-2007 (bulk 1983-2007).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Glassman, Caroline D. (Caroline Duby), 1922-</persname>
+            </origination>
+            <unittitle>Justice Caroline D. Glassman collection, ca. 1940-2007 (bulk 1983-2007).</unittitle>
+            <physdesc>
+              <extent>1 scrapbook (oversized)</extent>
+            </physdesc>
+            <abstract>The collection contains a 1983 scrapbook documenting Glassman's nomination to Maine's Supreme Judicial Court by Governor Joseph E. Brennan, her appointment, and swearing in celebrations. Contents include newspaper clippings; personal data documents, photographs, and official and personal congratulatory messages. Also included in the collection: biographical information; official and candid photographs; correspondence; invitations; speeches; documents regarding her reappointment to the Supreme Court; and honors including Deborah Morton Award given by the Deborah Morton Society (University of New England, formerly Westbrook College), and honorary degrees from Bowdoin College, Husson College, Willamette University, and the University of New England. Other articles and notes regarding the Maine State Bar Association Caroline Duby Glassman Award, the University of Maine School of Law Justice Harry Glassman Scholarship, and her 1997 retirement from the Supreme Court are included. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6d619fj">Maine Historical Society Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Local government and citizenship; selected papers from two seminars, Grafton-Taree, 1962.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Local government and citizenship; selected papers from two seminars, Grafton-Taree, 1962.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Policy and planning in higher education: [papers]</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Policy and planning in higher education: [papers]</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Uses of history</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Uses of history</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The political economy of broadcasting</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The political economy of broadcasting</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Careers in agricultural economics</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Careers in agricultural economics</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Justice in black hands : a new approach for a new millennia</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Justice in black hands : a new approach for a new millennia</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=sch01194">
+        <relationEntry>Papers of Bernice Resnick Sandler, 1963-2008</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Bernice Resnick Sandler</persname>
+            </origination>
+            <unittitle>Papers of Bernice Resnick Sandler, 1963-2008</unittitle>
+            <physdesc>
+              <extent>28.98 linear ft.; (69 + 1/2 file boxes) plus 1 folio folder, 2 folio+ folders, 1 oversize folder, 2 supersize folders, 2 audiotapes, 16 videotapes, 1 CD, 5 photograph folders, 1 photoCD, 29 objects, and electronic records</extent>
+            </physdesc>
+            <abstract>Correspondence, writings, testimonies, speeches, subject files, photographs, and audiovisual material of Bernice Resnick Sandler, feminist and activist specializing in  educational equity for women, gender issues in higher education, and other issues of women's rights and equality.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6wf4pf0">Schlesinger Library, Radcliffe Institute</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The poverty and promise of sociology in Australia</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The poverty and promise of sociology in Australia</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/192007324">
+        <relationEntry>Deborah Morton Society (University of New England). Deborah Morton Society, University of New England collection, 2000-2007.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Deborah Morton Society (University of New England)</persname>
+              <persname>Butler, Joyce.</persname>
+            </origination>
+            <unittitle>Deborah Morton Society, University of New England collection, 2000-2007.</unittitle>
+            <physdesc>
+              <extent>.25 linear ft.</extent>
+            </physdesc>
+            <abstract>The collection contains papers related mainly to the Deborah Morton Society, namely steering committee lists, a nomination worksheet, programs for the society convocation ceremonies (2000, 2004-2006), a society newsletter (vol. 3, no. 3, July 2004), and personal thank yous from award winners. Other miscellaneous documents include official letters from the University of New England president to alumni, friends, and supporters; an obituary for Louise Parker James clipped from the Portland Press Herald; and a photocopy of a Down East magazine article about the university. The collection was compiled by Joyce Butler, a previous recipient of the award, and a member of the steering committee. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6d619fj">Maine Historical Society Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Country press; proceedings of the second seminar for provincial journalists held at the University of New England, May, 1966.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Country press; proceedings of the second seminar for provincial journalists held at the University of New England, May, 1966.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The agronomist and pasture production.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The agronomist and pasture production.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The land of Ulitarra; early records of the aborigines of the mid-north coast of New South Wales</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The land of Ulitarra; early records of the aborigines of the mid-north coast of New South Wales</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Education in the organizational society; the role of a faculty of education</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Education in the organizational society; the role of a faculty of education</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>HJS</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>HJS</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>University of New England monographs.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>University of New England monographs.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Einstein, mathematics, and reality</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Einstein, mathematics, and reality</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Journal of educational administration.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Journal of educational administration.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Does where we live matter?</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Does where we live matter?</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

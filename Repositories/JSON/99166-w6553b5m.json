@@ -1,0 +1,191 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6553b5m",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "MiHM",
+            "id": "76774542",
+            "version": "11229461"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "87201",
+            "id": "76774543",
+            "version": "11229461"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:37:09",
+            "standardDateTime": "2016-11-22T11:37:09",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Michigan Technological University, J.R. Van Pelt & Opie Library; Michigan Tech",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Michigan Technological University, J.R. Van Pelt & Opie Library; Michigan Tech",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76774541",
+                    "version": "11229461"
+                }
+            ],
+            "id": "76774540",
+            "version": "11229461"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76774539",
+            "targetConstellation": "24232389",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6553b5m",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6966p24",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Michigan Technological University. J.R. Van Pelt Library and John and Ruanne Opie Library"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Michigan Technological University, J.R. Van Pelt & Opie Library; Michigan Tech",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "1400 Townsend Drive",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774545",
+                    "version": "11229461"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Houghton",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774546",
+                    "version": "11229461"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-MI",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774547",
+                    "version": "11229461"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "49931",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774548",
+                    "version": "11229461"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774549",
+                    "version": "11229461"
+                }
+            ],
+            "geoplace": {
+                "id": "16533",
+                "name": "Michigan Technological University, J.R. Van Pelt & Opie Library; Michigan Tech",
+                "latitude": "47.1190000",
+                "longitude": "-88.5514000"
+            },
+            "confirmed": true,
+            "id": "76774544",
+            "version": "11229461"
+        }
+    ],
+    "id": "76774539",
+    "version": "11229464"
+}

@@ -1,0 +1,191 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6815r30",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "MiDA",
+            "id": "76766124",
+            "version": "11226269"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "46836",
+            "id": "76766125",
+            "version": "11226269"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:29:57",
+            "standardDateTime": "2016-11-22T11:29:57",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Detroit Institute of Arts Research Library & Archives, DIA Research Library & Archives",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Detroit Institute of Arts Research Library & Archives, DIA Research Library & Archives",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76766123",
+                    "version": "11226269"
+                }
+            ],
+            "id": "76766122",
+            "version": "11226269"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76766121",
+            "targetConstellation": "6573895",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6815r30",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w693695w",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Detroit Institute of Arts Research Library & Archives."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Detroit Institute of Arts Research Library & Archives, DIA Research Library & Archives",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "5200 Woodward Ave",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766127",
+                    "version": "11226269"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Detroit",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766128",
+                    "version": "11226269"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-MI",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766129",
+                    "version": "11226269"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "48202-4094",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766130",
+                    "version": "11226269"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76766131",
+                    "version": "11226269"
+                }
+            ],
+            "geoplace": {
+                "id": "17426",
+                "name": "Detroit Institute of Arts Research Library & Archives, DIA Research Library & Archives",
+                "latitude": "42.3734000",
+                "longitude": "-83.0770000"
+            },
+            "confirmed": true,
+            "id": "76766126",
+            "version": "11226269"
+        }
+    ],
+    "id": "76766121",
+    "version": "11226272"
+}

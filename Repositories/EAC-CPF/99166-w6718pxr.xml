@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6718pxr</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-11-22T11:31:55">2016-11-22T11:31:55</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+                    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <entityId>GAE-P</entityId>
+      <entityId>113701</entityId>
+      <nameEntry snac:preferenceScore="99">
+        <part>Georgia Public Library Service - Board of Regents</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
+        <snac:placeEntry>
+          <placeEntry>Georgia Public Library Service - Board of Regents</placeEntry>
+          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="33.8483000" longitude="-84.3154000" administrationCode="" countryCode="">Georgia Public Library Service - Board of Regents
+                    </snac:placeEntryBestMaybeSame>
+        </snac:placeEntry>
+      </place>
+    </description>
+    <relations>
+                                            </relations>
+  </cpfDescription>
+</eac-cpf>

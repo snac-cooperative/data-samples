@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6718q4v",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "CaNBFUL",
+            "id": "76787328",
+            "version": "11234165"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "75313",
+            "id": "76787329",
+            "version": "11234165"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:47:56",
+            "standardDateTime": "2016-11-22T11:47:56",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of New Brunswick Law Library, Gerard V. La Forest Law Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of New Brunswick Law Library, Gerard V. La Forest Law Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76787327",
+                    "version": "11234165"
+                }
+            ],
+            "id": "76787326",
+            "version": "11234165"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "University of New Brunswick Law Library, Gerard V. La Forest Law Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "2nd Floor, Ludlow Hall",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76787331",
+                    "version": "11234165"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "41 Dineen Drive, UNB Campus",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76787332",
+                    "version": "11234165"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Fredericton",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76787333",
+                    "version": "11234165"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA-NB",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76787334",
+                    "version": "11234165"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "E3B 5A3",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76787335",
+                    "version": "11234165"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76787336",
+                    "version": "11234165"
+                }
+            ],
+            "geoplace": {
+                "id": "15872",
+                "name": "University of New Brunswick Law Library, Gerard V. La Forest Law Library",
+                "latitude": "45.9461579",
+                "longitude": "-66.6448350"
+            },
+            "confirmed": true,
+            "id": "76787330",
+            "version": "11234165"
+        }
+    ],
+    "id": "76787325",
+    "version": "11234168"
+}

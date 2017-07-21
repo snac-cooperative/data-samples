@@ -1,0 +1,667 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-02-25",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T07:38:24",
+            "standardDateTime": "2016-08-10T07:38:24",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T07:38:24",
+            "standardDateTime": "2016-08-10T07:38:24",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: EAD from http:\/\/www.oac.cdlib.org\/ark:\/13030\/kt987022k7",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/oac\/getty\/spcoll\/97.R.36.xml<\/filename>\n                  <ead_entity en_type=\"persname\" source=\"aacr2\">Getty Research Institute<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/www.oac.cdlib.org\/ark:\/13030\/kt987022k7",
+            "id": "9562800",
+            "version": "1389272"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Getty Research Institute",
+            "preferenceScore": "1",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Getty Research Institute",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "9562802",
+                    "version": "1389272"
+                }
+            ],
+            "id": "9562801",
+            "version": "1389272",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"oac\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "77583205",
+                    "version": "1389272"
+                }
+            ]
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "9562799",
+                "version": "1389272"
+            },
+            "text": "<biogHist>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">\n               <span localType=\"http:\/\/socialarchive.iath.virginia.edu\/control\/term#ead\/head\">Biographical\/Historical Note<\/span>\n            <\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Biographies of people featured in Soviet photographs. Please note that several sources were used to compile these biographies. Where the Great Soviet Encyclopedia was used, it is noted after the entry, since the information it offers is sometimes incomplete.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Avtonomov, Aleksei Ivanovich (1890-1919) WWI participant on Caucasus front. Joined Soviets in 1917. In February 1918 appointed Commander of Southeastern Revolutionary Army; in May 1918 removed from command by decree of Third Congress of Soviets. Sent to Northern Caucasus to serve in Civil War. Died there, presumably of typhus. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Bonch-Bruevich, Mikhail Dmitrievich (1870-1956) Tsarist military officer who joined Red Army, becoming Chief of staff of High Command of military, second to Trotsky. In March 1918 made head of Supreme Military Council. After 1923 engaged in scholarship in area of geodetics.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Bonch-Bruevich, Vladimir D. (1873-1955) Founding member of Russian Social Democratic Labor Party, later close associate of Lenin. Administrative officer in Soviet government 1917-1920. Remainder of career spent in academic or publishing pursuits.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Bukharin, Nikolai Ivanovich (1888-1938) The party's leading theoretician and economist, a Left Communist. In 1918 opposed Brest-Litovsk. In 1920s supported Lenin's New Economic Program. 1924-27 joined Stalin in the Politboro as one of the top leaders. Expelled from Politboro 1929. Executed in 1938 after show trial.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Dybenko, Pavel Efimovich (1889-1938) Member of Military Revolutionary Committee that created the October Revolution. Played key role in the Civil War, 1918-1920. Tried in May 1918 and acquitted of the surrender of Narva to the Germans, which occurred when he was People's Commissar for Naval Affairs. Red Army commander from 1928 until 1938, when he was executed in Stalin's purge of the military.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Iaroslavsky (pseud. of Gubel'man, Minei Izrailovich) (1878-1943) Soviet publicist, historian, journalist. Took part in October Revolution attack on Kremlin. Became first commissar of Moscow Military District. In 1918 a Left Communist closely associated with Bukharin. In 1920, a member of the Central Committee of Russian Communist Party. Throughout 1930s edited and published official party histories.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Kamenev, Lev Borisovich (1883-1936) On Central Committee of Russian Communist Party, Editor of Pravda, Chairman of Moscow Soviet, 1920-1925. Joined with Stalin and Zinoviev in opposition to Trotsky, a position he later reversed, after suppressing the indictment of Stalin in Lenin's \u201ctestament.\u201d Executed after Stalin show trial, 1936.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Karakhan, Lev Mikhailovich (1889-1937) A leader of October Revolution. November 1917-18 was secretary to Soviet delegation at negotiations leading to Brest-Litovsk. In 1918-20 was Deputy People's Commissar for foreign affairs. Served as ambassador abroad to various countries. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Krasikov, Petr Ananevich (1870-1939) After 1917, Chair of committee to combat counterrevolution and profiteering. Managed department of religion under People's Committee of Justice. In 1933-38 was Vice-Chairman of Supreme Court of USSR. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Krylenko, Nikolai Vasilevich (1885-1938) Supreme Commander-in-Chief and People's Commissar on Military Affaris, 1917-1918. Chief state prosecutor for major political trials, 1918-1931. Commissar of Justice, 1931-36. Arrested in 1937 and shot without trial.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Malkov, Pavel Dmitrievich (1887-1965) In 1917 took part in storming of the Winter Palace. In 1918, was Commandant of Moscow Kremlin. 1920-22 served in Red Army. In 1923 was transferred to economic managerial work. Retired with pension in 1954 and wrote memoirs. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Muralov, Aleksandr Ivanovich (1886-1937) In October 1917 was Chair of Aleksin district committee. 1920-23 Chairman of Moscow Council of National Economy. USSR's People's Commissioner of Agriculture 1933-36. ( Sov. Enc .)<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Muranov, Matvei Konstantinovich (1873-1959) Member editorial board of Pravda . Member of Central Committee, 1917-23. In 1922-34 member of Central Control Commission. In All-Russian Central Executive Committee from 1934-37. Retired 1939. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Nogin, Viktor Pavlovich (1878-1924) Important right-wing Bolshevik. In 1918 Commissar of Trade and Industry. Resigned from Central Committee in 1919 along with Zinoviev because no other socialist parties were allowed. Later in charge of textile industry. Died during surgery for stomach ulcers.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Podbelsky, Vadim Nikolaevich (1887-1920) Took part in October Revolution. Served as People's Commissar of Post and Telegraph. Helped suppress counterrevolutionary rebellions in Moscow and Iaroslavl. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Podvoisky, Nikolai I. (1880-1948) In 1917 member of Military Revolutionary Committee. Took part in seizure of Winter Palace in October Revolution. Held military posts in civil war and government posts afterward, until sinking into obscurity.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Rakovski, Khristian Georgevich (1873-1941) Doctor and diplomat. In 1918 elected chairman of Ukrainian Council of People's Commissars and member of Central Committee of Russian Communist Party. Later expelled as Trotskyist and died in concentration camp.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Rogov, Mikhail Ivanovich (1880-1942) 1917-1918 was deputy Chairman of the Moscow Soviet. In 1929 was Deputy People's Commissar of Finance for USSR. Member, Central Executive Committee of USSR, 1934-37.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Sereda, Semen Pafnut'evich (1871-1933) People's Commissar of Agriculture, 1918-21. 1922-27 Deputy Chairman of Supreme Council on National Economy. 1927-30 Chair of Council of People's Commissars. Member Central Executive Comittee. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Shlikhter, Aleksander Grigor'evich (1868-1940) 1917-1919, People's Commissioner of Agriculture and People's Commissar of Foodstuffs. 1927-29 People's Commissar of Agriculture of Ukrainian SSR. 1926-37 was candidate member of Politboro of Central Committee.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Skliansky, Efraim Markovich (1892-1925) 1917-18 Deputy of People's Committee for Naval Affairs. March 1918 member of Supreme Military Council. 1918-1924 Deputy Chair of Revolutionary Military Council. 1924 directed work of Supreme Council on National Economy. Drowned while on official business in USA. ( Sov. Enc. )<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Skobelev, Mikhail D. (1843-1882) Russian general, famous for his role in Russia's expansion into Central Asia in the 1870s and his victories in the Russo-Turkish War of 1877-1978.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Steklov, Yuri M. (1873-1941) Held prominent posts in Russian government. Wrote on history of socialism. Died in one of Stalin's purges.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Sverdlov, Iakov Mikhailovich (1885-1919) Chairman of All-Russian Central Executive Committee of Soviets. Key figure in organization and administration of Bolsheviks. Maneuvered to exclude all government parties not agreeing with Lenin. August 1918-March 1919, consolidated organizational structure of party on principle of centralism. Began amassing files on party workers. Died of Spanish flu.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Trotsky, Leon D. (1879-1940) Orator, writer, and military leader. Joined the Bolsheviks in 1917 and played a key role in the October revolution. Commissar of War, 1918-1925. Leader of the left opposition in the Soviet Communist Party in mid-1920s. Expelled from USSR by Stalin in 1929. Assassinated by Stalinist agent in Mexico, 1940.<\/p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Historical Chronology<\/p>\n            <chronList xmlns=\"urn:isbn:1-931666-33-4\">\n               <chronItem>\n                  <date>January-March:<\/date>\n                  <event>Invasion and occupation of Ukraine by Lenin's troops.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date>February:<\/date>\n                  <event>Red Army formed with Trotsky as its leader.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0003-03\">March 3:<\/date>\n                  <event>Brest-Litovsk treaty between USSR and Germany: Bolsheviks expelled from Ukrainian territory.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0012-04\">April 12:<\/date>\n                  <event>Lenin issues decree on Removing Monuments Erected in Honor of the Tsars and Their Servants. Skobelev monument removed by May 1.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0022-04\">April 22:<\/date>\n                  <event>Transcaucasian Federation proclaims independence.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <dateRange>\n                     <fromDate standardDate=\"0029-04\">April 29<\/fromDate>\n                     <toDate standardDate=\"0014-12\">Dec. 14:<\/toDate>\n                  <\/dateRange>\n                  <event>German-backed government rules Ukraine, led by Skoropadskyi<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0001-05\">May 1:<\/date>\n                  <event>First parade of Red Army on Khodynka Field. Inheritance abolished.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date>May?:<\/date>\n                  <event>Dybenko tried and acquitted.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0020-05\">May 20:<\/date>\n                  <event>Decree creating food supply detachments.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0022-05\">May 22:<\/date>\n                  <event>Czech rebellion begins.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date>Early June:<\/date>\n                  <event>British landing at Archangel.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <dateRange>\n                     <fromDate standardDate=\"0004-07\">July 4<\/fromDate>\n                     <toDate standardDate=\"0007\">7:<\/toDate>\n                  <\/dateRange>\n                  <event>Fifth Congress of Soviets.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <dateRange>\n                     <fromDate standardDate=\"0005-07\">July 5<\/fromDate>\n                     <toDate standardDate=\"0020\">20:<\/toDate>\n                  <\/dateRange>\n                  <event>Uprising at Iaroslavl, ending in massacre.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0006-07\">July 6:<\/date>\n                  <event>Left Socialist Revolutionaries revolt (during Fifth Congress)<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0016-07\">July 16:<\/date>\n                  <event>Lenin orders execution of ex-Tsar and his family.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0029-07\">July 29:<\/date>\n                  <event>Compulsory military training introduced.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0007-08\">August 7:<\/date>\n                  <event>Kazan goes to White Army.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0005-09\">September 5:<\/date>\n                  <event>Red Terror begins; Red Army conscription begins.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0010-09\">September 10:<\/date>\n                  <event>Red Army wins back Kazan.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0007-11\">November 7:<\/date>\n                  <event>Official anniversary of Russian Revolution.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date standardDate=\"0014-11\">November 14:<\/date>\n                  <event>Bolsheviks overthrow Ukrainian government.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date>November:<\/date>\n                  <event>End of World War I.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date>November?:<\/date>\n                  <event>Admiral Sablin tried and sentenced to one year in prison for role in Socialist Revolutionaries' revolt.<\/event>\n               <\/chronItem>\n               <chronItem>\n                  <date>December?:<\/date>\n                  <event>Rakovski established as head of Soviet Ukrainian Republic.<\/event>\n               <\/chronItem>\n            <\/chronList>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the guide to the Soviet photographs from 1918, 1918, (Getty Research Institute)<\/citation>\n         <\/biogHist>",
+            "id": "9562798",
+            "version": "1389272"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "22708472",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w69b0dsb",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Bukharin, Nikolai Ivanovich, 1988-1938",
+            "id": "9562816",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "7515486",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6fw0qfb",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Congress of Soviets (5th: 1918: Moscow)\u2014Pictorial works",
+            "id": "9562825",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "43714223",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w66d95vh",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Kamenev, Lev Borisovich, 1883-1936",
+            "id": "9562817",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "40123565",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6b401z8",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Krylenko, N. V. (Nikolai; Vasil'evich), 1885-1938",
+            "id": "9562818",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "33852937",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w63r49sw",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Muralov, Aleksandr Ivanovich, b. 1886",
+            "id": "9562819",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "40370204",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w63k5hb6",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Russian S.F.S.R.\u2014People's Commissariat of Enlightenment",
+            "id": "9562826",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "17979311",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6jf7161",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Soviet Union\u2014Red Army",
+            "id": "9562824",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "21984882",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6bp3mpc",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Steklov, IU. M. (IUrii Mikhailovich), 1873-1941",
+            "id": "9562821",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "58008619",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64x70v7",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Sverdlov, IAkov Mikhailovich, 1885-1919",
+            "id": "9562822",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "9005315",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qj7fs6",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Trotsky, Leon, 1879-1940",
+            "id": "9562820",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "44274362",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6t7336r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Vertov, Dziga, 1896-1954",
+            "id": "9562823",
+            "version": "1389272"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "76768434",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6kb3wz0",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Getty Research Institute, Research Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "9562797",
+            "targetConstellation": "76793343",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61380f1",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w61655tx",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Getty Research Institute"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.oac.cdlib.org\/ark:\/13030\/kt987022k7",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unittitle>Soviet photographs from 1918\n\t\t\n         <\/unittitle>\n                  <unitdate>1918<\/unitdate>\n                  <unitid>97.R.36<\/unitid>\n                  <origination>\n                     <persname>Getty Research Institute<\/persname>\n                  <\/origination>\n                  <physdesc>\n                     <extent>595 items<\/extent>\n                  <\/physdesc>\n                  <repository>\n                     <corpname>Getty Research Institute<\/corpname>\n                     <address>\n                        <addressline>Research Library<\/addressline>\n                        <addressline>Special Collections and Visual Resources<\/addressline>\n                        <addressline>1200 Getty Center Drive, Suite 1100<\/addressline>\n                        <addressline> Los Angeles, California 90049-1688<\/addressline>\n                     <\/address>\n                  <\/repository>\n                  <abstract>A collection of 595 photographs and film stills from 1918 depicts Soviet social programs and key battles of the Civil War.<\/abstract>\n                  <physloc>To access physical materials on site, go to the <extref>library catalog record<\/extref> for this collection and click \"Request an Item.\" Click here for <extref>access policy<\/extref>.<\/physloc>\n                  <langmaterial>Collection material in <language>English<\/language>\n                  <\/langmaterial>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "Soviet photographs from 1918 1918",
+                "abstract": "A collection of 595 photographs and film stills from 1918 depicts Soviet social programs and key battles of the Civil War.",
+                "extent": "595 items",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Getty Research Institute",
+                        "id": "11298563",
+                        "version": "6661480"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "id": "11298564",
+                        "version": "6661480"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w61655tx",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Getty Research Institute",
+                            "preferenceScore": "99",
+                            "id": "76793344",
+                            "version": "11237369"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Getty Research Institute",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Research Library Special Collections and Visual Resources 1200 Getty Center Drive, Suite 1100 Los Angeles, California 90040-1688",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76793347",
+                                    "version": "11237369"
+                                }
+                            ],
+                            "id": "76793346",
+                            "version": "11237369"
+                        }
+                    ],
+                    "id": "76793343",
+                    "version": "11237372"
+                },
+                "id": "6661480",
+                "version": "6661480"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Soviet photographs from 1918, 1918",
+            "id": "9562827",
+            "version": "1389272"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Kiev (Ukraine)",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "geoplace": {
+                "id": "6743",
+                "uri": "http:\/\/www.geonames.org\/703448",
+                "name": "Kiev",
+                "latitude": "50.4546600",
+                "longitude": "30.5238000",
+                "administrationCode": "12",
+                "countryCode": "UA"
+            },
+            "score": "0.25",
+            "id": "9562807",
+            "version": "1389272",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "Kiev (Ukraine)",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "9562808",
+                    "version": "1389272"
+                }
+            ]
+        },
+        {
+            "dataType": "Place",
+            "original": "Moscow (Russia)",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "geoplace": {
+                "id": "8768",
+                "uri": "http:\/\/www.geonames.org\/524901",
+                "name": "Moscow",
+                "latitude": "55.7522200",
+                "longitude": "37.6155600",
+                "administrationCode": "48",
+                "countryCode": "RU"
+            },
+            "score": "0.25",
+            "id": "9562809",
+            "version": "1389272",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "Moscow (Russia)",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "9562810",
+                    "version": "1389272"
+                }
+            ]
+        },
+        {
+            "dataType": "Place",
+            "original": "Kazan' (Russia)",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "geoplace": {
+                "id": "6637",
+                "uri": "http:\/\/www.geonames.org\/551487",
+                "name": "Kazan",
+                "latitude": "55.7887400",
+                "longitude": "49.1221400",
+                "administrationCode": "73",
+                "countryCode": "RU"
+            },
+            "score": "0.142857142857143",
+            "id": "9562805",
+            "version": "1389272",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "Kazan' (Russia)",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "9562806",
+                    "version": "1389272"
+                }
+            ]
+        },
+        {
+            "dataType": "Place",
+            "original": "IAroslavl' (IAroslavskaia oblast', Russia)",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "id": "9562811",
+            "version": "1389272",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "IAroslavl' (IAroslavskaia oblast', Russia)",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "9562812",
+                    "version": "1389272"
+                }
+            ]
+        },
+        {
+            "dataType": "Place",
+            "original": "Soviet Union\u2014History\u2014Revolution\u20141917-1921",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "id": "9562813",
+            "version": "1389272",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "Soviet Union\u2014History\u2014Revolution\u20141917-1921",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "9562814",
+                    "version": "1389272"
+                }
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "124854",
+                "term": "Demonstrations\u2014Russia (Federation)\u2014Moscow",
+                "type": "subject"
+            },
+            "id": "9562815",
+            "version": "1389272"
+        }
+    ],
+    "id": "9562797",
+    "version": "1389273"
+}

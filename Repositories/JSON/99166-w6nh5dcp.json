@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6nh5dcp",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:19:29",
+            "standardDateTime": "2016-11-28T17:19:29",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Biblioth\u00e8que municipale de Lyon",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Biblioth\u00e8que municipale de Lyon",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792078",
+                    "version": "11236173"
+                }
+            ],
+            "id": "76792077",
+            "version": "11236173"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792076",
+            "targetConstellation": "69664363",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nh5dcp",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6878tvw",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Biblioth\u00e8que municipale (Lyon)"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Biblioth\u00e8que municipale de Lyon",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "30, boulevard Vivier-Merle 69431 Lyon Cedex 03 T\u00e9l. : 04.78.62.18.00 http:\/\/www.bm-lyon.fr\/",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792080",
+                    "version": "11236173"
+                }
+            ],
+            "id": "76792079",
+            "version": "11236173"
+        }
+    ],
+    "id": "76792076",
+    "version": "11236176"
+}

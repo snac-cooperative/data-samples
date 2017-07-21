@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w63597zb</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-11-22T11:42:46">2016-11-22T11:42:46</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+                    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <entityId>1295</entityId>
+      <nameEntry snac:preferenceScore="99">
+        <part>Saint Mary's College of Maryland, St. Mary's College of Maryland</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
+        <snac:placeEntry>
+          <placeEntry>Saint Mary's College of Maryland, St. Mary's College of Maryland</placeEntry>
+          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="38.1869000" longitude="-76.4347000" administrationCode="" countryCode="">Saint Mary's College of Maryland, St. Mary's College of Maryland
+                    </snac:placeEntryBestMaybeSame>
+        </snac:placeEntry>
+      </place>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w6fc1666">
+        <relationEntry>St. Mary's College of Maryland</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

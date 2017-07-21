@@ -1,0 +1,193 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6h8146z",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "4323",
+            "id": "76770748",
+            "version": "11228057"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:33:58",
+            "standardDateTime": "2016-11-22T11:33:58",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Indiana University Archives of African American Music & Culture, AAAMC",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Indiana University Archives of African American Music & Culture, AAAMC",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76770747",
+                    "version": "11228057"
+                }
+            ],
+            "id": "76770746",
+            "version": "11228057"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76770745",
+            "targetConstellation": "68728440",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6h8146z",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6s33kbn",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Indiana University, Archives of African American Music and Culture (AAAMC)"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Indiana University Archives of African American Music & Culture, AAAMC",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Music & Culture Smith Res Ctr",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770750",
+                    "version": "11228057"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Ste 180-181, 2805 E 10th St",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770751",
+                    "version": "11228057"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Bloomington",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770752",
+                    "version": "11228057"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-IN",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770753",
+                    "version": "11228057"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "47408",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770754",
+                    "version": "11228057"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770755",
+                    "version": "11228057"
+                }
+            ],
+            "geoplace": {
+                "id": "15977",
+                "name": "Indiana University Archives of African American Music & Culture, AAAMC",
+                "latitude": "39.1736183",
+                "longitude": "-86.4996643"
+            },
+            "confirmed": true,
+            "id": "76770749",
+            "version": "11228057"
+        }
+    ],
+    "id": "76770745",
+    "version": "11228060"
+}

@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6cw56gv",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:21:21",
+            "standardDateTime": "2016-11-28T17:21:21",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Dolph Briscoe Center for American History, Archives of American Mathematics, The University of Texas at Austin",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Dolph Briscoe Center for American History, Archives of American Mathematics, The University of Texas at Austin",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792994",
+                    "version": "11237017"
+                }
+            ],
+            "id": "76792993",
+            "version": "11237017"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792992",
+            "targetConstellation": "76791814",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cw56gv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nt1hn3",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Archives of American Mathematics, Dolph Briscoe Center for American History, The University of Texas at Austin"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792992",
+            "targetConstellation": "76798082",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cw56gv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w68x437h",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Texas at Austin, Dolph Briscoe Center for AmericanHistory"
+        }
+    ],
+    "id": "76792992",
+    "version": "11237020"
+}

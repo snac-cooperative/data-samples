@@ -1,0 +1,87 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w67q9n5r",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:18:43",
+            "standardDateTime": "2016-11-28T17:18:43",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Archive of Folk Culture, American Folklife Center Library of Congress,http:\/\/hdl.loc.gov\/loc.afc\/folklife.home",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Archive of Folk Culture, American Folklife Center Library of Congress,http:\/\/hdl.loc.gov\/loc.afc\/folklife.home",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76791749",
+                    "version": "11235845"
+                }
+            ],
+            "id": "76791748",
+            "version": "11235845"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Archive of Folk Culture, American Folklife Center Library of Congress,http:\/\/hdl.loc.gov\/loc.afc\/folklife.home",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Washington, D.C.",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76791751",
+                    "version": "11235845"
+                }
+            ],
+            "id": "76791750",
+            "version": "11235845"
+        }
+    ],
+    "id": "76791747",
+    "version": "11235848"
+}

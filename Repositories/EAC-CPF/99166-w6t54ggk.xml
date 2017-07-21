@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6t54ggk</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-11-22T11:31:27">2016-11-22T11:31:27</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+                    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <entityId>THenF</entityId>
+      <entityId>2749</entityId>
+      <nameEntry snac:preferenceScore="99">
+        <part>Freed Hardeman University, Hope Barber Shull Academic Resource Center, Loden-Daniel Library, Loden-Daniel Library</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
+        <snac:placeEntry>
+          <placeEntry>Freed Hardeman University, Hope Barber Shull Academic Resource Center, Loden-Daniel Library, Loden-Daniel Library</placeEntry>
+          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="35.4409599" longitude="-88.6370239" administrationCode="" countryCode="">Freed Hardeman University, Hope Barber Shull Academic Resource Center, Loden-Daniel Library, Loden-Daniel Library
+                    </snac:placeEntryBestMaybeSame>
+        </snac:placeEntry>
+      </place>
+    </description>
+    <relations>
+                                            </relations>
+  </cpfDescription>
+</eac-cpf>

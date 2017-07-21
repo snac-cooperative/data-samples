@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w62c9mtv",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:25:09",
+            "standardDateTime": "2016-11-28T17:25:09",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "National Fairground Archive, University of Sheffield",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "National Fairground Archive, University of Sheffield",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794806",
+                    "version": "11238761"
+                }
+            ],
+            "id": "76794805",
+            "version": "11238761"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794804",
+            "targetConstellation": "76794801",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62c9mtv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6621p58",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "National Fairground Archive, Sheffield University"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794804",
+            "targetConstellation": "76798020",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62c9mtv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6bs9g2z",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Sheffield National Fairground Archive"
+        }
+    ],
+    "id": "76794804",
+    "version": "11238764"
+}

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w61380f1</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <languageDeclaration>
+      <language languageCode="eng">English</language>
+      <script scriptCode="Latn">Latin</script>
+    </languageDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="">2015-02-25</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>CPF merge program</agent>
+        <eventDescription>Merge v2.0</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-10T07:38:24">2016-08-10T07:38:24</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Parser</agent>
+        <eventDescription>Bulk ingest into SNAC Database</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-10T07:38:24">2016-08-10T07:38:24</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription/>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+      <source xlink:href="http://www.oac.cdlib.org/ark:/13030/kt987022k7" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/oac/getty/spcoll/97.R.36.xml</filename>
+            <ead_entity en_type="persname" source="aacr2">Getty Research Institute</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry snac:preferenceScore="1">
+        <part>Getty Research Institute</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Demonstrations—Russia (Federation)—Moscow</term>
+      </localDescription>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <snac:placeEntry>
+          <placeEntry>Kiev (Ukraine)</placeEntry>
+          <snac:placeEntryLikelySame certaintyScore="0.25" vocabularySource="http://www.geonames.org/703448" latitude="50.4546600" longitude="30.5238000" administrationCode="12" countryCode="UA">Kiev
+                    </snac:placeEntryLikelySame>
+        </snac:placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <snac:placeEntry>
+          <placeEntry>Moscow (Russia)</placeEntry>
+          <snac:placeEntryLikelySame certaintyScore="0.25" vocabularySource="http://www.geonames.org/524901" latitude="55.7522200" longitude="37.6155600" administrationCode="48" countryCode="RU">Moscow
+                    </snac:placeEntryLikelySame>
+        </snac:placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <snac:placeEntry>
+          <placeEntry>Kazan' (Russia)</placeEntry>
+          <snac:placeEntryLikelySame certaintyScore="0.142857142857143" vocabularySource="http://www.geonames.org/551487" latitude="55.7887400" longitude="49.1221400" administrationCode="73" countryCode="RU">Kazan
+                    </snac:placeEntryLikelySame>
+        </snac:placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>IAroslavl' (IAroslavskaia oblast', Russia)</placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>Soviet Union—History—Revolution—1917-1921</placeEntry>
+      </place>
+      <biogHist>
+        <p xmlns="urn:isbn:1-931666-33-4">
+          <span localType="http://socialarchive.iath.virginia.edu/control/term#ead/head">Biographical/Historical Note</span>
+        </p>
+        <p xmlns="urn:isbn:1-931666-33-4">Biographies of people featured in Soviet photographs. Please note that several sources were used to compile these biographies. Where the Great Soviet Encyclopedia was used, it is noted after the entry, since the information it offers is sometimes incomplete.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Avtonomov, Aleksei Ivanovich (1890-1919) WWI participant on Caucasus front. Joined Soviets in 1917. In February 1918 appointed Commander of Southeastern Revolutionary Army; in May 1918 removed from command by decree of Third Congress of Soviets. Sent to Northern Caucasus to serve in Civil War. Died there, presumably of typhus. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Bonch-Bruevich, Mikhail Dmitrievich (1870-1956) Tsarist military officer who joined Red Army, becoming Chief of staff of High Command of military, second to Trotsky. In March 1918 made head of Supreme Military Council. After 1923 engaged in scholarship in area of geodetics.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Bonch-Bruevich, Vladimir D. (1873-1955) Founding member of Russian Social Democratic Labor Party, later close associate of Lenin. Administrative officer in Soviet government 1917-1920. Remainder of career spent in academic or publishing pursuits.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Bukharin, Nikolai Ivanovich (1888-1938) The party's leading theoretician and economist, a Left Communist. In 1918 opposed Brest-Litovsk. In 1920s supported Lenin's New Economic Program. 1924-27 joined Stalin in the Politboro as one of the top leaders. Expelled from Politboro 1929. Executed in 1938 after show trial.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Dybenko, Pavel Efimovich (1889-1938) Member of Military Revolutionary Committee that created the October Revolution. Played key role in the Civil War, 1918-1920. Tried in May 1918 and acquitted of the surrender of Narva to the Germans, which occurred when he was People's Commissar for Naval Affairs. Red Army commander from 1928 until 1938, when he was executed in Stalin's purge of the military.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Iaroslavsky (pseud. of Gubel'man, Minei Izrailovich) (1878-1943) Soviet publicist, historian, journalist. Took part in October Revolution attack on Kremlin. Became first commissar of Moscow Military District. In 1918 a Left Communist closely associated with Bukharin. In 1920, a member of the Central Committee of Russian Communist Party. Throughout 1930s edited and published official party histories.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Kamenev, Lev Borisovich (1883-1936) On Central Committee of Russian Communist Party, Editor of Pravda, Chairman of Moscow Soviet, 1920-1925. Joined with Stalin and Zinoviev in opposition to Trotsky, a position he later reversed, after suppressing the indictment of Stalin in Lenin's “testament.” Executed after Stalin show trial, 1936.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Karakhan, Lev Mikhailovich (1889-1937) A leader of October Revolution. November 1917-18 was secretary to Soviet delegation at negotiations leading to Brest-Litovsk. In 1918-20 was Deputy People's Commissar for foreign affairs. Served as ambassador abroad to various countries. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Krasikov, Petr Ananevich (1870-1939) After 1917, Chair of committee to combat counterrevolution and profiteering. Managed department of religion under People's Committee of Justice. In 1933-38 was Vice-Chairman of Supreme Court of USSR. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Krylenko, Nikolai Vasilevich (1885-1938) Supreme Commander-in-Chief and People's Commissar on Military Affaris, 1917-1918. Chief state prosecutor for major political trials, 1918-1931. Commissar of Justice, 1931-36. Arrested in 1937 and shot without trial.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Malkov, Pavel Dmitrievich (1887-1965) In 1917 took part in storming of the Winter Palace. In 1918, was Commandant of Moscow Kremlin. 1920-22 served in Red Army. In 1923 was transferred to economic managerial work. Retired with pension in 1954 and wrote memoirs. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Muralov, Aleksandr Ivanovich (1886-1937) In October 1917 was Chair of Aleksin district committee. 1920-23 Chairman of Moscow Council of National Economy. USSR's People's Commissioner of Agriculture 1933-36. ( Sov. Enc .)</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Muranov, Matvei Konstantinovich (1873-1959) Member editorial board of Pravda . Member of Central Committee, 1917-23. In 1922-34 member of Central Control Commission. In All-Russian Central Executive Committee from 1934-37. Retired 1939. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Nogin, Viktor Pavlovich (1878-1924) Important right-wing Bolshevik. In 1918 Commissar of Trade and Industry. Resigned from Central Committee in 1919 along with Zinoviev because no other socialist parties were allowed. Later in charge of textile industry. Died during surgery for stomach ulcers.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Podbelsky, Vadim Nikolaevich (1887-1920) Took part in October Revolution. Served as People's Commissar of Post and Telegraph. Helped suppress counterrevolutionary rebellions in Moscow and Iaroslavl. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Podvoisky, Nikolai I. (1880-1948) In 1917 member of Military Revolutionary Committee. Took part in seizure of Winter Palace in October Revolution. Held military posts in civil war and government posts afterward, until sinking into obscurity.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Rakovski, Khristian Georgevich (1873-1941) Doctor and diplomat. In 1918 elected chairman of Ukrainian Council of People's Commissars and member of Central Committee of Russian Communist Party. Later expelled as Trotskyist and died in concentration camp.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Rogov, Mikhail Ivanovich (1880-1942) 1917-1918 was deputy Chairman of the Moscow Soviet. In 1929 was Deputy People's Commissar of Finance for USSR. Member, Central Executive Committee of USSR, 1934-37.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Sereda, Semen Pafnut'evich (1871-1933) People's Commissar of Agriculture, 1918-21. 1922-27 Deputy Chairman of Supreme Council on National Economy. 1927-30 Chair of Council of People's Commissars. Member Central Executive Comittee. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Shlikhter, Aleksander Grigor'evich (1868-1940) 1917-1919, People's Commissioner of Agriculture and People's Commissar of Foodstuffs. 1927-29 People's Commissar of Agriculture of Ukrainian SSR. 1926-37 was candidate member of Politboro of Central Committee.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Skliansky, Efraim Markovich (1892-1925) 1917-18 Deputy of People's Committee for Naval Affairs. March 1918 member of Supreme Military Council. 1918-1924 Deputy Chair of Revolutionary Military Council. 1924 directed work of Supreme Council on National Economy. Drowned while on official business in USA. ( Sov. Enc. )</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Skobelev, Mikhail D. (1843-1882) Russian general, famous for his role in Russia's expansion into Central Asia in the 1870s and his victories in the Russo-Turkish War of 1877-1978.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Steklov, Yuri M. (1873-1941) Held prominent posts in Russian government. Wrote on history of socialism. Died in one of Stalin's purges.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Sverdlov, Iakov Mikhailovich (1885-1919) Chairman of All-Russian Central Executive Committee of Soviets. Key figure in organization and administration of Bolsheviks. Maneuvered to exclude all government parties not agreeing with Lenin. August 1918-March 1919, consolidated organizational structure of party on principle of centralism. Began amassing files on party workers. Died of Spanish flu.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Trotsky, Leon D. (1879-1940) Orator, writer, and military leader. Joined the Bolsheviks in 1917 and played a key role in the October revolution. Commissar of War, 1918-1925. Leader of the left opposition in the Soviet Communist Party in mid-1920s. Expelled from USSR by Stalin in 1929. Assassinated by Stalinist agent in Mexico, 1940.</p>
+        <p xmlns="urn:isbn:1-931666-33-4">Historical Chronology</p>
+        <chronList xmlns="urn:isbn:1-931666-33-4">
+          <chronItem>
+            <date>January-March:</date>
+            <event>Invasion and occupation of Ukraine by Lenin's troops.</event>
+          </chronItem>
+          <chronItem>
+            <date>February:</date>
+            <event>Red Army formed with Trotsky as its leader.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0003-03">March 3:</date>
+            <event>Brest-Litovsk treaty between USSR and Germany: Bolsheviks expelled from Ukrainian territory.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0012-04">April 12:</date>
+            <event>Lenin issues decree on Removing Monuments Erected in Honor of the Tsars and Their Servants. Skobelev monument removed by May 1.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0022-04">April 22:</date>
+            <event>Transcaucasian Federation proclaims independence.</event>
+          </chronItem>
+          <chronItem>
+            <dateRange>
+              <fromDate standardDate="0029-04">April 29</fromDate>
+              <toDate standardDate="0014-12">Dec. 14:</toDate>
+            </dateRange>
+            <event>German-backed government rules Ukraine, led by Skoropadskyi</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0001-05">May 1:</date>
+            <event>First parade of Red Army on Khodynka Field. Inheritance abolished.</event>
+          </chronItem>
+          <chronItem>
+            <date>May?:</date>
+            <event>Dybenko tried and acquitted.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0020-05">May 20:</date>
+            <event>Decree creating food supply detachments.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0022-05">May 22:</date>
+            <event>Czech rebellion begins.</event>
+          </chronItem>
+          <chronItem>
+            <date>Early June:</date>
+            <event>British landing at Archangel.</event>
+          </chronItem>
+          <chronItem>
+            <dateRange>
+              <fromDate standardDate="0004-07">July 4</fromDate>
+              <toDate standardDate="0007">7:</toDate>
+            </dateRange>
+            <event>Fifth Congress of Soviets.</event>
+          </chronItem>
+          <chronItem>
+            <dateRange>
+              <fromDate standardDate="0005-07">July 5</fromDate>
+              <toDate standardDate="0020">20:</toDate>
+            </dateRange>
+            <event>Uprising at Iaroslavl, ending in massacre.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0006-07">July 6:</date>
+            <event>Left Socialist Revolutionaries revolt (during Fifth Congress)</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0016-07">July 16:</date>
+            <event>Lenin orders execution of ex-Tsar and his family.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0029-07">July 29:</date>
+            <event>Compulsory military training introduced.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0007-08">August 7:</date>
+            <event>Kazan goes to White Army.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0005-09">September 5:</date>
+            <event>Red Terror begins; Red Army conscription begins.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0010-09">September 10:</date>
+            <event>Red Army wins back Kazan.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0007-11">November 7:</date>
+            <event>Official anniversary of Russian Revolution.</event>
+          </chronItem>
+          <chronItem>
+            <date standardDate="0014-11">November 14:</date>
+            <event>Bolsheviks overthrow Ukrainian government.</event>
+          </chronItem>
+          <chronItem>
+            <date>November:</date>
+            <event>End of World War I.</event>
+          </chronItem>
+          <chronItem>
+            <date>November?:</date>
+            <event>Admiral Sablin tried and sentenced to one year in prison for role in Socialist Revolutionaries' revolt.</event>
+          </chronItem>
+          <chronItem>
+            <date>December?:</date>
+            <event>Rakovski established as head of Soviet Ukrainian Republic.</event>
+          </chronItem>
+        </chronList>
+        <citation xmlns="urn:isbn:1-931666-33-4">From the guide to the Soviet photographs from 1918, 1918, (Getty Research Institute)</citation>
+      </biogHist>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w69b0dsb">
+        <relationEntry>Bukharin, Nikolai Ivanovich, 1988-1938</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6fw0qfb">
+        <relationEntry>Congress of Soviets (5th: 1918: Moscow)—Pictorial works</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w66d95vh">
+        <relationEntry>Kamenev, Lev Borisovich, 1883-1936</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6b401z8">
+        <relationEntry>Krylenko, N. V. (Nikolai; Vasil'evich), 1885-1938</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w63r49sw">
+        <relationEntry>Muralov, Aleksandr Ivanovich, b. 1886</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w63k5hb6">
+        <relationEntry>Russian S.F.S.R.—People's Commissariat of Enlightenment</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6jf7161">
+        <relationEntry>Soviet Union—Red Army</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6bp3mpc">
+        <relationEntry>Steklov, IU. M. (IUrii Mikhailovich), 1873-1941</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w64x70v7">
+        <relationEntry>Sverdlov, IAkov Mikhailovich, 1885-1919</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6qj7fs6">
+        <relationEntry>Trotsky, Leon, 1879-1940</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6t7336r">
+        <relationEntry>Vertov, Dziga, 1896-1954</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w6kb3wz0">
+        <relationEntry>Getty Research Institute, Research Library</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w61655tx">
+        <relationEntry>Getty Research Institute</relationEntry>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.oac.cdlib.org/ark:/13030/kt987022k7">
+        <relationEntry>Soviet photographs from 1918, 1918</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Getty Research Institute</persname>
+            </origination>
+            <unittitle>Soviet photographs from 1918 1918</unittitle>
+            <physdesc>
+              <extent>595 items</extent>
+            </physdesc>
+            <abstract>A collection of 595 photographs and film stills from 1918 depicts Soviet social programs and key battles of the Civil War.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w61655tx">Getty Research Institute</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

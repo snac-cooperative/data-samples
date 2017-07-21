@@ -1,0 +1,191 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6kq8qqg",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "CaNSHV",
+            "id": "76775658",
+            "version": "11229881"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "55107",
+            "id": "76775659",
+            "version": "11229881"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:38:06",
+            "standardDateTime": "2016-11-22T11:38:06",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Mount Saint Vincent University Library, Mount Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Mount Saint Vincent University Library, Mount Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76775657",
+                    "version": "11229881"
+                }
+            ],
+            "id": "76775656",
+            "version": "11229881"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76775655",
+            "targetConstellation": "60816014",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6kq8qqg",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6132trq",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Mount Allison University. Library"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Mount Saint Vincent University Library, Mount Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "166 Bedford Hwy",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76775661",
+                    "version": "11229881"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Halifax",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76775662",
+                    "version": "11229881"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA-NS",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76775663",
+                    "version": "11229881"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "B3M 2J6",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76775664",
+                    "version": "11229881"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76775665",
+                    "version": "11229881"
+                }
+            ],
+            "geoplace": {
+                "id": "17396",
+                "name": "Mount Saint Vincent University Library, Mount Library",
+                "latitude": "44.6720314",
+                "longitude": "-63.6436348"
+            },
+            "confirmed": true,
+            "id": "76775660",
+            "version": "11229881"
+        }
+    ],
+    "id": "76775655",
+    "version": "11229884"
+}

@@ -1,0 +1,87 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6c648j9",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:19:17",
+            "standardDateTime": "2016-11-28T17:19:17",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Avery Library Environmental Design Archives. College of Environmental Design. Gamble House (Pasadena, Calif.) Greene and Greene Archives",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Avery Library Environmental Design Archives. College of Environmental Design. Gamble House (Pasadena, Calif.) Greene and Greene Archives",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76791993",
+                    "version": "11236089"
+                }
+            ],
+            "id": "76791992",
+            "version": "11236089"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Avery Library Environmental Design Archives. College of Environmental Design. Gamble House (Pasadena, Calif.) Greene and Greene Archives",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Columbia University Web site: http:\/\/www.columbia.edu\/cu\/lweb\/indiv\/avery\/ Finding aid: http:\/\/www.columbia.edu\/cu\/lweb\/eresources\/archives\/avery\/test.htm University of California, Berkeley. Web site: http:\/\/www.ced.berkeley.edu\/cedarchives Finding aid: http:\/\/www.oac.cdlib.org\/dynaweb\/ead\/berkeley\/ceda\/greene\/ University of Southern California Web site: http:\/\/www.gamblehouse.org\/ University of Southern California Web site: http:\/\/www.gamblehouse.org\/archives Finding aid: http:\/\/www.usc.edu\/dept\/architecture\/greeneandgreene\/findingaid",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76791995",
+                    "version": "11236089"
+                }
+            ],
+            "id": "76791994",
+            "version": "11236089"
+        }
+    ],
+    "id": "76791991",
+    "version": "11236092"
+}

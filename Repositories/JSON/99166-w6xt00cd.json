@@ -1,0 +1,1479 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6xt00cd",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28226",
+                "term": "viafID",
+                "uri": "http:\/\/viaf.org\/viaf\/terms#viafID",
+                "type": "record_type"
+            },
+            "uri": "147815931",
+            "id": "3422934",
+            "version": "493796"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Georgia College",
+            "uri": "http:\/\/viaf.org\/viaf\/147815931",
+            "id": "3422935",
+            "version": "493796"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/wcidentities\/lccn-n85203294",
+            "id": "3422936",
+            "version": "493796"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/id.loc.gov\/authorities\/names\/n85203294",
+            "id": "3422937",
+            "version": "493796"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-19",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-09T19:24:11",
+            "standardDateTime": "2016-08-09T19:24:11",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-09T19:24:11",
+            "standardDateTime": "2016-08-09T19:24:11",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 4: http:\/\/www.worldcat.org\/oclc\/48367952",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/48367952",
+            "id": "3422917",
+            "version": "493796"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: http:\/\/www.worldcat.org\/oclc\/59131063",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/59131063",
+            "id": "3422915",
+            "version": "493796"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 3: http:\/\/www.worldcat.org\/oclc\/48368050",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/48368050",
+            "id": "3422916",
+            "version": "493796"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 5: http:\/\/www.worldcat.org\/oclc\/48504237",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/48504237",
+            "id": "3422918",
+            "version": "493796"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 6: http:\/\/viaf.org\/viaf\/147815931",
+            "uri": "http:\/\/viaf.org\/viaf\/147815931",
+            "id": "3422919",
+            "version": "493796"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: http:\/\/www.worldcat.org\/oclc\/54848396",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/54848396",
+            "id": "3422914",
+            "version": "493796"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "3422920",
+            "version": "493796"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Georgia College",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Georgia College",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "3422922",
+                    "version": "493796"
+                }
+            ],
+            "id": "3422921",
+            "version": "493796",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "77081001",
+                    "version": "493796"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Georgia College at Milledgeville",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Georgia College at Milledgeville",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "3422927",
+                    "version": "493796"
+                }
+            ],
+            "id": "3422926",
+            "version": "493796",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "77081002",
+                    "version": "493796"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "3422913",
+            "targetConstellation": "27946200",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xt00cd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6639xdp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Bonner, James Calvin, 1904-",
+            "id": "3422941",
+            "version": "493796"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "3422913",
+            "targetConstellation": "73775279",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xt00cd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6q246x4",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Hair, William Ivy.",
+            "id": "3422940",
+            "version": "493796"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "3422913",
+            "targetConstellation": "74101294",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xt00cd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6rf6sbd",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Slaton, John M.",
+            "id": "3422938",
+            "version": "493796"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "3422913",
+            "targetConstellation": "62983208",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xt00cd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cp08qv",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Wootten, Kathleen Wilkinson.",
+            "id": "3422942",
+            "version": "493796"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "3422913",
+            "targetConstellation": "45041462",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xt00cd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gm9f3h",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Yarbrough, Pat.",
+            "id": "3422939",
+            "version": "493796"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The development of a dept. of psychology ... c1985:",
+                "id": "5084335",
+                "version": "5084335"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The development of a dept. of psychology ... c1985:",
+            "id": "3422950",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Alumni directory",
+                "id": "240567",
+                "version": "240567"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Alumni directory",
+            "id": "3422960",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "ANQ",
+                "id": "360329",
+                "version": "360329"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "ANQ",
+            "id": "3422961",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Flannery O'Connor bull.",
+                "id": "1813733",
+                "version": "1813733"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Flannery O'Connor bull.",
+            "id": "3422956",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Connection (Georgia College &amp; State University), fall 1996:",
+                "id": "1024422",
+                "version": "1024422"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Connection (Georgia College &amp; State University), fall 1996:",
+            "id": "3422957",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Alumni news quarterly.",
+                "id": "240808",
+                "version": "240808"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Alumni news quarterly.",
+            "id": "3422959",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Items.",
+                "id": "2444004",
+                "version": "2444004"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Items.",
+            "id": "3422952",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Connection",
+                "id": "1024407",
+                "version": "1024407"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Connection",
+            "id": "3422958",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Georgia College connection",
+                "id": "1955681",
+                "version": "1955681"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Georgia College connection",
+            "id": "3422954",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/59131063",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:59131063<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-GMU<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Yarbrough, Pat.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Georgia College.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>The impact of World War II on Mercer University \/ Pat Yarbrough. 1985.<\/title>\n                  <\/titleInfo>\n                  <name>\n                     <namePart>Mercer University<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "The impact of World War II on Mercer University \/ Pat Yarbrough. 1985.",
+                "extent": "41 leaves : ill. ; 28 cm.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Yarbrough, Pat.",
+                        "id": "10130096",
+                        "version": "7773618"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Georgia College.",
+                        "id": "10130097",
+                        "version": "7773618"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w63c6npn",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Mercer University, Jack Tarver Library",
+                            "preferenceScore": "99",
+                            "id": "76774364",
+                            "version": "11229401"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Mercer University, Jack Tarver Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1501 Mercer University Drive",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76774369",
+                                    "version": "11229401"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Macon",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76774370",
+                                    "version": "11229401"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-GA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76774371",
+                                    "version": "11229401"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "31207-0001",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76774372",
+                                    "version": "11229401"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76774373",
+                                    "version": "11229401"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15095",
+                                "name": "Mercer University, Jack Tarver Library",
+                                "latitude": "32.8291245",
+                                "longitude": "-83.6487579"
+                            },
+                            "confirmed": true,
+                            "id": "76774368",
+                            "version": "11229401"
+                        }
+                    ],
+                    "id": "76774363",
+                    "version": "11229404"
+                },
+                "id": "7773618",
+                "version": "7773618"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Yarbrough, Pat. The impact of World War II on Mercer University \/ Pat Yarbrough.",
+            "id": "3422944",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The manuscripts of Flannery O'Connor at Georgia College",
+                "id": "5271271",
+                "version": "5271271"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The manuscripts of Flannery O'Connor at Georgia College",
+            "id": "3422949",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/54848396",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:54848396<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-JFK<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Slaton, John M.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Letter, Feb. 11, 1914.<\/title>\n                  <\/titleInfo>\n                  <abstract>Letter to Mrs. Lloyd Cleveland of Griffin, Georgia inquiring whether she will accept reappointment to the Board of Visitors to the G.N.I. College at Milledgeville. <\/abstract>\n                  <name>\n                     <namePart>Abraham Lincoln Presidential Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Letter, Feb. 11, 1914.",
+                "abstract": "Letter to Mrs. Lloyd Cleveland of Griffin, Georgia inquiring whether she will accept reappointment to the Board of Visitors to the G.N.I. College at Milledgeville. ",
+                "extent": "1 p.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Slaton, John M.",
+                        "id": "10005623",
+                        "version": "7682216"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6q922fv",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Abraham Lincoln Presidential Library",
+                            "preferenceScore": "99",
+                            "id": "76759491",
+                            "version": "11223809"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Abraham Lincoln Presidential Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "112 N. Sixth St",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759496",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Springfield",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759497",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-IL",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759498",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "62701-1507",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759499",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759500",
+                                    "version": "11223809"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17131",
+                                "name": "Abraham Lincoln Presidential Library",
+                                "latitude": "39.8024990",
+                                "longitude": "-89.6475580"
+                            },
+                            "confirmed": true,
+                            "id": "76759495",
+                            "version": "11223809"
+                        }
+                    ],
+                    "id": "76759490",
+                    "version": "11223812"
+                },
+                "id": "7682216",
+                "version": "7682216"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Slaton, John M. Letter, Feb. 11, 1914.",
+            "id": "3422943",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/48504237",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:48504237<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-GGC<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Wootten, Kathleen Wilkinson.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Kathleen Wilkinson Wootten collection, 1909-1966.<\/title>\n                  <\/titleInfo>\n                  <abstract>The Kathleen Wilkinson Wootten Collection contains her personal and professional correspondence, greeting cards, journals, maps, materials relating to the Health and P.E. Department at Georgia State College for Women where she taught health from 1917-1952. The collection also contains numerous articles on various health subjects such as sex education. Finally, there are also miscellaneous papers such as Wootten's business correspondence and resumes. The collection covers most of her life beginning in 1909 and ending in 1966. However, there are gaps in each decade, notably in the 1920s and 1930s. <\/abstract>\n                  <name>\n                     <namePart>Georgia College &amp; State University<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Kathleen Wilkinson Wootten collection, 1909-1966.",
+                "abstract": "The Kathleen Wilkinson Wootten Collection contains her personal and professional correspondence, greeting cards, journals, maps, materials relating to the Health and P.E. Department at Georgia State College for Women where she taught health from 1917-1952. The collection also contains numerous articles on various health subjects such as sex education. Finally, there are also miscellaneous papers such as Wootten's business correspondence and resumes. The collection covers most of her life beginning in 1909 and ending in 1966. However, there are gaps in each decade, notably in the 1920s and 1930s. ",
+                "extent": "8 cubic ft.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wootten, Kathleen Wilkinson.",
+                        "id": "9866951",
+                        "version": "7595167"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w60h47nx",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Georgia College & State University, GC&SU Library",
+                            "preferenceScore": "99",
+                            "id": "76768304",
+                            "version": "11227113"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Georgia College & State University, GC&SU Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Library Cbx 043",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768309",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "231 W Hancock St",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768310",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Milledgeville",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768311",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-GA",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768312",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "31061-0490",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768313",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "5",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768314",
+                                    "version": "11227113"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15069",
+                                "name": "Georgia College & State University, GC&SU Library",
+                                "latitude": "33.0915000",
+                                "longitude": "-83.2421000"
+                            },
+                            "confirmed": true,
+                            "id": "76768308",
+                            "version": "11227113"
+                        }
+                    ],
+                    "id": "76768303",
+                    "version": "11227116"
+                },
+                "id": "7595167",
+                "version": "7595167"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Wootten, Kathleen Wilkinson. Kathleen Wilkinson Wootten collection, 1909-1966.",
+            "id": "3422947",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The Flannery O'Connor bulletin.",
+                "id": "5138521",
+                "version": "5138521"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The Flannery O'Connor bulletin.",
+            "id": "3422948",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/48367952",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:48367952<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-GGC<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Bonner, James Calvin, 1904-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>James Calvin Bonner papers, 1811-1984.<\/title>\n                  <\/titleInfo>\n                  <abstract>The personal papers of James C. Bonner contain 25.5 cubic feet of eight series of forty-four file boxes, plus two individual oversized boxes containing maps, posters, and Confederate and German currency. The materials span the years from 1811-1984, with the most concentration in the years 1930-1973. Contents include published and unpublished manuscripts written by Dr. Bonner, drafts of his journal articles, course notes and syllabi, photographs, scrapbooks, genealogical material, awards, nineteenth-century letters, Civil War materials, and newspaper clippings of events in areas of professional and personal interest. <\/abstract>\n                  <name>\n                     <namePart>Georgia College &amp; State University<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "James Calvin Bonner papers, 1811-1984.",
+                "abstract": "The personal papers of James C. Bonner contain 25.5 cubic feet of eight series of forty-four file boxes, plus two individual oversized boxes containing maps, posters, and Confederate and German currency. The materials span the years from 1811-1984, with the most concentration in the years 1930-1973. Contents include published and unpublished manuscripts written by Dr. Bonner, drafts of his journal articles, course notes and syllabi, photographs, scrapbooks, genealogical material, awards, nineteenth-century letters, Civil War materials, and newspaper clippings of events in areas of professional and personal interest. ",
+                "extent": "25.5 cubic ft.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Bonner, James Calvin, 1904-",
+                        "id": "9864441",
+                        "version": "7593482"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w60h47nx",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Georgia College & State University, GC&SU Library",
+                            "preferenceScore": "99",
+                            "id": "76768304",
+                            "version": "11227113"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Georgia College & State University, GC&SU Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Library Cbx 043",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768309",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "231 W Hancock St",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768310",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Milledgeville",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768311",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-GA",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768312",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "31061-0490",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768313",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "5",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768314",
+                                    "version": "11227113"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15069",
+                                "name": "Georgia College & State University, GC&SU Library",
+                                "latitude": "33.0915000",
+                                "longitude": "-83.2421000"
+                            },
+                            "confirmed": true,
+                            "id": "76768308",
+                            "version": "11227113"
+                        }
+                    ],
+                    "id": "76768303",
+                    "version": "11227116"
+                },
+                "id": "7593482",
+                "version": "7593482"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Bonner, James Calvin, 1904-. James Calvin Bonner papers, 1811-1984.",
+            "id": "3422946",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Georgia College. Columns, Feb. 1961:",
+                "id": "1955680",
+                "version": "1955680"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Georgia College. Columns, Feb. 1961:",
+            "id": "3422953",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Georgia College alumni directory",
+                "id": "1955676",
+                "version": "1955676"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Georgia College alumni directory",
+            "id": "3422955",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The Peacock's feet.",
+                "id": "5348144",
+                "version": "5348144"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The Peacock's feet.",
+            "id": "3422951",
+            "version": "493796"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/48368050",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:48368050<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-GGC<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Hair, William Ivy.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>William Ivy Hair papers, 1909-1992.<\/title>\n                  <\/titleInfo>\n                  <abstract>The personal papers of William Ivy Hair include professional correspondence, newspaper articles written about and by Dr. Hair, course notes and syllabi, and Georgia College correspondence. <\/abstract>\n                  <name>\n                     <namePart>Georgia College &amp; State University<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "William Ivy Hair papers, 1909-1992.",
+                "abstract": "The personal papers of William Ivy Hair include professional correspondence, newspaper articles written about and by Dr. Hair, course notes and syllabi, and Georgia College correspondence. ",
+                "extent": "2.5 linear ft.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hair, William Ivy.",
+                        "id": "9864456",
+                        "version": "7593484"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w60h47nx",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Georgia College & State University, GC&SU Library",
+                            "preferenceScore": "99",
+                            "id": "76768304",
+                            "version": "11227113"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Georgia College & State University, GC&SU Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Library Cbx 043",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768309",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "231 W Hancock St",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768310",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Milledgeville",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768311",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-GA",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768312",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "31061-0490",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768313",
+                                    "version": "11227113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "5",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768314",
+                                    "version": "11227113"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15069",
+                                "name": "Georgia College & State University, GC&SU Library",
+                                "latitude": "33.0915000",
+                                "longitude": "-83.2421000"
+                            },
+                            "confirmed": true,
+                            "id": "76768308",
+                            "version": "11227113"
+                        }
+                    ],
+                    "id": "76768303",
+                    "version": "11227116"
+                },
+                "id": "7593484",
+                "version": "7593484"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Hair, William Ivy. William Ivy Hair papers, 1909-1992.",
+            "id": "3422945",
+            "version": "493796"
+        }
+    ],
+    "id": "3422913",
+    "version": "493797"
+}

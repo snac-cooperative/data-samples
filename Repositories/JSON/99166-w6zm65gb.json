@@ -1,0 +1,87 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6zm65gb",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:25:06",
+            "standardDateTime": "2016-11-28T17:25:06",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "National Archives and Records Administration. Pacific Region (Laguna Niguel)",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "National Archives and Records Administration. Pacific Region (Laguna Niguel)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794780",
+                    "version": "11238733"
+                }
+            ],
+            "id": "76794779",
+            "version": "11238733"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "National Archives and Records Administration. Pacific Region (Laguna Niguel)",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "National Archives and Records Administration. Pacific Region 24000 Avila, 1st Floor East Laguna Niguel, CA 92677-3497 Phone: 949-360-2641 Fax: 949-360-2624 Email: laguna.archives@nara.gov",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76794782",
+                    "version": "11238733"
+                }
+            ],
+            "id": "76794781",
+            "version": "11238733"
+        }
+    ],
+    "id": "76794778",
+    "version": "11238736"
+}

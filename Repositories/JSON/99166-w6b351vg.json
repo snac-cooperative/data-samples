@@ -1,0 +1,443 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6b351vg",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28226",
+                "term": "viafID",
+                "uri": "http:\/\/viaf.org\/viaf\/terms#viafID",
+                "type": "record_type"
+            },
+            "uri": "152802576",
+            "id": "23088081",
+            "version": "3375212"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Rauner Special Collections Library",
+            "uri": "http:\/\/viaf.org\/viaf\/152802576",
+            "id": "23088082",
+            "version": "3375212"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/wcidentities\/lccn-no2005055834",
+            "id": "23088083",
+            "version": "3375212"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/id.loc.gov\/authorities\/names\/no2005055834",
+            "id": "23088084",
+            "version": "3375212"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-18",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T15:40:53",
+            "standardDateTime": "2016-08-11T15:40:53",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T15:40:53",
+            "standardDateTime": "2016-08-11T15:40:53",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: http:\/\/www.worldcat.org\/oclc\/468838565",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/468838565",
+            "id": "23088067",
+            "version": "3375212"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: http:\/\/viaf.org\/viaf\/152802576",
+            "uri": "http:\/\/viaf.org\/viaf\/152802576",
+            "id": "23088068",
+            "version": "3375212"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "23088069",
+            "version": "3375212"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Rauner Special Collections Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Rauner Special Collections Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "23088071",
+                    "version": "3375212"
+                }
+            ],
+            "id": "23088070",
+            "version": "3375212",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78693223",
+                    "version": "3375212"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Rauner Library",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Rauner Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "23088075",
+                    "version": "3375212"
+                }
+            ],
+            "id": "23088074",
+            "version": "3375212",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78693224",
+                    "version": "3375212"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Dartmouth College. Rauner Special Collections Library",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Dartmouth College. Rauner Special Collections Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "23088078",
+                    "version": "3375212"
+                }
+            ],
+            "id": "23088077",
+            "version": "3375212",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78693225",
+                    "version": "3375212"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "23088066",
+            "targetConstellation": "25185519",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6b351vg",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6m07v80",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Catholic Church.",
+            "id": "23088085",
+            "version": "3375212"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/468838565",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:468838565<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-DRB<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Catholic Church.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Rauner Special Collections Library.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>[Antiphonal]. [ca 1525-1575?]<\/title>\n                  <\/titleInfo>\n                  <abstract>Large format choir book in original binding; folios display a range of early repairs. <\/abstract>\n                  <name>\n                     <namePart>Dartmouth College Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "[Antiphonal]. [ca 1525-1575?]",
+                "abstract": "Large format choir book in original binding; folios display a range of early repairs. ",
+                "extent": "[79] leaves  : vellum, ill., music ; approx. 840 x 580 mm. (approx. 655 x 400) mm. bound to approx. 885 x 635 mm.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Catholic Church.",
+                        "id": "9826311",
+                        "version": "7571084"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rauner Special Collections Library.",
+                        "id": "9826312",
+                        "version": "7571084"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6d03wmh",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Dartmouth College Library",
+                            "preferenceScore": "99",
+                            "id": "76765764",
+                            "version": "11226141"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Dartmouth College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "6025 Baker-Berry Library",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76765768",
+                                    "version": "11226141"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Hanover",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76765769",
+                                    "version": "11226141"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-NH",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76765770",
+                                    "version": "11226141"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "03755-3525",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76765771",
+                                    "version": "11226141"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76765772",
+                                    "version": "11226141"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "16466",
+                                "name": "Dartmouth College Library",
+                                "latitude": "43.7054558",
+                                "longitude": "-72.2888336"
+                            },
+                            "confirmed": true,
+                            "id": "76765767",
+                            "version": "11226141"
+                        }
+                    ],
+                    "id": "76765763",
+                    "version": "11226144"
+                },
+                "id": "7571084",
+                "version": "7571084"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Catholic Church. [Antiphonal].",
+            "id": "23088086",
+            "version": "3375212"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Winter Carnival : a century of Dartmouth posters",
+                "id": "6013471",
+                "version": "6013471"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Winter Carnival : a century of Dartmouth posters",
+            "id": "23088087",
+            "version": "3375212"
+        }
+    ],
+    "id": "23088066",
+    "version": "3375213"
+}

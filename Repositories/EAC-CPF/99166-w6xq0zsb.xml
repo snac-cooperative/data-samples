@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6xq0zsb</recordId>
+    <otherRecordId localType="http://viaf.org/viaf/terms#viafID">126085739</otherRecordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <conventionDeclaration>
+      <citation>VIAF</citation>
+    </conventionDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="">2015-09-18</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>CPF merge program</agent>
+        <eventDescription>Merge v2.0</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-10T11:35:43">2016-08-10T11:35:43</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Parser</agent>
+        <eventDescription>Bulk ingest into SNAC Database</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-10T11:35:43">2016-08-10T11:35:43</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription/>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2017-07-11T11:36:30">2017-07-11T11:36:30</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Dina Herbert (dina.herbert@nara.gov)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+      <source xlink:href="http://www.worldcat.org/oclc/226035330" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/270736174" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/223346479" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.82-ead.xml" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/aps/Mss.Ms.Coll.82-ead.xml</filename>
+            <ead_entity en_type="corpname" role="Correspondent (crp)" rules="aacr" source="naf">American Numismatic Society.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=art00017" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/harvard/art00017.xml</filename>
+            <ead_entity en_type="corpname">American Numismatic Society</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/702170445" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/270736172" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://library.syr.edu/digital/guides/h/huntington_am.htm" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/syru/huntington_am.xml</filename>
+            <ead_entity en_type="corpname" encodinganalog="610" source="lcnaf">American Numismatic Society</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/270730334" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/63537827" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/58660443" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/270736170" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/155473217" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA00818.xml" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/crnlu/RMA00818.xml</filename>
+            <ead_entity en_type="corpname" encodinganalog="MARC 610">American Numismatic Society.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://viaf.org/viaf/126085739" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/155473198" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/270736166" xlink:type="simple">
+                
+            </source>
+    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <nameEntry snac:preferenceScore="99">
+        <part>American numismatic society</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Numismatic Society United States</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Numismatic Society</part>
+      </nameEntry>
+      <nameEntry>
+        <part>American Numismatic and Archæological Society</part>
+      </nameEntry>
+      <nameEntry>
+        <part>American Numismatic and Archeological Society</part>
+      </nameEntry>
+      <nameEntry>
+        <part>ANS Abkuerzung</part>
+      </nameEntry>
+      <nameEntry>
+        <part> ANS</part>
+      </nameEntry>
+      <nameEntry>
+        <part>American Numismatic and Archaeological Society</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates>
+        <date standardDate="">active 1917</date>
+      </existDates>
+      <languageUsed>
+        <language languageCode="ger">German</language>
+        <script scriptCode="Zyyy">Code for undetermined script</script>
+      </languageUsed>
+      <languageUsed>
+        <language languageCode="eng">English</language>
+        <script scriptCode="Zyyy">Code for undetermined script</script>
+      </languageUsed>
+      <languageUsed>
+        <language languageCode="fre">French</language>
+        <script scriptCode="Zyyy">Code for undetermined script</script>
+      </languageUsed>
+      <languageUsed>
+        <language languageCode="lat">Latin</language>
+        <script scriptCode="Zyyy">Code for undetermined script</script>
+      </languageUsed>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coins, Greek</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coins--Collectors and collecting</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Numismatists</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Mints</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Photography of coins</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Tokens</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coin dealers</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coins, Ancient</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Paper money</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Money</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coins, Roman</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coinage</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coinage, International</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Medals</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coins</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coins, Byzantine</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Coins, American</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Islamic coins</term>
+      </localDescription>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>New York (State)--Ulster County</placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>India</placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>United States</placeEntry>
+      </place>
+      <localDescription localType="http://viaf.org/viaf/terms#nationalityOfEntity">
+        <placeEntry countryCode="US"/>
+      </localDescription>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="hasMember" xlink:href="http://n2t.net/ark:/99166/w6m7579n">
+        <relationEntry>Agnes Brett</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6q530m8">
+        <relationEntry>Coolidge, John, 1913-1995</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w65n00cv">
+        <relationEntry>Cornell University. Department of Fine Arts.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6tk4282">
+        <relationEntry>Cornell University. Dept. of Fine Arts.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6dz3cv3">
+        <relationEntry>Drowne, Henry Russell, 1860-1934.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6tt52mb">
+        <relationEntry>Greene, Belle da Costa,</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6vm4bz0">
+        <relationEntry>Huntington, Archer M. (Archer Milton), 1870-1955</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w67q3rn0">
+        <relationEntry>Machin's Mills (Ulster County, N.Y.)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6r23p7w">
+        <relationEntry>Meritt, Benjamin Dean, 1899-1989</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6c53t92">
+        <relationEntry>West, Charles Edwin, 1809-1900.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6s22jsb">
+        <relationEntry>Yale University. Dept. of Classics.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://viaf.org/viaf/126085739">
+        <relationEntry>American numismatic society</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://www.worldcat.org/wcidentities/lccn-n50057814">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://id.loc.gov/authorities/names/n50057814">
+        <relationEntry/>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The medals of the United States army Medical department and medals honoring army medical officers</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The medals of the United States army Medical department and medals honoring army medical officers</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Sylloge nummorum Parthicorum</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Sylloge nummorum Parthicorum</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA00818.xml">
+        <relationEntry>Department of Fine Arts records, 1922-1959.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Department of Fine        Arts records, 1922-1959.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract>Correspondence, minutes, accounts,        inventories, archaeological notes, programs, and printed material; department        chairman was Frederick O. Waage. Organizations represented include the American        Numismatic Society, the Archaeological Institute of America, and the College        Art Association of America. Major correspondents include Cornelius William De        Kiewiet, and Deane W. Malott.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nd6pzz">Division of Rare and Manuscript Collections, Cornell University Library.</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>An Achaean league hoard</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>An Achaean league hoard</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Exhibition of United States and colonial coins (catalogue)</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Exhibition of United States and colonial coins (catalogue)</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Tripolis hoard of French seignorial and crusader's coins</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Tripolis hoard of French seignorial and crusader's coins</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/270736166">
+        <relationEntry>American Numismatic Society. Undated paper, c. 1909.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+            </origination>
+            <unittitle>Undated paper, c. 1909.</unittitle>
+            <physdesc>
+              <extent>1 item.</extent>
+            </physdesc>
+            <abstract>With note by Belle Greene about coins loaned to Society. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6204t0w">Morgan Library &amp; Museum, Pierpont Morgan Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>ANS Handbook</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>ANS Handbook</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Centennial celebration of the American numismatic society,  at the auditorium of the American academy of arts and letters, April 12, 1958.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Centennial celebration of the American numismatic society,  at the auditorium of the American academy of arts and letters, April 12, 1958.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Coins of the Seleucid empire from the collection of Arthur Houghton</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Coins of the Seleucid empire from the collection of Arthur Houghton</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Joan of Arc loan exhibition catalogue : paintings, pictures, medals, coins, statuary, books, porcelains, manuscripts, curios, etc.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Joan of Arc loan exhibition catalogue : paintings, pictures, medals, coins, statuary, books, porcelains, manuscripts, curios, etc.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Medal in America</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Medal in America</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Museum notes (New-York)</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Museum notes (New-York)</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Numismatic studies-American numismatic society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Numismatic studies-American numismatic society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>American journal of numismatics (New York, N.Y. : 1989)</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>American journal of numismatics (New York, N.Y. : 1989)</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Kolophon and its coinage: a study by J. G. Milne.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Kolophon and its coinage: a study by J. G. Milne.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Exhibition of United States and colonial coins January seventeenth to February eighteenth 1914, New-York, The American numismatic society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Exhibition of United States and colonial coins January seventeenth to February eighteenth 1914, New-York, The American numismatic society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>American Numismatic Society Newsletter</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>American Numismatic Society Newsletter</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Coinage of the Lycian league</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Coinage of the Lycian league</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/270736174">
+        <relationEntry>American Numismatic Society. Correspondence, 1917 Sept. 26, Oct. 2, 25, Nov. 15, 26.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+            </origination>
+            <unittitle>Correspondence, 1917 Sept. 26, Oct. 2, 25, Nov. 15, 26.</unittitle>
+            <physdesc>
+              <extent>1 item.</extent>
+            </physdesc>
+            <abstract>About J.P. Morgan subscribing to gold medal commemorating U.S. entry into war. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6204t0w">Morgan Library &amp; Museum, Pierpont Morgan Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Byzantine hoard of Lagbe</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Byzantine hoard of Lagbe</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Annual report of the ANS</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Annual report of the ANS</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Islamic coins</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Islamic coins</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The United-States cents of the years 1795, 1796, 1797 and 1800, by George H. Clapp and Howard R. Newcomb</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The United-States cents of the years 1795, 1796, 1797 and 1800, by George H. Clapp and Howard R. Newcomb</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Etruria-Calabria</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Etruria-Calabria</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Ancient numismatics : a brief introduction, by C. H. V. Sutherland,...</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Ancient numismatics : a brief introduction, by C. H. V. Sutherland,...</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>A Tarsus coin collection in the Adana museum</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>A Tarsus coin collection in the Adana museum</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.82-ead.xml">
+        <relationEntry>Benjamin Dean Meritt papers, ca. 1935-1989 American Council of Learned Societies American Philosophical Society American Numismatic Society Athens College Aydelotte, Frank Bonner, Campbell Cherniss, Harold Clement, Paul A. Dinsmoor, William Bell Dow, Sterling Edson, Charles Ferguson, William Scott Friedlander, Paul Greek War Relief Haggard, Patience Hondius, J.J.E. Institute for Advanced Study Moe, Henry A. Princeton University Raubitschek, A.E. Richter, Gisela M.A. Robinson, Charles A. Schweigert, Eugene Gift of Lucy Shoe Meritt, 1993. (Ms. Coll. 82), 1935-1989</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Meritt, Benjamin Dean, 1899-1989 </persname>
+            </origination>
+            <unittitle>Benjamin Dean Meritt papers, ca. 1935-1989 American Council of Learned Societies American Philosophical Society American Numismatic Society Athens College Aydelotte, Frank Bonner, Campbell Cherniss, Harold Clement, Paul A. Dinsmoor, William Bell Dow, Sterling Edson, Charles Ferguson, William Scott Friedlander, Paul Greek War Relief Haggard, Patience Hondius, J.J.E. Institute for Advanced Study Moe, Henry A. Princeton University Raubitschek, A.E. Richter, Gisela M.A. Robinson, Charles A. Schweigert, Eugene Gift of Lucy Shoe Meritt, 1993. (Ms. Coll. 82) 1935-1989</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract>Known for his pioneering work on Athens in the fifth century BC, Benjamin Dean Meritt spent most of his career at the Institute for Advanced Study, where he developed a world-renowned center for the study of Attic epigraphy, or Greek inscriptions. Meritt reconstructed, with A.B. West, the inscribed tribute-quota lists of the Athenian Empire and is perhaps best known for his work on fifth century BC Athenian finances, which resulted in the four-volume Athenian Tribute Lists, co-authored with H.T. Wade-Gery and M.F. McGregor.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w69m50xt">American Philosophical Society</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Macedonia II Alexander - Philip II</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Macedonia II Alexander - Philip II</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Annual report of the American numismatic society...</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Annual report of the American numismatic society...</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Roman medallions</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Roman medallions</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Joan of Arc loan exhibition catalogue; paintings, pictures, medals, coins, statuary, books, porcelains, manuscripts, curios, etc. in the American numismatic society building ... January 6th to February 6th, 1913. Under the auspices of the Joan of Arc status committee, the Museum of French art, Institute in America, The American numismatic society.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Joan of Arc loan exhibition catalogue; paintings, pictures, medals, coins, statuary, books, porcelains, manuscripts, curios, etc. in the American numismatic society building ... January 6th to February 6th, 1913. Under the auspices of the Joan of Arc status committee, the Museum of French art, Institute in America, The American numismatic society.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Jenny Lind medals and tokens</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Jenny Lind medals and tokens</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>A bibliography of Greek coin hoards</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>A bibliography of Greek coin hoards</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Ancient coins in North American collections</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Ancient coins in North American collections</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The medal in America Coinage of the Americas conference at the American numismatic society, New-York, November 8-9, 1997</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The medal in America Coinage of the Americas conference at the American numismatic society, New-York, November 8-9, 1997</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/226035330">
+        <relationEntry>American Numismatic Society. Correspondence to Daniel Garrison Brinton, 1893.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+              <persname>Drowne, Henry Russell, 1860-1934.</persname>
+            </origination>
+            <unittitle>Correspondence to Daniel Garrison Brinton, 1893.</unittitle>
+            <physdesc>
+              <extent>1 item (1 leaf)</extent>
+            </physdesc>
+            <abstract>Item is from the society's secretary, Henry Downe. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6pw782v">University of Pennsylvania Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Coin hoards</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Coin hoards</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>American Numismatic Society magazine</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>American Numismatic Society magazine</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Numismatic studies.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Numismatic studies.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Newby's St. Patrick coinage Coinage of the Americas conference at The American numismatic society, New-York, November 11, 2006</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Newby's St. Patrick coinage Coinage of the Americas conference at The American numismatic society, New-York, November 11, 2006</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Bruttium - Sicily I Abacaenum - Eryx</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Bruttium - Sicily I Abacaenum - Eryx</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Centennial publication of the American numismatic Society. Edited by Harald Ingholt. [Foreword by Louis C. West, Editor's, note by Harald Ingholt.]</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Centennial publication of the American numismatic Society. Edited by Harald Ingholt. [Foreword by Louis C. West, Editor's, note by Harald Ingholt.]</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Museum notes (American Numismatic Society, New York).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Museum notes (American Numismatic Society, New York).</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Museum notes.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Museum notes.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Colon. newsl.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Colon. newsl.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>A numismatic bibliography of the Far East; a check list of titles in European languages ...</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>A numismatic bibliography of the Far East; a check list of titles in European languages ...</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Early American Currency</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Early American Currency</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Palestine - South Arabia</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Palestine - South Arabia</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Centennial celebration of the American numismatic society at the auditorium of the American academy of arts and letters. New-York, April 12, 1958</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Centennial celebration of the American numismatic society at the auditorium of the American academy of arts and letters. New-York, April 12, 1958</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Endicott gift of Greek and Roman coins, including the &amp;quot;Catacombs&amp;quot; hoard</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Endicott gift of Greek and Roman coins, including the &amp;quot;Catacombs&amp;quot; hoard</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>America's silver dollars Coinage of the Americas conference at the American numismatic society, New-York, October 30, 1993</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>America's silver dollars Coinage of the Americas conference at the American numismatic society, New-York, October 30, 1993</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/702170445">
+        <relationEntry>Yale University. Dept. of Classics. Department of Classics, Yale University records, 1913-1990 (inclusive).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Yale University. Dept. of Classics.</persname>
+            </origination>
+            <unittitle>Department of Classics, Yale University records, 1913-1990 (inclusive).</unittitle>
+            <physdesc>
+              <extent>4.25 linear ft.</extent>
+            </physdesc>
+            <abstract>The records consist of minutes, correspondence, reports, and personnel files documenting personnel, teaching appointments, curriculum, the American Numismatic Society, and the Board of Permanent Officers of the Yale Department of Classics. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6q63cbk">Yale University Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/155473198">
+        <relationEntry>American Numismatic Society. Notebooks and manuscripts, 1784-1984, 1820-1975 (bulk)</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+            </origination>
+            <unittitle>Notebooks and manuscripts, 1784-1984, 1820-1975 (bulk)</unittitle>
+            <physdesc>
+              <extent>24 linear ft.</extent>
+            </physdesc>
+            <abstract>Material concerning the study and collection of international coins, paper money, medals, and tokens.  Focus is on American and ancient coinage as well as Arabic and Indian currencies.  Material encompasses scrapbooks of news clippings and articles, plates cut from various publications, and unpublished theses and dissertations, catalogs, and other unpublished manuscripts.  In addition there are notes about numerous aspects of numismatics and correspondence of collectors and coin dealers.  Also some inventories with accompanying photographs of coins held by private collectors, rubbings, and impressions of coins.  Also, an indenture pertaining to Machin's Mills in Ulster County, N.Y. where coins were struck, 1787. </abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="lat">Latin</language>
+              <language langcode="ger">German</language>
+              <language langcode="fre">French</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6kq8qkp">Campbell University, Wiggins Memorial Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Computing jetons</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Computing jetons</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The &amp;quot;colts&amp;quot; of Ambracia</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The &amp;quot;colts&amp;quot; of Ambracia</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Ephemeral decorations</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Ephemeral decorations</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Sylloge nummorum graecorum [USA], the collection of the American numismatic society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Sylloge nummorum graecorum [USA], the collection of the American numismatic society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Proc. Am. Numis. Soc., annu. meet.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Proc. Am. Numis. Soc., annu. meet.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Seleucid coins : a comprehensive catalogue</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Seleucid coins : a comprehensive catalogue</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Sylloge nummorum graecorum [USA], The Burton Y. Berry collection</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Sylloge nummorum graecorum [USA], The Burton Y. Berry collection</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Alexander coinage of Sicyon;</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Alexander coinage of Sicyon;</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The coinage of Metapontum</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The coinage of Metapontum</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The colonial newsletter.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The colonial newsletter.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=art00017">
+        <relationEntry>Papers of John Coolidge and Agnes Mongan, 1909-2006</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Papers of John Coolidge and Agnes Mongan, 1909-2006</unittitle>
+            <physdesc>
+              <extent>152 file boxes + oversize materials</extent>
+            </physdesc>
+            <abstract>These papers of Fogg Art Museum directors John Coolidge and AgnesMongan document their administration of the museum and related professional activities.  Mostof Coolidge's papers were created during his administration, from 1948 to 1968; most ofMongan's papers are from her tenure as acting director and then director (1968 to 1971).  Thepapers consist primarily of correspondence, including Coolidge's correspondence with artdealers, and also include photographs, memoranda, reports, meeting minutes, blueprints, printedmaterial, letters of recommendation, page proofs, financial documents, sketches and grantproposals.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6g26pnx">Harvard Art Museum Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/270736172">
+        <relationEntry>American Numismatic Society. Correspondence, 1911.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+            </origination>
+            <unittitle>Correspondence, 1911.</unittitle>
+            <physdesc>
+              <extent>1 item.</extent>
+            </physdesc>
+            <abstract>Relating to election of Pm as Honorary Member. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6204t0w">Morgan Library &amp; Museum, Pierpont Morgan Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Romano-British imitations of bronze conis of Claudius I ...</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Romano-British imitations of bronze conis of Claudius I ...</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Collection of the American Numismatic Society.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Collection of the American Numismatic Society.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>AJN</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>AJN</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>ANS Newsletter</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>ANS Newsletter</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The fifth Dura hoard</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The fifth Dura hoard</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The sixth, seventh and tenth Dura hoards</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The sixth, seventh and tenth Dura hoards</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Am. j. numis. (1989)</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Am. j. numis. (1989)</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Sicily II Galaria - Styella</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Sicily II Galaria - Styella</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Pergamene mint under Philetaerus</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Pergamene mint under Philetaerus</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>America's currency, 1789-1866 Coinage of Americas conference at The American numismatic society, New-York, October 31 - November 2, 1985</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>America's currency, 1789-1866 Coinage of Americas conference at The American numismatic society, New-York, October 31 - November 2, 1985</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Thurian di-staters</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Thurian di-staters</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The confederate coinage of the Arcadians in the fifth century B.C.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The confederate coinage of the Arcadians in the fifth century B.C.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>ANS</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>ANS</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Numismatic notes and monographs</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Numismatic notes and monographs</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/223346479">
+        <relationEntry>Smith, Erminnie Adele Platt, 1836-1886. [Peabody Museum director records, Frederic W. Putnam (1839-1915), 1870-1923].</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Smith, Erminnie Adele Platt, 1836-1886.</persname>
+              <persname>Agassiz, Louis, 1807-1873.</persname>
+              <persname>Bandelier, Adolph Francis Alphonse, 1840-1914.</persname>
+              <persname>Boas, Franz, 1858-1942.</persname>
+              <persname>Bowditch, Charles P. (Charles Pickering), 1842-1921.</persname>
+              <persname>Bowers, Stephen, 1832-1907.</persname>
+              <persname>Charnay, Désiré, 1828-1915.</persname>
+              <persname>Culin, Stewart, 1858-1929.</persname>
+              <persname>Dixon, Roland Burrage, 1875-1934.</persname>
+              <persname>Dorsey, George A. (George Amos), 1868-1931.</persname>
+              <persname>Farabee, William Curtis, 1865-1925.</persname>
+              <persname>Fletcher, Alice C. (Alice Cunningham), 1838-1923.</persname>
+              <persname>Gordon, G. B. (George Byron), 1870-1927.</persname>
+              <persname>Hooton, Earnest Albert, 1887-1954.</persname>
+              <persname>Maler, Teobert, 1842-1914.</persname>
+              <persname>Mead, Frances Harvey.</persname>
+              <persname>Metz, Charles L.</persname>
+              <persname>Merwin, Raymond Edwin, 1881-1928.</persname>
+              <persname>Nickerson, William Baker.</persname>
+              <persname>Smith, Harlan Ingersoll, 1872-1940.</persname>
+              <persname>Thompson, Edward Herbert, 1860-1935.</persname>
+              <persname>Alabama Archaeological Society.</persname>
+              <persname>American Anthropological Society.</persname>
+              <persname>American Antiquarian Society.</persname>
+              <persname>American Association for the Advancement of Science.</persname>
+              <persname>American Ethnological Society.</persname>
+              <persname>American Folklore Society.</persname>
+              <persname>American Geographical Society of New York.</persname>
+              <persname>American Museum of Natural History.</persname>
+              <persname>American Numismatic Society.</persname>
+              <persname>American Ornithologists' Union.</persname>
+              <persname>American Philosophical Society.</persname>
+              <persname>Anthropological Society of Washington (Washington, D.C.)</persname>
+              <persname>Archaeological Institute of America.</persname>
+              <persname>Carnegie Institution of Washington.</persname>
+              <persname>Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)</persname>
+              <persname>Massachusetts Indian Association. Cambridge Branch.</persname>
+              <persname>Universidad Nacional de La Plata.</persname>
+              <persname>Ohio State Archaeological and Historical Society.</persname>
+              <persname>Phillips Academy. Dept. of Archaeology.</persname>
+              <persname>Smithsonian Institution.</persname>
+              <persname>Società romana di antropologia.</persname>
+              <persname>Société d'anthropologie de Paris.</persname>
+              <persname>Society of American Indians.</persname>
+              <persname>United States. National Park Service.</persname>
+              <persname>Universal Races Congress 1911 : London)</persname>
+            </origination>
+            <unittitle>[Peabody Museum director records, Frederic W. Putnam (1839-1915), 1870-1923].</unittitle>
+            <physdesc>
+              <extent>4 linear feet (9 boxes) ; c. 12 oversize rolled maps and plans.</extent>
+            </physdesc>
+            <abstract>These director records reflect the wide scope of not only Putnam's individual activities, but the museum collections themselves, the global community in which these activities took place, and the museum's prominent role in establishing American archaeology and anthropology as an academic discipline. Thus, the records contain a mixture of curatorial, administrative and professional subjects, often in the same individual items, or groups of materials. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63p2rw5">Harvard University, Tozzer Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>ANS Magazine</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>ANS Magazine</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Studies in medallic art</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Studies in medallic art</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>An inscribed Chinese ingot of the XII century A.D.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>An inscribed Chinese ingot of the XII century A.D.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Carolingian coinage</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Carolingian coinage</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Catalogue of the collection of gold coins in the cabinet of the American Numismatic Society.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Catalogue of the collection of gold coins in the cabinet of the American Numismatic Society.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Hacksilber to coinage : new insights into the monetary history of the Near East and Greece : a collection of eight papers presented at the 99th Annual Meeting of the Archaeological Institute of America</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Hacksilber to coinage : new insights into the monetary history of the Near East and Greece : a collection of eight papers presented at the 99th Annual Meeting of the Archaeological Institute of America</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Proceedings of the american numismatic society ... annual meeting</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Proceedings of the american numismatic society ... annual meeting</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Burton Y. Berry Collection.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Burton Y. Berry Collection.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Agrinion hoard.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Agrinion hoard.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Seleucid coinages of Tyre</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Seleucid coinages of Tyre</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Certificate of incorporation, constitution and by laws.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Certificate of incorporation, constitution and by laws.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Les médailles historiques du règne de Napoléon le Grand, empereur et roi, pub. sous les auspices de la Société de numismatique de New-York</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Les médailles historiques du règne de Napoléon le Grand, empereur et roi, pub. sous les auspices de la Société de numismatique de New-York</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/63537827">
+        <relationEntry>Cornell University. Department of Fine Arts. Dept. of Fine Arts records, 1922-1959.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Cornell University. Department of Fine Arts.</persname>
+            </origination>
+            <unittitle>Dept. of Fine Arts records, 1922-1959.</unittitle>
+            <physdesc>
+              <extent>3.4 cubic ft.</extent>
+            </physdesc>
+            <abstract>Correspondence, minutes, accounts, inventories, archaeological notes, programs, and printed material; department chairman was Frederick O. Waage. Organizations represented include the American Numismatic Society, the Archaeological Institute of America, and the College Art Association of America. Major correspondents include Cornelius William De Kiewiet, and Deane W. Malott. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6sc4v5v">Cornell University Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/270730334">
+        <relationEntry>American Numismatic Society. Letter signed : Agnes Baldwin to Belle Greene, 1911 Nov. 3.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+              <persname>Greene, Belle da Costa,</persname>
+            </origination>
+            <unittitle>Letter signed : Agnes Baldwin to Belle Greene, 1911 Nov. 3.</unittitle>
+            <physdesc>
+              <extent>1 item.</extent>
+            </physdesc>
+            <abstract>Borrowing a coin to illustrate her forth-coming catalogue. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6204t0w">Morgan Library &amp; Museum, Pierpont Morgan Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/155473217">
+        <relationEntry>American Numismatic Society. Photograph file, [ca. 1890]-1985.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+            </origination>
+            <unittitle>Photograph file, [ca. 1890]-1985.</unittitle>
+            <physdesc>
+              <extent>500,000 photographs.</extent>
+            </physdesc>
+            <abstract>File of photographs selected from auction and sales catalogs which illustrate coins held by private collectors.  Over 500,000 illustrations of coinage of ancient Greece, Rome, and Byzantium as well as a smaller number from medieval European and Islamic societies. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6kq8qkp">Campbell University, Wiggins Memorial Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>American journal of numismatics.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>American journal of numismatics.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Two hoards from Minturno</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Two hoards from Minturno</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Seleuid coinages of Tyre a supplement</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Seleuid coinages of Tyre a supplement</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Numismatic literature</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Numismatic literature</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The eighth and ninth Dura hoards</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The eighth and ninth Dura hoards</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>A bibliography of Byzantine coin hoards</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>A bibliography of Byzantine coin hoards</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>American journal of numismatics and bulletin of American numismatic and archeological society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>American journal of numismatics and bulletin of American numismatic and archeological society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>American Numismatic Society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>American Numismatic Society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The coinage of the Mexican revolutionists</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The coinage of the Mexican revolutionists</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The New England and willow tree coinages of Massachusetts</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The New England and willow tree coinages of Massachusetts</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://library.syr.edu/digital/guides/h/huntington_am.htm">
+        <relationEntry>Archer Milton Huntington Papers, 1919-1957</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Huntington, Archer M. (Archer Milton), 1870-1955</persname>
+            </origination>
+            <unittitle>Archer Milton Huntington  Papers 1919-1957</unittitle>
+            <physdesc>
+              <extent>51.0 linear ft.</extent>
+            </physdesc>
+            <abstract>Papers of the American philanthropist, poet.   Correspondence; secretarial daybooks, 1922-1957; manuscripts; legal and financial papers. Organizational correspondence includes that of the Academy of American Poets, American Academy of Arts and Letters, American Geographical Society, American Museum of Natural History, American Numismatic Society, Brookgreen Gardens, California Palace of the Legion of Honor, Hispanic Society of America, Mariners' Museum, Metropolitan Museum of Art, Museum of the American Indian, National Academy of Design, National Arts Club, National Sculpture Society, New-York Historical Society, New York Zoological Society, and Yale University.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6kj1b5c">Special Collections Research Center, Syracuse University Libraries</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/270736170">
+        <relationEntry>American Numismatic Society. Letter, 1910.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>American Numismatic Society.</persname>
+            </origination>
+            <unittitle>Letter, 1910.</unittitle>
+            <physdesc>
+              <extent>1 item.</extent>
+            </physdesc>
+            <abstract>Official thanks for loan of coins for exhibition. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6204t0w">Morgan Library &amp; Museum, Pierpont Morgan Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The token : America's other money</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The token : America's other money</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Syrian tetradrachms of Caracalla and Macrinus</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Syrian tetradrachms of Caracalla and Macrinus</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>America's silver coinage, 1794-1891 Coinage of the Americas conference at The American numismatic society, New-York, November 1-2, 1986</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>America's silver coinage, 1794-1891 Coinage of the Americas conference at The American numismatic society, New-York, November 1-2, 1986</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Cobs, pieces of eight and treasure coins : the early Spanish-American mints and their coinages, 1536-1773</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Cobs, pieces of eight and treasure coins : the early Spanish-American mints and their coinages, 1536-1773</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/58660443">
+        <relationEntry>West, Charles Edwin, 1809-1900. Scrapbook, 1882-1885.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>West, Charles Edwin, 1809-1900.</persname>
+            </origination>
+            <unittitle>Scrapbook, 1882-1885.</unittitle>
+            <physdesc>
+              <extent>1 v.</extent>
+            </physdesc>
+            <abstract>Scrapbook of Charles Edwin West containing correspondence, printed notices, and clippings. The material relates to coin collecting and to the activities of the American Numismatic and Archaeological Society, 1882-1885. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63w05s3">New York University, Group Batchload</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Greek coins in North American collections</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Greek coins in North American collections</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Proceedings of the Coinage of the Americas conference</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Proceedings of the Coinage of the Americas conference</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Sylloge nummorum Graecorum.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Sylloge nummorum Graecorum.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Mende (Kaliandra) hoard</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Mende (Kaliandra) hoard</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

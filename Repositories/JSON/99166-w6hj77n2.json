@@ -1,0 +1,147 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6hj77n2",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "123238",
+            "id": "76784845",
+            "version": "11233289"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:45:52",
+            "standardDateTime": "2016-11-22T11:45:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Tribunal f\u00e9d\u00e9ral, TF",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Tribunal f\u00e9d\u00e9ral, TF",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76784844",
+                    "version": "11233289"
+                }
+            ],
+            "id": "76784843",
+            "version": "11233289"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Tribunal f\u00e9d\u00e9ral, TF",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Case postale, 1000 Lausanne 14",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784847",
+                    "version": "11233289"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Lausanne 14",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784848",
+                    "version": "11233289"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "1000",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784849",
+                    "version": "11233289"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CH",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76784850",
+                    "version": "11233289"
+                }
+            ],
+            "geoplace": {
+                "id": "16789",
+                "name": "Tribunal f\u00e9d\u00e9ral, TF",
+                "latitude": "46.8060000",
+                "longitude": "8.2260000"
+            },
+            "confirmed": true,
+            "id": "76784846",
+            "version": "11233289"
+        }
+    ],
+    "id": "76784842",
+    "version": "11233292"
+}

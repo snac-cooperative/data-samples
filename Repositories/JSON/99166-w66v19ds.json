@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w66v19ds",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:18:31",
+            "standardDateTime": "2016-11-28T17:18:31",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Alfred M. Bailey Library and Archives,Denver Museum of Nature & Science",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Alfred M. Bailey Library and Archives,Denver Museum of Nature & Science",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76791647",
+                    "version": "11235753"
+                }
+            ],
+            "id": "76791646",
+            "version": "11235753"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791645",
+            "targetConstellation": "76766006",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w66v19ds",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6jj48m6",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Denver Museum of Nature & Science, Alfred M. Bailey Library"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Alfred M. Bailey Library and Archives,Denver Museum of Nature & Science",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "2001 Colorado Boulevard Denver, CO 80205",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76791649",
+                    "version": "11235753"
+                }
+            ],
+            "id": "76791648",
+            "version": "11235753"
+        }
+    ],
+    "id": "76791645",
+    "version": "11235756"
+}

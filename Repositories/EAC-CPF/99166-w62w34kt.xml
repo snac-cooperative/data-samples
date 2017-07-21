@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w62w34kt</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-11-22T11:32:45">2016-11-22T11:32:45</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+                    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <entityId>MH-Z</entityId>
+      <entityId>3748</entityId>
+      <nameEntry snac:preferenceScore="99">
+        <part>Harvard University, Ernst Mayr Library of the Museum of Comparative Zoology</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
+        <snac:placeEntry>
+          <placeEntry>Harvard University, Ernst Mayr Library of the Museum of Comparative Zoology</placeEntry>
+          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="42.3783840" longitude="-71.1163320" administrationCode="" countryCode="">Harvard University, Ernst Mayr Library of the Museum of Comparative Zoology
+                    </snac:placeEntryBestMaybeSame>
+        </snac:placeEntry>
+      </place>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w62012gx">
+        <relationEntry>Harvard University. Museum of Comparative Zoology. Library.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w6q34p05">
+        <relationEntry>Ernst Mayr Library, Museum of Comparative Zoology, Harvard University</relationEntry>
+      </cpfRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,143 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w62w34vd",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:20:43",
+            "standardDateTime": "2016-11-28T17:20:43",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Claremont Colleges. Library. Special Collections, Honnold\/Mudd Library.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Claremont Colleges. Library. Special Collections, Honnold\/Mudd Library.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792644",
+                    "version": "11236717"
+                }
+            ],
+            "id": "76792643",
+            "version": "11236717"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792642",
+            "targetConstellation": "76792627",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62w34vd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g55d16",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Claremont Colleges. Honnold\/Mudd Library."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792642",
+            "targetConstellation": "76792651",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62w34vd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6tg0m2f",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Claremont Colleges.Special Collections, Honnold\/Mudd Library."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792642",
+            "targetConstellation": "76794180",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62w34vd",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64v775g",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Libraries of the Claremont Colleges. Special Collections, Honnold\/Mudd Library."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Claremont Colleges. Library. Special Collections, Honnold\/Mudd Library.",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "800 N. Dartmouth Ave. Claremont Colleges Claremont, California 91711",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792646",
+                    "version": "11236717"
+                }
+            ],
+            "id": "76792645",
+            "version": "11236717"
+        }
+    ],
+    "id": "76792642",
+    "version": "11236720"
+}

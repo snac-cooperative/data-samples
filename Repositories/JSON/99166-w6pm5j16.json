@@ -1,0 +1,312 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6pm5j16",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-05-07",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T15:22:00",
+            "standardDateTime": "2016-08-10T15:22:00",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T15:22:00",
+            "standardDateTime": "2016-08-10T15:22:00",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: EAD from http:\/\/www2.lib.unc.edu\/mss\/inv\/s\/Sanford,Terry.html",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/unc\/03531.xml<\/filename>\n                  <ead_entity en_type=\"corpname\">Lyndon B. Johnson Presidential Library<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/www2.lib.unc.edu\/mss\/inv\/s\/Sanford,Terry.html",
+            "id": "13155622",
+            "version": "1912703"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: EAD from http:\/\/doddcenter.uconn.edu\/asc\/findaids\/Paterson\/MSS19980365.html",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/uct\/MSS19980365.xml<\/filename>\n                  <ead_entity en_type=\"corpname\">Lyndon B. Johnson Presidential Library<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/doddcenter.uconn.edu\/asc\/findaids\/Paterson\/MSS19980365.html",
+            "id": "13155621",
+            "version": "1912703"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Lyndon B. Johnson Presidential Library",
+            "preferenceScore": "2",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Lyndon B. Johnson Presidential Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "13155624",
+                    "version": "1912703"
+                }
+            ],
+            "id": "13155623",
+            "version": "1912703",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"uct\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"unc\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "77876047",
+                    "version": "1912703"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "13155620",
+            "targetConstellation": "27611358",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6pm5j16",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64c962n",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Paterson, Thomas G.",
+            "id": "13155629",
+            "version": "1912703"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "13155620",
+            "targetConstellation": "3430541",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6pm5j16",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6b56gpp",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Sanford, Terry, 1917-1998",
+            "id": "13155630",
+            "version": "1912703"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/doddcenter.uconn.edu\/asc\/findaids\/Paterson\/MSS19980365.html",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <repository>\n                     <corpname>Archives &amp; Special Collections at the Thomas J. Dodd Research Center<\/corpname>.<\/repository>\n                  <origination>\n                     <persname>Paterson, Thomas G.<\/persname>\n                  <\/origination>\n                  <unittitle>Thomas G. Paterson Papers.<\/unittitle>\n                  <unitdate>1836-2002.<\/unitdate>\n                  <physdesc>40 linear feet. <\/physdesc>\n                  <abstract>Thomas Graham Paterson received his Bachelors degree from the University of New Hampshire in 1963, and his Masters and Doctoral degrees from the University of California, Berkeley in 1964 and 1968, respectively. As an historian, educator, and author, he has written and co-written a number of books and articles, and has also acted as an editor for various other publications.  Paterson is known primarily for his contributions to the history of the Cold War with a focus on Cuba, as well as United States foreign relations in general.<\/abstract>\n                  <unitid>MSS19980365<\/unitid>\n                  <langmaterial>\n                     <language>English.<\/language>\n                  <\/langmaterial>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "Thomas G. Paterson Papers. 1836-2002.",
+                "abstract": "Thomas Graham Paterson received his Bachelors degree from the University of New Hampshire in 1963, and his Masters and Doctoral degrees from the University of California, Berkeley in 1964 and 1968, respectively. As an historian, educator, and author, he has written and co-written a number of books and articles, and has also acted as an editor for various other publications.  Paterson is known primarily for his contributions to the history of the Cold War with a focus on Cuba, as well as United States foreign relations in general.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Paterson, Thomas G.",
+                        "id": "11359018",
+                        "version": "6332477"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "id": "11359019",
+                        "version": "6332477"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6mt4ghq",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Archives & Special Collections at the Thomas J. Dodd Research Center.",
+                            "preferenceScore": "99",
+                            "id": "76791841",
+                            "version": "11235957"
+                        }
+                    ],
+                    "id": "76791840",
+                    "version": "11235960"
+                },
+                "id": "6332477",
+                "version": "6332477"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Thomas G. Paterson Papers., 1836-2002.",
+            "id": "13155631",
+            "version": "1912703"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www2.lib.unc.edu\/mss\/inv\/s\/Sanford,Terry.html",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <repository>\n                     <corpname>University of North Carolina at Chapel Hill. Library.\n\t\t\t\t\tSouthern Historical Collection.<\/corpname>\n                  <\/repository>\n                  <origination>\n                     <persname>Sanford, Terry, 1917-1998.<\/persname>\n                  <\/origination>\n                  <unittitle>Terry Sanford Papers, <unitdate>1946-1993<\/unitdate>\n                  <\/unittitle>\n                  <unitid>3531<\/unitid>\n                  <langmaterial>Materials in <language>English<\/language>\n                  <\/langmaterial>\n                  <physdesc>\n                     <extent>87,000<\/extent>\n                     <extent>95.0<\/extent>\n                  <\/physdesc>\n                  <abstract>Terry Sanford of Scotland, Cumberland,\n\t\t\t\tWake, and Durham counties, N.C., was a politician, educator, administrator, lawyer,\n\t\t\t\tand soldier. He served as state senator, 1953-1954; governor of North Carolina,\n\t\t\t\t1961-1965; president of Duke University, 1969-1985; and U.S. senator,\n\t\t\t\t1986-1992.<\/abstract>\n                  <abstract>The collection includes campaign files and other items\n\t\t\t\trelating to Terry Sanford's career. Pre-1960 material includes items related to\n\t\t\t\tStrom Thurmond's 1948 Dixiecrat campaign for U.S. President; to Sanford's successful\n\t\t\t\t1949 campaign for president of the Young Democrats Clubs of North Carolina; to Frank\n\t\t\t\tPorter Graham's 1950 senatorial campaign; and to North Carolina's Pearsall Plan for\n\t\t\t\tpublic school desegregation. 1959-1960 gubernatorial campaign items include\n\t\t\t\tcorrespondence between Sanford's staff and county liaisons, correspondence with key\n\t\t\t\tadvisors, clippings from state and regional newspapers, letters responding to\n\t\t\t\tSanford's support of John F. Kennedy at the Democratic National Convention, and\n\t\t\t\tfilms and audio tapes of Sanford gubernatorial campaign advertisements. Topics\n\t\t\t\tinclude agriculture, industry, public schools, welfare, race relations, women in\n\t\t\t\tpolitics, and religion and politics. Items, 1961-1965, document Sanford's political\n\t\t\t\tactivities as North Carolina governor. Topics include North Carolina's 1963 \"Gag\n\t\t\t\tLaw,\" the Good Neighbor Council, and the North Carolina Fund. Items, 1965-1984,\n\t\t\t\trelate to Sanford's proposed 1968 U.S. senatorial campaign against Sen. Sam Ervin;\n\t\t\t\tthe 1968 Citizens for Humphrey-Muskie Committee; and Sanford's 1972 and 1976\n\t\t\t\tpresidential campaigns. Materials related to Sanford's unsuccessful 1992 U.S.\n\t\t\t\tsenatorial campaign include North Carolina voters' responses to a Sanford\n\t\t\t\tquestionnaire, detailed reports on Sanford's opponent Lauch Faircloth, folders on\n\t\t\t\twomen's and children's issues, and photographs and several video and audio tapes\n\t\t\t\trelated to the campaign. 1992 campaign topics include welfare, industry, education,\n\t\t\t\tcrime, and taxes. Correspondents represented in the collection include John F.\n\t\t\t\tKennedy, Lyndon B. Johnson, Bill Clinton, Bert Bennett, Hugh Cannon, Henry H. Wilson\n\t\t\t\tJr., Frank Porter Graham, Clyde Hoey, William Friday, Sam Rayburn, W. Kerr Scott,\n\t\t\t\tLuther Hodges, Dan K. Moore, Hubert H. Humphrey, I. Beverly Lake, Sr., Malcolm\n\t\t\t\tSeawell, Sam Ervin, Lauch Faircloth, John Larkins, John Gavin, Robert F. Kennedy,\n\t\t\t\tand Adlai Stevenson. The Addition of 2011 contains notes, short letters, and greeting cards, 1960-1985, addressed to Margaret Rose Sanford; some letters discuss Terry Sanford's 1960 gubernatorial campaign and victory, support for Sanford's 1961 tax plan, and the end of Sanford's gubernatorial career. There are also a few letters, 1959-1964, chiefly thank-yous, to Terry Sanford; letters, 1960-1967, to his mother about Sanford's achievements; and other items.<\/abstract>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "Terry Sanford Papers, 1946-1993",
+                "abstract": "Terry Sanford of Scotland, Cumberland,Wake, and Durham counties, N.C., was a politician, educator, administrator, lawyer,and soldier. He served as state senator, 1953-1954; governor of North Carolina,1961-1965; president of Duke University, 1969-1985; and U.S. senator,1986-1992. The collection includes campaign files and other itemsrelating to Terry Sanford's career. Pre-1960 material includes items related toStrom Thurmond's 1948 Dixiecrat campaign for U.S. President; to Sanford's successful1949 campaign for president of the Young Democrats Clubs of North Carolina; to FrankPorter Graham's 1950 senatorial campaign; and to North Carolina's Pearsall Plan forpublic school desegregation. 1959-1960 gubernatorial campaign items includecorrespondence between Sanford's staff and county liaisons, correspondence with keyadvisors, clippings from state and regional newspapers, letters responding toSanford's support of John F. Kennedy at the Democratic National Convention, andfilms and audio tapes of Sanford gubernatorial campaign advertisements. Topicsinclude agriculture, industry, public schools, welfare, race relations, women inpolitics, and religion and politics. Items, 1961-1965, document Sanford's politicalactivities as North Carolina governor. Topics include North Carolina's 1963 \"GagLaw,\" the Good Neighbor Council, and the North Carolina Fund. Items, 1965-1984,relate to Sanford's proposed 1968 U.S. senatorial campaign against Sen. Sam Ervin;the 1968 Citizens for Humphrey-Muskie Committee; and Sanford's 1972 and 1976presidential campaigns. Materials related to Sanford's unsuccessful 1992 U.S.senatorial campaign include North Carolina voters' responses to a Sanfordquestionnaire, detailed reports on Sanford's opponent Lauch Faircloth, folders onwomen's and children's issues, and photographs and several video and audio tapesrelated to the campaign. 1992 campaign topics include welfare, industry, education,crime, and taxes. Correspondents represented in the collection include John F.Kennedy, Lyndon B. Johnson, Bill Clinton, Bert Bennett, Hugh Cannon, Henry H. WilsonJr., Frank Porter Graham, Clyde Hoey, William Friday, Sam Rayburn, W. Kerr Scott,Luther Hodges, Dan K. Moore, Hubert H. Humphrey, I. Beverly Lake, Sr., MalcolmSeawell, Sam Ervin, Lauch Faircloth, John Larkins, John Gavin, Robert F. Kennedy,and Adlai Stevenson. The Addition of 2011 contains notes, short letters, and greeting cards, 1960-1985, addressed to Margaret Rose Sanford; some letters discuss Terry Sanford's 1960 gubernatorial campaign and victory, support for Sanford's 1961 tax plan, and the end of Sanford's gubernatorial career. There are also a few letters, 1959-1964, chiefly thank-yous, to Terry Sanford; letters, 1960-1967, to his mother about Sanford's achievements; and other items.",
+                "extent": "87,000; 95.0",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Sanford, Terry, 1917-1998.",
+                        "id": "11592473",
+                        "version": "6628859"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "id": "11592474",
+                        "version": "6628859"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6hr4nt6",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "U niversity of North Carolina at Chapel Hill. Library. Southern Historical Collection.",
+                            "preferenceScore": "99",
+                            "id": "76797875",
+                            "version": "11241657"
+                        }
+                    ],
+                    "id": "76797874",
+                    "version": "11241660"
+                },
+                "id": "6628859",
+                "version": "6628859"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Terry Sanford Papers, 1946-1993",
+            "id": "13155632",
+            "version": "1912703"
+        }
+    ],
+    "id": "13155620",
+    "version": "1912704"
+}

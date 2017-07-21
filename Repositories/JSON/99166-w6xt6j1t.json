@@ -1,0 +1,191 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6xt6j1t",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "UkLSOA",
+            "id": "76786729",
+            "version": "11233957"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "53921",
+            "id": "76786730",
+            "version": "11233957"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:47:26",
+            "standardDateTime": "2016-11-22T11:47:26",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of London, School of Oriental and African Studies, SOAS",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of London, School of Oriental and African Studies, SOAS",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76786728",
+                    "version": "11233957"
+                }
+            ],
+            "id": "76786727",
+            "version": "11233957"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76786726",
+            "targetConstellation": "76066503",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xt6j1t",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w60b13nd",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of London, School of Oriental and African Studies"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "University of London, School of Oriental and African Studies, SOAS",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Thornhaugh Street",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76786732",
+                    "version": "11233957"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Russell Square",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76786733",
+                    "version": "11233957"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "London",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76786734",
+                    "version": "11233957"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "WC1H 0XG",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76786735",
+                    "version": "11233957"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "GB",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76786736",
+                    "version": "11233957"
+                }
+            ],
+            "geoplace": {
+                "id": "17061",
+                "name": "University of London, School of Oriental and African Studies, SOAS",
+                "latitude": "51.5223503",
+                "longitude": "-0.1292750"
+            },
+            "confirmed": true,
+            "id": "76786731",
+            "version": "11233957"
+        }
+    ],
+    "id": "76786726",
+    "version": "11233960"
+}

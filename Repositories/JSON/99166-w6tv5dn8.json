@@ -1,0 +1,173 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6tv5dn8",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "43976",
+            "id": "76789458",
+            "version": "11234889"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:49:37",
+            "standardDateTime": "2016-11-22T11:49:37",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Vancouver Island University Library, formerly Malaspina University-College Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Vancouver Island University Library, formerly Malaspina University-College Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76789457",
+                    "version": "11234889"
+                }
+            ],
+            "id": "76789456",
+            "version": "11234889"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Vancouver Island University Library, formerly Malaspina University-College Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Library Technical Services Department",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789460",
+                    "version": "11234889"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "900 5th Street",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789461",
+                    "version": "11234889"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Nanaimo",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789462",
+                    "version": "11234889"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA-BC",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789463",
+                    "version": "11234889"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "V9R 5S5",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789464",
+                    "version": "11234889"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CA",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789465",
+                    "version": "11234889"
+                }
+            ],
+            "geoplace": {
+                "id": "16628",
+                "name": "Vancouver Island University Library, formerly Malaspina University-College Library",
+                "latitude": "49.1500000",
+                "longitude": "-123.9770000"
+            },
+            "confirmed": true,
+            "id": "76789459",
+            "version": "11234889"
+        }
+    ],
+    "id": "76789455",
+    "version": "11234892"
+}

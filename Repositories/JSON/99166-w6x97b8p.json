@@ -1,0 +1,1301 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6x97b8p",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28226",
+                "term": "viafID",
+                "uri": "http:\/\/viaf.org\/viaf\/terms#viafID",
+                "type": "record_type"
+            },
+            "uri": "262062082",
+            "id": "76739532",
+            "version": "11220806"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Jimmy Carter Library",
+            "uri": "http:\/\/viaf.org\/viaf\/262062082",
+            "id": "76739533",
+            "version": "11220806"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/wcidentities\/lccn-n90638933",
+            "id": "76739534",
+            "version": "11220806"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/id.loc.gov\/authorities\/names\/n90638933",
+            "id": "76739535",
+            "version": "11220806"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-19",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-19T20:54:49",
+            "standardDateTime": "2016-08-19T20:54:49",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-19T20:54:49",
+            "standardDateTime": "2016-08-19T20:54:49",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: http:\/\/www.worldcat.org\/oclc\/700265232",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/700265232",
+            "id": "76739508",
+            "version": "11220806"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 3: http:\/\/www.worldcat.org\/oclc\/700267591",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/700267591",
+            "id": "76739509",
+            "version": "11220806"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: http:\/\/www.worldcat.org\/oclc\/173863206",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/173863206",
+            "id": "76739507",
+            "version": "11220806"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 4: http:\/\/www.worldcat.org\/oclc\/668104555",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/668104555",
+            "id": "76739510",
+            "version": "11220806"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 5: http:\/\/viaf.org\/viaf\/262062082",
+            "uri": "http:\/\/viaf.org\/viaf\/262062082",
+            "id": "76739511",
+            "version": "11220806"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "76739512",
+            "version": "11220806"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Jimmy Carter Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Jimmy Carter Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76739514",
+                    "version": "11220806"
+                }
+            ],
+            "id": "76739513",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "83082244",
+                    "version": "11220806"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Jimmy Carter Presidential Library and Museum",
+            "preferenceScore": "1",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Jimmy Carter Presidential Library and Museum",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76739520",
+                    "version": "11220806"
+                }
+            ],
+            "id": "76739519",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "83082245",
+                    "version": "11220806"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Carter Library",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Carter Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76739523",
+                    "version": "11220806"
+                }
+            ],
+            "id": "76739522",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "83082246",
+                    "version": "11220806"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Jimmy Carter Presidential Libary and Museum Atlanta, Ga.",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Jimmy Carter Presidential Libary and Museum Atlanta, Ga.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76739526",
+                    "version": "11220806"
+                }
+            ],
+            "id": "76739525",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "83082247",
+                    "version": "11220806"
+                }
+            ]
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "76739505",
+                "version": "11220806"
+            },
+            "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">At the end of World War II, the Hungarian Crown guard transferred the Crown of St. Stephen, a symbol of the Hungarian nation, to U.S. Army officers to prevent the Crown from falling into the hands of the Soviet army. Later, Cold War tensions prevented the crown from being returned to the Hungarian people. In 1978, the Crown was returned to Hungary by order of President Jimmy Carter.<\/p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Documents from the Carter Presidential Papers White House Central File, [manuscript] [1977-1981] \/ Jimmy Carter Library. (Indiana University). WorldCat record id: 700265232<\/citation>\n         <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Documents related to the Crown of St. Stephen, [manuscript] [1977-1981] \/ Jimmy Carter Library. (Indiana University). WorldCat record id: 700267591<\/citation>\n         <\/biogHist>",
+            "id": "76739504",
+            "version": "11220806"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76739503",
+            "targetConstellation": "75643621",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6x97b8p",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6n5920p",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Brzezinski, Zbigniew, 1928-",
+            "id": "76739548",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76739503",
+            "targetConstellation": "48333929",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6x97b8p",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w60g8rcq",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "CAUTION, Inc.",
+            "id": "76739545",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76739503",
+            "targetConstellation": "48781889",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6x97b8p",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64t79xt",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Smith, Frederick C., 1947-",
+            "id": "76739549",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76739503",
+            "targetConstellation": "41545482",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6x97b8p",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cv9j71",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "United States. Assistant to the President for National Security Affairs.",
+            "id": "76739547",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76739503",
+            "targetConstellation": "14524922",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6x97b8p",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w69s6rg6",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "United States. President (1977-1981 : Carter)",
+            "id": "76739546",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76739503",
+            "targetConstellation": "76771459",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6x97b8p",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6v80741",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Jimmy Carter Library"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/700265232",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:700265232<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-IUL<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Jimmy Carter Library.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>United States. President (1977-1981 : Carter)<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Documents from the Carter Presidential Papers White House Central File, [manuscript] [1977-1981] \/ Jimmy Carter Library.<\/title>\n                  <\/titleInfo>\n                  <abstract>Documents are photocopied from the Carter Presidential Papers, White House Central File. Documents include correspondence, memorandums, telegrams, and newspaper clippings pertaining to the return of the Crown of St. Stephen to Hungary. Some documents have been declassified. <\/abstract>\n                  <name>\n                     <namePart>Indiana University<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Documents from the Carter Presidential Papers White House Central File, [manuscript] [1977-1981] \/ Jimmy Carter Library.",
+                "abstract": "Documents are photocopied from the Carter Presidential Papers, White House Central File. Documents include correspondence, memorandums, telegrams, and newspaper clippings pertaining to the return of the Crown of St. Stephen to Hungary. Some documents have been declassified. ",
+                "extent": "1 v. (unpaged) : photocopies ; 29 cm.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jimmy Carter Library.",
+                        "id": "10697922",
+                        "version": "8002925"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "United States. President (1977-1981 : Carter)",
+                        "id": "10697923",
+                        "version": "8002925"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6n11w06",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Indiana University",
+                            "preferenceScore": "99",
+                            "id": "76770734",
+                            "version": "11228053"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Indiana University",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1320 East 10th Street",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770739",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Bloomington",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770740",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-IN",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770741",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "47405-3907",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770742",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770743",
+                                    "version": "11228053"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "16271",
+                                "name": "Indiana University",
+                                "latitude": "39.1721611",
+                                "longitude": "-86.5255203"
+                            },
+                            "confirmed": true,
+                            "id": "76770738",
+                            "version": "11228053"
+                        }
+                    ],
+                    "id": "76770733",
+                    "version": "11228056"
+                },
+                "id": "8002925",
+                "version": "8002925"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Jimmy Carter Library. Documents from the Carter Presidential Papers White House Central File, [manuscript] [1977-1981] \/ Jimmy Carter Library.",
+            "id": "76739551",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/668104555",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:668104555<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-JFK<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Smith, Frederick C., 1947-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>DePue, Mark R.,<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Abraham Lincoln Presidential Library.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>An interview with Frederick C. Smith \/ Frederick C. Smith ; Mark R. DePue, interviewer. 2010.<\/title>\n                  <\/titleInfo>\n                  <abstract>An interview of Frederick C. Smith conducted by Mark R. DePue for the Abraham Lincoln Presidential Library. Topics discussed include National Archives and Records Administration (NARA) Presidential Libraries and Museums; Herbert Hoover Presidential Library and Museum; Harry S. Truman Library and Museum; John F. Kennedy Library and Museum; Lyndon B. Johnson Library and Museum; Richard M. Nixon Library and Museum; Gerald Ford Library and Museum; Jimmy Carter Library and Museum; Ronald Reagan Library and Museum; George H.W. Bush Library and Museum; and William J. Clinton Library and Museum. <\/abstract>\n                  <name>\n                     <namePart>Abraham Lincoln Presidential Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "An interview with Frederick C. Smith \/ Frederick C. Smith ; Mark R. DePue, interviewer. 2010.",
+                "abstract": "An interview of Frederick C. Smith conducted by Mark R. DePue for the Abraham Lincoln Presidential Library. Topics discussed include National Archives and Records Administration (NARA) Presidential Libraries and Museums; Herbert Hoover Presidential Library and Museum; Harry S. Truman Library and Museum; John F. Kennedy Library and Museum; Lyndon B. Johnson Library and Museum; Richard M. Nixon Library and Museum; Gerald Ford Library and Museum; Jimmy Carter Library and Museum; Ronald Reagan Library and Museum; George H.W. Bush Library and Museum; and William J. Clinton Library and Museum. ",
+                "extent": "1 videodisc (61 min.) + 14 photos.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Smith, Frederick C., 1947-",
+                        "id": "10614313",
+                        "version": "7961201"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "DePue, Mark R.,",
+                        "id": "10614314",
+                        "version": "7961201"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Abraham Lincoln Presidential Library.",
+                        "id": "10614315",
+                        "version": "7961201"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6q922fv",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Abraham Lincoln Presidential Library",
+                            "preferenceScore": "99",
+                            "id": "76759491",
+                            "version": "11223809"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Abraham Lincoln Presidential Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "112 N. Sixth St",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759496",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Springfield",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759497",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-IL",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759498",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "62701-1507",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759499",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759500",
+                                    "version": "11223809"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17131",
+                                "name": "Abraham Lincoln Presidential Library",
+                                "latitude": "39.8024990",
+                                "longitude": "-89.6475580"
+                            },
+                            "confirmed": true,
+                            "id": "76759495",
+                            "version": "11223809"
+                        }
+                    ],
+                    "id": "76759490",
+                    "version": "11223812"
+                },
+                "id": "7961201",
+                "version": "7961201"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Smith, Frederick C., 1947-. An interview with Frederick C. Smith \/ Frederick C. Smith ; Mark R. DePue, interviewer.",
+            "id": "76739553",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Women and the Constitution : a bicentennial perspective",
+                "id": "6028549",
+                "version": "6028549"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Women and the Constitution : a bicentennial perspective",
+            "id": "76739555",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/700267591",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:700267591<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-IUL<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Jimmy Carter Library.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>United States. Assistant to the President for National Security Affairs.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Brzezinski, Zbigniew, 1928-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Documents related to the Crown of St. Stephen, [manuscript] [1977-1981] \/ Jimmy Carter Library.<\/title>\n                  <\/titleInfo>\n                  <abstract>Documents are photocopied from the Country File on Hungary from the Carter Presidental Papers--Staff Offices, National Security Affairs--Brzezinksi Material. Documents include correspondence, memorandums, and telegrams pertaining to the return of the Crown of St. Stephen to Hungary. Most of these documents have been declassified. <\/abstract>\n                  <name>\n                     <namePart>Indiana University<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Documents related to the Crown of St. Stephen, [manuscript] [1977-1981] \/ Jimmy Carter Library.",
+                "abstract": "Documents are photocopied from the Country File on Hungary from the Carter Presidental Papers--Staff Offices, National Security Affairs--Brzezinksi Material. Documents include correspondence, memorandums, and telegrams pertaining to the return of the Crown of St. Stephen to Hungary. Most of these documents have been declassified. ",
+                "extent": "1 v. (unpaged) : photocopies ; 29 cm.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jimmy Carter Library.",
+                        "id": "10697939",
+                        "version": "8002940"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "United States. Assistant to the President for National Security Affairs.",
+                        "id": "10697940",
+                        "version": "8002940"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Brzezinski, Zbigniew, 1928-",
+                        "id": "10697941",
+                        "version": "8002940"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6n11w06",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Indiana University",
+                            "preferenceScore": "99",
+                            "id": "76770734",
+                            "version": "11228053"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Indiana University",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1320 East 10th Street",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770739",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Bloomington",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770740",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-IN",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770741",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "47405-3907",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770742",
+                                    "version": "11228053"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76770743",
+                                    "version": "11228053"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "16271",
+                                "name": "Indiana University",
+                                "latitude": "39.1721611",
+                                "longitude": "-86.5255203"
+                            },
+                            "confirmed": true,
+                            "id": "76770738",
+                            "version": "11228053"
+                        }
+                    ],
+                    "id": "76770733",
+                    "version": "11228056"
+                },
+                "id": "8002940",
+                "version": "8002940"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Jimmy Carter Library. Documents related to the Crown of St. Stephen, [manuscript] [1977-1981] \/ Jimmy Carter Library.",
+            "id": "76739552",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/173863206",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:173863206<\/recordOrigin>\n                     <recordContentSource>ISIL:GEU-S<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>CAUTION, Inc.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>CAUTION, Inc. records, 1982-1986.<\/title>\n                  <\/titleInfo>\n                  <abstract>The collection consists of records of CAUTION, Inc. (Coalition Against Unnecessary Thoroughfares in Our Neighborhood) from 1982-1986. The records include correspondence, legal documents, traffic observations, photographs, diagrams, maps and drawings relating to CAUTION's fight against the parkway leading to the Jimmy Carter Library (Atlanta, Ga.). <\/abstract>\n                  <name>\n                     <namePart>Unknown<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "CAUTION, Inc. records, 1982-1986.",
+                "abstract": "The collection consists of records of CAUTION, Inc. (Coalition Against Unnecessary Thoroughfares in Our Neighborhood) from 1982-1986. The records include correspondence, legal documents, traffic observations, photographs, diagrams, maps and drawings relating to CAUTION's fight against the parkway leading to the Jimmy Carter Library (Atlanta, Ga.). ",
+                "extent": "58 linear ft. (58 boxes, 14 0 p., 12 oversized papers rolls)",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "CAUTION, Inc.",
+                        "id": "8794246",
+                        "version": "6927223"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6sk27z1",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Emory University Library, Special Collect Department",
+                            "preferenceScore": "99",
+                            "id": "76766985",
+                            "version": "11226593"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Emory University Library, Special Collect Department",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Library",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76766990",
+                                    "version": "11226593"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Atlanta",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76766991",
+                                    "version": "11226593"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-GA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76766992",
+                                    "version": "11226593"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "30322",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76766993",
+                                    "version": "11226593"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76766994",
+                                    "version": "11226593"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15578",
+                                "name": "Emory University Library, Special Collect Department",
+                                "latitude": "33.7483150",
+                                "longitude": "-84.3911090"
+                            },
+                            "confirmed": true,
+                            "id": "76766989",
+                            "version": "11226593"
+                        }
+                    ],
+                    "id": "76766984",
+                    "version": "11226596"
+                },
+                "id": "6927223",
+                "version": "6927223"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "CAUTION, Inc. CAUTION, Inc. records, 1982-1986.",
+            "id": "76739550",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Records of the Japan-U.S. Economic Group",
+                "id": "4228068",
+                "version": "4228068"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Records of the Japan-U.S. Economic Group",
+            "id": "76739556",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Also known as: Records of the Japan-U.S. Economic Relations Group",
+                "id": "236518",
+                "version": "236518"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Also known as: Records of the Japan-U.S. Economic Relations Group",
+            "id": "76739557",
+            "version": "11220806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Women, politics, and the Constitution",
+                "id": "6030898",
+                "version": "6030898"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Women, politics, and the Constitution",
+            "id": "76739554",
+            "version": "11220806"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Hungary",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "id": "76739542",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "Hungary",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "76739543",
+                    "version": "11220806"
+                }
+            ]
+        },
+        {
+            "dataType": "Place",
+            "original": "United States",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "id": "76739536",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "United States",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "76739537",
+                    "version": "11220806"
+                }
+            ]
+        },
+        {
+            "dataType": "Place",
+            "original": "Hungary",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "id": "76739538",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "Hungary",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "76739539",
+                    "version": "11220806"
+                }
+            ]
+        },
+        {
+            "dataType": "Place",
+            "original": "United States",
+            "type": {
+                "id": "705",
+                "term": "AssociatedPlace",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                "type": "place_type"
+            },
+            "id": "76739540",
+            "version": "11220806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "United States",
+                    "note": "Parsed from SNAC EAC-CPF.",
+                    "id": "76739541",
+                    "version": "11220806"
+                }
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "181843",
+                "term": "Holy Crown of Hungary--Archives",
+                "type": "subject"
+            },
+            "id": "76739544",
+            "version": "11220806"
+        }
+    ],
+    "id": "76739503",
+    "version": "11220807",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1977",
+            "fromDateOriginal": "active 1977",
+            "fromType": {
+                "id": "688",
+                "term": "Active",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Active",
+                "type": "date_type"
+            },
+            "fromRange": {
+                "notBefore": null,
+                "notAfter": null
+            },
+            "toDate": "1981",
+            "toDateOriginal": "active 1981 or 1981",
+            "toType": {
+                "id": "688",
+                "term": "Active",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Active",
+                "type": "date_type"
+            },
+            "toRange": {
+                "notBefore": "1981",
+                "notAfter": "1981"
+            },
+            "isRange": true,
+            "id": "76739506",
+            "version": "11220806"
+        }
+    ]
+}

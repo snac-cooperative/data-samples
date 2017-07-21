@@ -1,0 +1,245 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6hv3br7",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "MH-H",
+            "id": "76769479",
+            "version": "11227561"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "89201",
+            "id": "76769480",
+            "version": "11227561"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:32:52",
+            "standardDateTime": "2016-11-22T11:32:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Harvard University, Houghton Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Harvard University, Houghton Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76769478",
+                    "version": "11227561"
+                }
+            ],
+            "id": "76769477",
+            "version": "11227561"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769476",
+            "targetConstellation": "24627976",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hv3br7",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c879vk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Houghton Library, Harvard University."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769476",
+            "targetConstellation": "76793542",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hv3br7",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6x45m72",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Harvard Theatre Collection, Houghton Library, Harvard College Library, Harvard University."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769476",
+            "targetConstellation": "76793724",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hv3br7",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6776427",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Houghton Library, Harvard College Library, Harvard"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769476",
+            "targetConstellation": "76793731",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hv3br7",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zt3k8j",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Houghton Library, , Harvard College Library, Harvard University"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Harvard University, Houghton Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Harvard Yard",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769482",
+                    "version": "11227561"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Cambridge",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769483",
+                    "version": "11227561"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-MA",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769484",
+                    "version": "11227561"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "02138-6534",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769485",
+                    "version": "11227561"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769486",
+                    "version": "11227561"
+                }
+            ],
+            "geoplace": {
+                "id": "15160",
+                "name": "Harvard University, Houghton Library",
+                "latitude": "42.3731728",
+                "longitude": "-71.1159515"
+            },
+            "confirmed": true,
+            "id": "76769481",
+            "version": "11227561"
+        }
+    ],
+    "id": "76769476",
+    "version": "11227564"
+}

@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6cz8hvb</recordId>
+    <otherRecordId localType="http://viaf.org/viaf/terms#viafID">154744791</otherRecordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <languageDeclaration>
+      <language languageCode="eng">English</language>
+      <script scriptCode="Latn">Latin</script>
+    </languageDeclaration>
+    <conventionDeclaration>
+      <citation>VIAF</citation>
+    </conventionDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="">2015-09-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>CPF merge program</agent>
+        <eventDescription>Merge v2.0</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-19T19:57:25">2016-08-19T19:57:25</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Parser</agent>
+        <eventDescription>Bulk ingest into SNAC Database</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-19T19:57:26">2016-08-19T19:57:26</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription/>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+      <source xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hua16004" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/harvard/hua16004.xml</filename>
+            <ead_entity en_type="corpname">John F. Kennedy Library</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://viaf.org/viaf/154744791" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=sch00614" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/harvard/sch00614.xml</filename>
+            <ead_entity en_type="corpname">John F. Kennedy Library,</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/76974816" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/55669819" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/11614994" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://library.brown.edu/riamco/render.php?eadid=US-RPPC-roberts&amp;view=title" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/riamco/US-RPPC-roberts.xml</filename>
+            <ead_entity en_type="corpname" encodinganalog="610" normal="John F. Kennedy Library" source="lcsh">John F. Kennedy Library</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hou01766" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/harvard/hou01766.xml</filename>
+            <ead_entity en_type="corpname">John Fitzgerald Kennedy Library.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hou00145" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/harvard/hou00145.xml</filename>
+            <ead_entity en_type="corpname">John F. Kennedy Library.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://doddcenter.uconn.edu/asc/findaids/Paterson/MSS19980365.html" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/uct/MSS19980365.xml</filename>
+            <ead_entity en_type="corpname">John F. Kennedy Library</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/76973875" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/76973873" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/426035330" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/40099180" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/145430143" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/76973333" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/77066297" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/76974082" xlink:type="simple">
+                
+            </source>
+    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <nameEntry snac:preferenceScore="99">
+        <part>John F. Kennedy Library</part>
+      </nameEntry>
+      <nameEntry snac:preferenceScore="2">
+        <part>John Fitzgerald Kennedy Library</part>
+      </nameEntry>
+      <nameEntry snac:preferenceScore="1">
+        <part>Piscataway Public Library</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Kennedy Library</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Kennedy Library Waltham, Mass.</part>
+      </nameEntry>
+      <nameEntry>
+        <part>United States. John F. Kennedy Library</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Boston. John F. Kennedy Library</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates>
+        <dateRange>
+          <fromDate localType="http://socialarchive.iath.virginia.edu/control/term#Active" standardDate="1964">active 1964</fromDate>
+          <toDate localType="http://socialarchive.iath.virginia.edu/control/term#Active" standardDate="1969">active 1969</toDate>
+        </dateRange>
+      </existDates>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Libraries</term>
+      </localDescription>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Presidential libraries</term>
+      </localDescription>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>Massachusetts--Cambridge</placeEntry>
+      </place>
+      <biogHist>
+        <p xmlns="urn:isbn:1-931666-33-4">Designed by I.M. Pei, the nation's official memorial to President Kennedy officially opened on October 20, 1979 at a ceremony attended by President Jimmy Carter and members of President Kennedy's family.</p>
+        <citation xmlns="urn:isbn:1-931666-33-4">From the description of General information by and about the proposed site of the John F. Kennedy Library. (Harvard University). WorldCat record id: 77066297</citation>
+      </biogHist>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w68d8n7g">
+        <relationEntry>Camp, Christine.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6vd730m">
+        <relationEntry>Dulles, Allen, 1893-1969.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6639s9p">
+        <relationEntry>Harris, Seymour Edwin, 1897-1974.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6vt5fhv">
+        <relationEntry>Harvard University.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6fn6h37">
+        <relationEntry>Harvard University. Faculty of Arts and Sciences. Associate Dean for Research and Allied Institutions.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6353w45">
+        <relationEntry>Harvard University. Vice President for Government and Community Affairs.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6sr4951">
+        <relationEntry>John F. Kennedy School of Government.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6476d89">
+        <relationEntry>Manning, Robert, 1919-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6ss2q8x">
+        <relationEntry>Marietta Tree</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6bs4k1v">
+        <relationEntry>Massachusetts. Governor's Press Office.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w64c962n">
+        <relationEntry>Paterson, Thomas G.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6z03z5g">
+        <relationEntry>Roberts, Dennis Joseph, 1903-1994.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6jw8j29">
+        <relationEntry>Soyinka, Wole.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w66w9s3x">
+        <relationEntry>White, Theodore Harold, 1915-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6m6375r">
+        <relationEntry>Wofford, Harris.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://viaf.org/viaf/154744791">
+        <relationEntry>John F. Kennedy Library</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://www.worldcat.org/wcidentities/lccn-n50082519">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://id.loc.gov/authorities/names/n50082519">
+        <relationEntry/>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Amer. lib. direct., 1983:</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Amer. lib. direct., 1983:</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The art of diplomacy : official gifts to President John F. Kennedy and his family : an exhibition presented in cooperation with the John F. Kennedy Library, National Archives and Record Service, Danforth Museum, Framingham, Massachusetts, January 25 through September 26, 1976.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The art of diplomacy : official gifts to President John F. Kennedy and his family : an exhibition presented in cooperation with the John F. Kennedy Library, National Archives and Record Service, Danforth Museum, Framingham, Massachusetts, January 25 through September 26, 1976.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hou01766">
+        <relationEntry>Papers, 1966-1996.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Soyinka, Wole. </persname>
+            </origination>
+            <unittitle>Papers, 1966-1996.</unittitle>
+            <physdesc>
+              <extent>16 boxes (24linear ft.)</extent>
+            </physdesc>
+            <abstract>Papers of Nigerian author and humanitarian Wole Soyinka, includingcompositions, correspondence, and records of his teaching and human rights activities.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6x45m72">Harvard Theatre Collection, Houghton Library, Harvard College Library, Harvard University.</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The files of Walter W. Heller during his term as chairman of the Council of Economic Advisors, 1961-1964</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The files of Walter W. Heller during his term as chairman of the Council of Economic Advisors, 1961-1964</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/55669819">
+        <relationEntry>Wofford, Harris. Wofford, Harris : [oral history interview].</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Wofford, Harris.</persname>
+              <persname>Hackman, Larry A.</persname>
+              <persname>Bernhard, Berl, 1929-</persname>
+              <persname>John F. Kennedy Library.</persname>
+            </origination>
+            <unittitle>Wofford, Harris : [oral history interview]. [1969?]</unittitle>
+            <physdesc>
+              <extent>158 leaves ; 28 cm.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6mt4gdc">Texas A&amp;M University, Evans Library &amp; Annex; Main campus library complex</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/76974082">
+        <relationEntry>Harvard University. Photographs on naming of director of the John F. Kennedy Library, 1972.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Harvard University.</persname>
+            </origination>
+            <unittitle>Photographs on naming of director of the John F. Kennedy Library, 1972.</unittitle>
+            <physdesc>
+              <extent>3 folders</extent>
+            </physdesc>
+            <abstract>Consists of photographs taken at the time that Dan Fenn was named the Director of the Kennedy Library, spring of 1972. Included in an archival category entitled Chronological miscellany, which consists of materials relating to or created by the Corporation, organized by date. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63s1g9w">Harvard University, Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/145430143">
+        <relationEntry>Massachusetts. Governor's Press Office. Photographs, 1909-2003.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Massachusetts. Governor's Press Office.</persname>
+              <persname>Cellucci, Argeo Paul, 1948-</persname>
+              <persname>Massachusetts. Governor (1911-1914 : Foss)</persname>
+              <persname>Massachusetts. Governor (1963-1965 : Peabody)</persname>
+              <persname>Massachusetts. Governor (1969-1975 : Sargent)</persname>
+              <persname>Massachusetts. Governor (1979-1983 : King)</persname>
+              <persname>Massachusetts. Governor (1983-1991 : Dukakis)</persname>
+              <persname>Massachusetts. Governor (1991-1997 : Weld)</persname>
+              <persname>Massachusetts. Governor (1997-2001 : Cellucci)</persname>
+              <persname>Massachusetts. Governor (2001-2003 : Swift)</persname>
+              <persname>Massachusetts. Governor (2003-2007 : Romney)</persname>
+            </origination>
+            <unittitle>Photographs, 1909-2003.</unittitle>
+            <physdesc>
+              <extent>25.03 cubic ft. (videocassette, photographs and photographs : negative in 15 record center cartons, 10 doc. boxes, 16 boxes, and 1 v.)Logs 1.25 cubic ft. (1 record center carton)</extent>
+            </physdesc>
+            <abstract>The Governor's Press Office is responsible for publicizing events of the governor's administration.  In fulfilling this function, it maintains photodocumentation of such events, particularly those directly involving the governor, and releases photographs to the media. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6w7785h">Commonwealth of Massachusetts State Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>A Stroke of the pen: dimensions of a Presidential decision.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>A Stroke of the pen: dimensions of a Presidential decision.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/76973333">
+        <relationEntry>Harris, Seymour Edwin, 1897-1974. Papers of Seymour E. Harris, 1930-1974 (inclusive).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Harris, Seymour Edwin, 1897-1974.</persname>
+            </origination>
+            <unittitle>Papers of Seymour E. Harris, 1930-1974 (inclusive).</unittitle>
+            <physdesc>
+              <extent>4.2 linear ft. of mss.</extent>
+            </physdesc>
+            <abstract>Contains correspondence and manuscripts which relate to Harris's professional interests. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63s1g9w">Harvard University, Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Civil rights during the Kennedy administration, 1961-1963 a collection from the holdings of the John F. Kennedy Library, Boston, Massachusetts.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Civil rights during the Kennedy administration, 1961-1963 a collection from the holdings of the John F. Kennedy Library, Boston, Massachusetts.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Ernest Hemingway, the writer in context, 1984:</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Ernest Hemingway, the writer in context, 1984:</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Latin America.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Latin America.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hou00145">
+        <relationEntry>Robert Manning papers, 1938-1993.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Manning, Robert, 1919-.  </persname>
+            </origination>
+            <unittitle>Robert Manning papers, 1938-1993.</unittitle>
+            <physdesc>
+              <extent>68 boxes and 1 portfolio box (22 linear ft.)</extent>
+            </physdesc>
+            <abstract>Correspondence, speeches, other compositions, and notes by Robert Manning, Assistant Secretary of State for Public Affairs,1962-1964, and editor of the , 1964-1980. Atlantic</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6zt3k8j">Houghton Library, , Harvard College Library, Harvard University</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://library.brown.edu/riamco/render.php?eadid=US-RPPC-roberts&amp;view=title">
+        <relationEntry>Dennis J. Roberts papers, Roberts (Dennis J.) papers, 1927-1972</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Roberts, Dennis J., 1903-1994</persname>
+            </origination>
+            <unittitle>Dennis J. Roberts papers Roberts (Dennis J.) papers 1927-1972</unittitle>
+            <physdesc>
+              <extent>32 box(es)</extent>
+            </physdesc>
+            <abstract>The collection of Dennis J. Roberts, former mayor of Providence and Rhode Island Governor, consists of his personal and political correspondence, clippings, reports, campaign and public speeches, press releases, and photographs.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6zx28rr">Phillips Memorial Library, Special and Archival Collections</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Papers of John F. Kennedy, presidential papers, president's office files : presidential recordings, transcripts : integration of the University of Mississippi.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Papers of John F. Kennedy, presidential papers, president's office files : presidential recordings, transcripts : integration of the University of Mississippi.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Bureau of the Budget bill reports public laws, 87th and 88th congresses.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Bureau of the Budget bill reports public laws, 87th and 88th congresses.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/40099180">
+        <relationEntry>Camp, Christine. Oral history interviews with E. Christine Camp, 1964-1969.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Camp, Christine.</persname>
+              <persname>John F. Kennedy Library.</persname>
+              <persname>Spivak, Alvin.</persname>
+              <persname>Grele, Ronald J.</persname>
+              <persname>Campbell, Ann M.</persname>
+            </origination>
+            <unittitle>Oral history interviews with E. Christine Camp, 1964-1969.</unittitle>
+            <physdesc>
+              <extent>1 v. (343 leaves) ; 28 cm.</extent>
+            </physdesc>
+            <abstract>Transcripts of interviews conducted for the John F. Kennedy Library.  First interview (1964) by Alvin Spivak. Second interview (Jan. 14, 1966) by Ronald J. Grele.  Third interview (Nov. 4, 1969) by Ann M. Campbell.  Fourth interview (Nov. 24, 1969) by Ann M. Campbell. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w68b1vjn">The College of Wooster, Libraries</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Archival resources of the John F. Kennedy Library.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Archival resources of the John F. Kennedy Library.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>President John F. Kennedy's office files, 1961-1963</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>President John F. Kennedy's office files, 1961-1963</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Historical materials in the John Fitzgerald Kennedy Library</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Historical materials in the John Fitzgerald Kennedy Library</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>John F. Kennedy, 1917-1963</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>John F. Kennedy, 1917-1963</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=sch00614">
+        <relationEntry>Papers, 1917-1995</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Marietta Tree</persname>
+            </origination>
+            <unittitle>Papers, 1917-1995</unittitle>
+            <physdesc>
+              <extent>20.2  linear feet (47 + 1/2 file boxes,   2 folio boxes,  1 folio folder, 2 folio+ folders, 4 oversize folders, 5 photograph folders, 1 folio  photograph box, 1 audiotape, 1 motion picture)</extent>
+            </physdesc>
+            <abstract>Papers of Marietta Tree, member of the Peabody family of Massachusetts, who served as a Special Ambassador to the United Nations and also worked as a city planner.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6wf4pf0">Schlesinger Library, Radcliffe Institute</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/76974816">
+        <relationEntry>Harvard University. Faculty of Arts and Sciences. Associate Dean for Research and Allied Institutions. Records of the Associate Dean for Resources and Planning and the Associate Dean for Research and Allied Institutions, 1959-1985 (inclusive).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Harvard University. Faculty of Arts and Sciences. Associate Dean for Research and Allied Institutions.</persname>
+            </origination>
+            <unittitle>Records of the Associate Dean for Resources and Planning and the Associate Dean for Research and Allied Institutions, 1959-1985 (inclusive).</unittitle>
+            <physdesc>
+              <extent>44 containers</extent>
+            </physdesc>
+            <abstract>Includes office files of A.D. Trottenberg (1963-1968 Associate Dean for Resources and Planning) and records of R.G. Leahy (1968-1972 assistant;1972-80 Associate Dean for Resources and Planning; and 1980- Associate Dean for Research and Allied Institutions). For more detailed information about records, see Harvard Archives LOCATION below. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63s1g9w">Harvard University, Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>NUCMC data from John F. Kennedy Libr. for Its Records, 1963-1979</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>NUCMC data from John F. Kennedy Libr. for Its Records, 1963-1979</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Papers and records of Walter W. Heller, 1940-1971</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Papers and records of Walter W. Heller, 1940-1971</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Historical materials in the John F. Kennedy Library.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Historical materials in the John F. Kennedy Library.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://oasis.lib.harvard.edu//oasis/deliver/deepLink?_collection=oasis&amp;uniqueId=hua16004">
+        <relationEntry>Papers of T. H. White, 1922-1986</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname> White, Theodore Harold, 1915- </persname>
+            </origination>
+            <unittitle>Papers of T. H. White, 1922-1986</unittitle>
+            <physdesc>
+              <extent>(232 boxes)</extent>
+            </physdesc>
+            <abstract>Theodore H. White (1915-1986) was an American journalist. These papers cover every aspect of his 48-year career.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nm43tf">Harvard University Archives.</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/426035330">
+        <relationEntry>Roberts, Dennis Joseph, 1903-1994. [Guide to the Dennis J. Roberts papers ]</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Roberts, Dennis Joseph, 1903-1994.</persname>
+              <persname>Altieri, Alice LaFond, 1894-1976.</persname>
+              <persname>Bush, Prescott Sheldon, 1895-1972.</persname>
+              <persname>Butler, John Marshall, 1897-1978.</persname>
+              <persname>Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
+              <persname>Fogarty, John Edward, 1913-1967.</persname>
+              <persname>Goldwater, Barry M. (Barry Morris), 1909-1998.</persname>
+              <persname>Green, Theodore Francis, 1867-1966.</persname>
+              <persname>Hayden, Carl Trumbull, 1877-1972.</persname>
+              <persname>Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
+              <persname>Johnson, Lyndon B. (Lyndon Baines), 1908-1973.</persname>
+              <persname>Kefauver, Estes, 1903-1963.</persname>
+              <persname>Kennedy, Edward M. (Edward Moore), 1932-2009.</persname>
+              <persname>Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+              <persname>Kennedy, Robert F., 1925-1968.</persname>
+              <persname>Lehman, Herbert H. (Herbert Henry), 1878-1963.</persname>
+              <persname>Long, Russell B.</persname>
+              <persname>McClellan, John L. (John Little), 1896-1977.</persname>
+              <persname>McGrath, J. Howard (James Howard), 1903-1966.</persname>
+              <persname>Muskie, Edmund S., 1914-1996.</persname>
+              <persname>Onassis, Jacqueline Kennedy, 1929-1994.</persname>
+              <persname>Pastore, John O. (John Orlando), 1907-2000.</persname>
+              <persname>Pell, Claiborne, 1918-2009.</persname>
+              <persname>Smith, Margaret Chase, 1897-1995.</persname>
+              <persname>Stevenson, Adlai E. (Adlai Ewing), 1900-1965.</persname>
+              <persname>Truman, Harry S., 1884-1972.</persname>
+              <persname>Williams, G. Mennen, 1911-1988.</persname>
+            </origination>
+            <unittitle>[Guide to the Dennis J. Roberts papers ]</unittitle>
+            <physdesc>
+              <extent>32 boxes (18.5 linear feet).</extent>
+            </physdesc>
+            <abstract>The collection of Dennis J. Roberts, former mayor of Providence and Rhode Island Governor, consists of his personal and political correspondence, clippings, reports, campaign and public speeches, press releases, and photographs. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6x16wmn">Providence College, Phillips Memorial Library, Phillips Memorial Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The John F. Kennedy presidential oral history collection</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The John F. Kennedy presidential oral history collection</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/76973875">
+        <relationEntry>Harvard University. Vice President for Government and Community Affairs. Records of Donald Moulton, Assistant Vice-President for Community Affairs, 1970-1978 (inclusive).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Harvard University. Vice President for Government and Community Affairs.</persname>
+            </origination>
+            <unittitle>Records of Donald Moulton, Assistant Vice-President for Community Affairs, 1970-1978 (inclusive).</unittitle>
+            <physdesc>
+              <extent>38 containers</extent>
+            </physdesc>
+            <abstract>Records of Assistant Vice-President Donald Moulton, including correspondence, memoranda, and reports relating to various civic organizations in the Cambridge area. Primary topics include land acquisition and use, Harvard Square development, Kennedy Library development, the Medical Area Total Energy Plant, Roxbury Tenants of Harvard, payments in lieu of taxes, and the Cambridge Corporation. Some files of Lewis Armistead, an assistant to the Vice-President for Government and Community Affairs, are included. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63s1g9w">Harvard University, Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/11614994">
+        <relationEntry>Dulles, Allen, 1893-1969. Interview with Allen Dulles, Dec. 5-6, 1964 for the Kennedy Memorial Library / by Thomas Braden.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Dulles, Allen, 1893-1969.</persname>
+              <persname>Braden, Thomas.</persname>
+              <persname>John F. Kennedy Library.</persname>
+            </origination>
+            <unittitle>Interview with Allen Dulles, Dec. 5-6, 1964 for the Kennedy Memorial Library / by Thomas Braden. [n.d.]</unittitle>
+            <physdesc>
+              <extent>86 leaves.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6fs0kb9">US Central Intelligence Agency</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/76973873">
+        <relationEntry>Harvard University. Vice President for Government and Community Affairs. Correspondence and other records of Charles Daly, 1971-1976 (inclusive).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Harvard University. Vice President for Government and Community Affairs.</persname>
+            </origination>
+            <unittitle>Correspondence and other records of Charles Daly, 1971-1976 (inclusive).</unittitle>
+            <physdesc>
+              <extent>11 containers</extent>
+            </physdesc>
+            <abstract>Records of Vice-President Charles Daly, including correspondence, memoranda, and reports, relating to matters such as Dumbarton Oaks, housing, and the Kennedy Library. Also included are files of the Government Information Office (an office under the Office of Government and Community Affairs to provide information to faculty members on available federal and state research support). </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63s1g9w">Harvard University, Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Report, 1965.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Report, 1965.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The John F. Kennedy national security files. national security files, 1961-1963</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The John F. Kennedy national security files. national security files, 1961-1963</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Papers of Dean F. Markham and the President's Advisory Commission on Narcotics, 1962-1963</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Papers of Dean F. Markham and the President's Advisory Commission on Narcotics, 1962-1963</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Papers of John F. Kennedy, presidential papers, president's office files : presidential recordings, transcripts : tax cut proposals.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Papers of John F. Kennedy, presidential papers, president's office files : presidential recordings, transcripts : tax cut proposals.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The John F. Kennedy national security files, 1961-1963.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The John F. Kennedy national security files, 1961-1963.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://doddcenter.uconn.edu/asc/findaids/Paterson/MSS19980365.html">
+        <relationEntry>Thomas G. Paterson Papers., 1836-2002.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Paterson, Thomas G.</persname>
+            </origination>
+            <unittitle>Thomas G. Paterson Papers. 1836-2002.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract>Thomas Graham Paterson received his Bachelors degree from the University of New Hampshire in 1963, and his Masters and Doctoral degrees from the University of California, Berkeley in 1964 and 1968, respectively. As an historian, educator, and author, he has written and co-written a number of books and articles, and has also acted as an editor for various other publications.  Paterson is known primarily for his contributions to the history of the Cold War with a focus on Cuba, as well as United States foreign relations in general.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6mt4ghq">Archives &amp; Special Collections at the Thomas J. Dodd Research Center.</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Kennedy collection : a subject guide.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Kennedy collection : a subject guide.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/77066297">
+        <relationEntry>John F. Kennedy Library. General information by and about the proposed site of the John F. Kennedy Library.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>John F. Kennedy Library.</persname>
+            </origination>
+            <unittitle>General information by and about the proposed site of the John F. Kennedy Library.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract>May contain pamphlets, press accounts, and ephemera. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63s1g9w">Harvard University, Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The John F. Kennedy 1960 campaign</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The John F. Kennedy 1960 campaign</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

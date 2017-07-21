@@ -1,0 +1,150 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6z71bqv",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:18:49",
+            "standardDateTime": "2016-11-28T17:18:49",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Archives and Special Collections Department. New Mexico State University.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Archives and Special Collections Department. New Mexico State University.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76791784",
+                    "version": "11235885"
+                }
+            ],
+            "id": "76791783",
+            "version": "11235885"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791782",
+            "targetConstellation": "71186961",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6z71bqv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ss23tn",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Arizona State University. Libraries. Department of Archives and Special Collections"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791782",
+            "targetConstellation": "76791797",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6z71bqv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w69h69jz",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Archives and Special Collections. New Mexico State University."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791782",
+            "targetConstellation": "76791800",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6z71bqv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65r5jt7",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Archives and Special Collections. New Mexico State University Library."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791782",
+            "targetConstellation": "76794908",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6z71bqv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w69q3qgz",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "New Mexico State University. Archives and Special Collections Department."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791782",
+            "targetConstellation": "76794916",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6z71bqv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6262705",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "New Mexico State University Library, Archives and Special Collections Department, Archives and Special Collections."
+        }
+    ],
+    "id": "76791782",
+    "version": "11235888"
+}

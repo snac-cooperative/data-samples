@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6vz156c",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "AFrARL",
+            "id": "76789000",
+            "version": "11234733"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "72865",
+            "id": "76789001",
+            "version": "11234733"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:49:16",
+            "standardDateTime": "2016-11-22T11:49:16",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "U.S. Army, Aeromedical Research Laboratory, Science Information Center Library, USAARL SIC Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "U.S. Army, Aeromedical Research Laboratory, Science Information Center Library, USAARL SIC Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76788999",
+                    "version": "11234733"
+                }
+            ],
+            "id": "76788998",
+            "version": "11234733"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "U.S. Army, Aeromedical Research Laboratory, Science Information Center Library, USAARL SIC Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "6901 Farrel Road",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789003",
+                    "version": "11234733"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "PO Box 620577",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789004",
+                    "version": "11234733"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Fort Rucker",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789005",
+                    "version": "11234733"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-AL",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789006",
+                    "version": "11234733"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "36362-0577",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789007",
+                    "version": "11234733"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76789008",
+                    "version": "11234733"
+                }
+            ],
+            "geoplace": {
+                "id": "16739",
+                "name": "U.S. Army, Aeromedical Research Laboratory, Science Information Center Library, USAARL SIC Library",
+                "latitude": "31.3396030",
+                "longitude": "-85.7150580"
+            },
+            "confirmed": true,
+            "id": "76789002",
+            "version": "11234733"
+        }
+    ],
+    "id": "76788997",
+    "version": "11234736"
+}

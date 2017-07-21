@@ -1,0 +1,521 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w62v90rb",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28226",
+                "term": "viafID",
+                "uri": "http:\/\/viaf.org\/viaf\/terms#viafID",
+                "type": "record_type"
+            },
+            "uri": "294831455",
+            "id": "47799499",
+            "version": "6981806"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Gerald R. Ford Library",
+            "uri": "http:\/\/viaf.org\/viaf\/294831455",
+            "id": "47799500",
+            "version": "6981806"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/wcidentities\/lccn-n89642307",
+            "id": "47799501",
+            "version": "6981806"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/id.loc.gov\/authorities\/names\/n89642307",
+            "id": "47799502",
+            "version": "6981806"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-18",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T20:38:27",
+            "standardDateTime": "2016-08-14T20:38:27",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T20:38:27",
+            "standardDateTime": "2016-08-14T20:38:27",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: http:\/\/www.worldcat.org\/oclc\/34422340",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/34422340",
+            "id": "47799488",
+            "version": "6981806"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: http:\/\/viaf.org\/viaf\/294831455",
+            "uri": "http:\/\/viaf.org\/viaf\/294831455",
+            "id": "47799489",
+            "version": "6981806"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "47799490",
+            "version": "6981806"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Gerald R. Ford Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Gerald R. Ford Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "47799492",
+                    "version": "6981806"
+                }
+            ],
+            "id": "47799491",
+            "version": "6981806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "80705295",
+                    "version": "6981806"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Ford Library",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Ford Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "47799496",
+                    "version": "6981806"
+                }
+            ],
+            "id": "47799495",
+            "version": "6981806",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "80705296",
+                    "version": "6981806"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "47799487",
+            "targetConstellation": "34857573",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62v90rb",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65k3ggf",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Gerald Ford Library"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "\ud574\uc678 \uc218\uc9d1 \uae30\ub85d\ubb3c \ubc88\uc5ed\uc9d1.",
+                "id": "2655",
+                "version": "2655"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "\ud574\uc678 \uc218\uc9d1 \uae30\ub85d\ubb3c \ubc88\uc5ed\uc9d1.",
+            "id": "47799505",
+            "version": "6981806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/34422340",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:34422340<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-BEU<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Gerald R. Ford Library.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Record center storage.<\/title>\n                  <\/titleInfo>\n                  <name>\n                     <namePart>University of Michigan<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Record center storage.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Gerald R. Ford Library.",
+                        "id": "9516462",
+                        "version": "7362837"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6zq4vrg",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "University of Michigan, Bentley Historical Library",
+                            "preferenceScore": "99",
+                            "id": "76786992",
+                            "version": "11234049"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "University of Michigan, Bentley Historical Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1150 Beal Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76786997",
+                                    "version": "11234049"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Ann Arbor",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76786998",
+                                    "version": "11234049"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-MI",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76786999",
+                                    "version": "11234049"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "48109-2113",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76787000",
+                                    "version": "11234049"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76787001",
+                                    "version": "11234049"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15652",
+                                "name": "University of Michigan, Bentley Historical Library",
+                                "latitude": "42.2894669",
+                                "longitude": "-83.7129059"
+                            },
+                            "confirmed": true,
+                            "id": "76786996",
+                            "version": "11234049"
+                        }
+                    ],
+                    "id": "76786991",
+                    "version": "11234052"
+                },
+                "id": "7362837",
+                "version": "7362837"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Gerald R. Ford Library. Record center storage.",
+            "id": "47799504",
+            "version": "6981806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "1970\ub144\ub300 \ud55c\ubbf8 \uad00\uacc4",
+                "id": "23879",
+                "version": "23879"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "1970\ub144\ub300 \ud55c\ubbf8 \uad00\uacc4",
+            "id": "47799509",
+            "version": "6981806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "1970-yo\u0306ndae Han-Mi kwan'gye",
+                "id": "23958",
+                "version": "23958"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "1970-yo\u0306ndae Han-Mi kwan'gye",
+            "id": "47799510",
+            "version": "6981806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Ch'o\u0306n-kubaek-yuksimnyo\u0306ndae Han-Mi kwan'gye",
+                "id": "899888",
+                "version": "899888"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Ch'o\u0306n-kubaek-yuksimnyo\u0306ndae Han-Mi kwan'gye",
+            "id": "47799508",
+            "version": "6981806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Historical materials in the Gerald R. Ford Library, 1984",
+                "id": "2184784",
+                "version": "2184784"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Historical materials in the Gerald R. Ford Library, 1984",
+            "id": "47799506",
+            "version": "6981806"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Haeoe sujip kirongmul po\u0306nyo\u0306nkchip.",
+                "id": "2070735",
+                "version": "2070735"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Haeoe sujip kirongmul po\u0306nyo\u0306nkchip.",
+            "id": "47799507",
+            "version": "6981806"
+        }
+    ],
+    "id": "47799487",
+    "version": "6981807"
+}

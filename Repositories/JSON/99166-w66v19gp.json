@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w66v19gp",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:23:49",
+            "standardDateTime": "2016-11-28T17:23:49",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Lane Community College (Eugene, Or.) Archives",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Lane Community College (Eugene, Or.) Archives",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794115",
+                    "version": "11238137"
+                }
+            ],
+            "id": "76794114",
+            "version": "11238137"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794113",
+            "targetConstellation": "12044018",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w66v19gp",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65x7c9x",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Lane Community College (Eugene, Or.)"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Lane Community College (Eugene, Or.) Archives",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "4000 East 30th Avenue Eugene, Oregon 97405 Phone: 541-463-5466 Fax: 541-463-3996 E-mail: archives@lanecc.edu Web: http:\/\/www.lanecc.edu\/archives\/",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76794117",
+                    "version": "11238137"
+                }
+            ],
+            "id": "76794116",
+            "version": "11238137"
+        }
+    ],
+    "id": "76794113",
+    "version": "11238140"
+}

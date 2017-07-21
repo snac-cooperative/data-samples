@@ -1,0 +1,114 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6gr7mg4",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:19:34",
+            "standardDateTime": "2016-11-28T17:19:34",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Birmingham University Information Services, Special Collections Department",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Birmingham University Information Services, Special Collections Department",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792112",
+                    "version": "11236209"
+                }
+            ],
+            "id": "76792111",
+            "version": "11236209"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792110",
+            "targetConstellation": "76795431",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gr7mg4",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6b38j3z",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Reading University : Special Collections Services"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792110",
+            "targetConstellation": "76797256",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gr7mg4",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64850s1",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Birmingham Information Services, Special Collections Department"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792110",
+            "targetConstellation": "76797260",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gr7mg4",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w60h482q",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Birmingham Information Services, Special Collections Department)"
+        }
+    ],
+    "id": "76792110",
+    "version": "11236212"
+}

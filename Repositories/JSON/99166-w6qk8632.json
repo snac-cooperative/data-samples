@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6qk8632",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:27:41",
+            "standardDateTime": "2016-11-28T17:27:41",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Southern California Library for Social Studies and Research.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Southern California Library for Social Studies and Research.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76796085",
+                    "version": "11239917"
+                }
+            ],
+            "id": "76796084",
+            "version": "11239917"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796083",
+            "targetConstellation": "34163179",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qk8632",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xt80st",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Southern California Library for Social Studies and Research"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Southern California Library for Social Studies and Research.",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "6120 South Vermont Ave Los Angeles,CA 90044 Phone: (323) 759-6063 Fax: (323) 759-2252 Email:archives@socallib.org URL:http:\/\/www.socallib.org\/",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76796087",
+                    "version": "11239917"
+                }
+            ],
+            "id": "76796086",
+            "version": "11239917"
+        }
+    ],
+    "id": "76796083",
+    "version": "11239920"
+}

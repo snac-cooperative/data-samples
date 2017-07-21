@@ -1,0 +1,147 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6hj77jq",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "124212",
+            "id": "76774242",
+            "version": "11229357"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:36:55",
+            "standardDateTime": "2016-11-22T11:36:55",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "M\u00e9diath\u00e8que Valais, MV-Sion",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "M\u00e9diath\u00e8que Valais, MV-Sion",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76774241",
+                    "version": "11229357"
+                }
+            ],
+            "id": "76774240",
+            "version": "11229357"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "M\u00e9diath\u00e8que Valais, MV-Sion",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Av. de Pratifori 18 - CP 182",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774244",
+                    "version": "11229357"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Sion",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774245",
+                    "version": "11229357"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "1951",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774246",
+                    "version": "11229357"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CH",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76774247",
+                    "version": "11229357"
+                }
+            ],
+            "geoplace": {
+                "id": "16814",
+                "name": "M\u00e9diath\u00e8que Valais, MV-Sion",
+                "latitude": "46.2308000",
+                "longitude": "7.3555300"
+            },
+            "confirmed": true,
+            "id": "76774243",
+            "version": "11229357"
+        }
+    ],
+    "id": "76774239",
+    "version": "11229360"
+}

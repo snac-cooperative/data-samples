@@ -1,0 +1,167 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6q34npq",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "73878",
+            "id": "76770223",
+            "version": "11227865"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:33:32",
+            "standardDateTime": "2016-11-22T11:33:32",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "House of Lords Library\/Record Office",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "House of Lords Library\/Record Office",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76770222",
+                    "version": "11227865"
+                }
+            ],
+            "id": "76770221",
+            "version": "11227865"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76770220",
+            "targetConstellation": "1348080",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6q34npq",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6p04d0h",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Great Britain. Parliament. House of Lords. Record Office"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "House of Lords Library\/Record Office",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Assustand Clerk Of The Records",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770225",
+                    "version": "11227865"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "London",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770226",
+                    "version": "11227865"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "SW1A 0PW",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770227",
+                    "version": "11227865"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "GB",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76770228",
+                    "version": "11227865"
+                }
+            ],
+            "geoplace": {
+                "id": "14991",
+                "name": "House of Lords Library\/Record Office",
+                "latitude": "51.4996360",
+                "longitude": "-0.1248470"
+            },
+            "confirmed": true,
+            "id": "76770224",
+            "version": "11227865"
+        }
+    ],
+    "id": "76770220",
+    "version": "11227868"
+}

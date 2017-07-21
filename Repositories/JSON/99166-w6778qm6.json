@@ -1,0 +1,208 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6778qm6",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-03-04",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-16T12:10:42",
+            "standardDateTime": "2016-08-16T12:10:42",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-16T12:10:42",
+            "standardDateTime": "2016-08-16T12:10:42",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: EAD from http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=hou00082",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/harvard\/hou00082.xml<\/filename>\n                  <ead_entity en_type=\"corpname\">Kansas Historical Society<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=hou00082",
+            "id": "58228191",
+            "version": "8511575"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Kansas Historical Society",
+            "preferenceScore": "1",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Kansas Historical Society",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "58228193",
+                    "version": "8511575"
+                }
+            ],
+            "id": "58228192",
+            "version": "8511575",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"harvard\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "81563521",
+                    "version": "8511575"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "58228190",
+            "targetConstellation": "51101615",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6778qm6",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6br8w09",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Villard, Oswald Garrison, 1872-1949",
+            "id": "58228196",
+            "version": "8511575"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=hou00082",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <repository>Houghton Library,\n                Harvard College Library, Harvard University <\/repository>\n                  <physloc>b\n                <\/physloc>\n                  <unitid>MS Am 1323 <\/unitid>\n                  <origination>\n                     <persname>Villard, Oswald Garrison,                     1872-1949.\n                <\/persname>\n                  <\/origination>\n                  <unittitle>Oswald Garrison Villard papers,\n                <\/unittitle>\n                  <unitdate>1872-1949. <\/unitdate>\n                  <physdesc>\n                     <extent>163 boxes and 6 volumes (37 linear ft.)\n                <\/extent>\n                  <\/physdesc>\n                  <langmaterial>Collection materials are in <language>English.\n                <\/language>\n                  <\/langmaterial>\n                  <abstract>Papers of American author, journalist, editor,\n                and social reformer Oswald                 Garrison Villard. Includes materials that\n                are unsorted and uncataloged. <\/abstract>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "Oswald Garrison Villard papers, 1872-1949.",
+                "abstract": "Papers of American author, journalist, editor,                and social reformer Oswald                 Garrison Villard. Includes materials that                are unsorted and uncataloged.",
+                "extent": "163 boxes and 6 volumes (37 linear ft.)",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Villard, Oswald Garrison,                     1872-1949.                ",
+                        "id": "11437162",
+                        "version": "6383241"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "id": "11437163",
+                        "version": "6383241"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6zt3k8j",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Houghton Library, , Harvard College Library, Harvard University",
+                            "preferenceScore": "99",
+                            "id": "76793732",
+                            "version": "11237773"
+                        }
+                    ],
+                    "id": "76793731",
+                    "version": "11237776"
+                },
+                "id": "6383241",
+                "version": "6383241"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Oswald Garrison Villard papers, 1872-1949.",
+            "id": "58228197",
+            "version": "8511575"
+        }
+    ],
+    "id": "58228190",
+    "version": "8511576"
+}

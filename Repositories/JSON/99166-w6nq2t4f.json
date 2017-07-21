@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6nq2t4f",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:20:49",
+            "standardDateTime": "2016-11-28T17:20:49",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "College of Physicians Historical Medical Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "College of Physicians Historical Medical Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792688",
+                    "version": "11236761"
+                }
+            ],
+            "id": "76792687",
+            "version": "11236761"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792686",
+            "targetConstellation": "24319756",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nq2t4f",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g00m9n",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Library, College of Physicians"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792686",
+            "targetConstellation": "76793623",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nq2t4f",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6b677gt",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Historical Medical Library of the College of Physicians of Philadelphia"
+        }
+    ],
+    "id": "76792686",
+    "version": "11236764"
+}

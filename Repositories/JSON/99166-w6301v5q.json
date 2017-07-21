@@ -1,0 +1,147 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6301v5q",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "38882",
+            "id": "76783728",
+            "version": "11232869"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:44:54",
+            "standardDateTime": "2016-11-22T11:44:54",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Swiss National Library, Schweizerische Nationalbibliothek",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Swiss National Library, Schweizerische Nationalbibliothek",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76783727",
+                    "version": "11232869"
+                }
+            ],
+            "id": "76783726",
+            "version": "11232869"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Swiss National Library, Schweizerische Nationalbibliothek",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Hallwylstrasse 15",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783730",
+                    "version": "11232869"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Bern",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783731",
+                    "version": "11232869"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "3003",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783732",
+                    "version": "11232869"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CH",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783733",
+                    "version": "11232869"
+                }
+            ],
+            "geoplace": {
+                "id": "16577",
+                "name": "Swiss National Library, Schweizerische Nationalbibliothek",
+                "latitude": "46.9413000",
+                "longitude": "7.4496900"
+            },
+            "confirmed": true,
+            "id": "76783729",
+            "version": "11232869"
+        }
+    ],
+    "id": "76783725",
+    "version": "11232872"
+}

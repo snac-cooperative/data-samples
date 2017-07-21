@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6sv8cjb",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:21:48",
+            "standardDateTime": "2016-11-28T17:21:48",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Fine Arts Library, Harvard College Library, Harvard University.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Fine Arts Library, Harvard College Library, Harvard University.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76793195",
+                    "version": "11237221"
+                }
+            ],
+            "id": "76793194",
+            "version": "11237221"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793193",
+            "targetConstellation": "76769391",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sv8cjb",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6tc1wdk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Harvard University, Fine Arts Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793193",
+            "targetConstellation": "76793516",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sv8cjb",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6z42nfb",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Harvard Film Archive, Fine Arts Library, Harvard College Library, Harvard University"
+        }
+    ],
+    "id": "76793193",
+    "version": "11237224"
+}

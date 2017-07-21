@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6rk5760",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:18:58",
+            "standardDateTime": "2016-11-28T17:18:58",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "^Archives & Special Collections at the Thomas J. Dodd Research Center",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "^Archives & Special Collections at the Thomas J. Dodd Research Center",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76791838",
+                    "version": "11235953"
+                }
+            ],
+            "id": "76791837",
+            "version": "11235953"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791836",
+            "targetConstellation": "69022671",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6rk5760",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6tz9f7v",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Archives & Special Collections at the Thomas J. Dodd Research Center"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791836",
+            "targetConstellation": "76791844",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6rk5760",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6h23qqd",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Archives & Special Collections at the Thomas J. Dodd Research enter."
+        }
+    ],
+    "id": "76791836",
+    "version": "11235956"
+}

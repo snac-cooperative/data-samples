@@ -1,0 +1,138 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6sc4v69",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "MH-HT",
+            "id": "76769460",
+            "version": "11227553"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:32:50",
+            "standardDateTime": "2016-11-22T11:32:50",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Harvard University, Harvard Theater Collection, Harvard College Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Harvard University, Harvard Theater Collection, Harvard College Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76769459",
+                    "version": "11227553"
+                }
+            ],
+            "id": "76769458",
+            "version": "11227553"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769457",
+            "targetConstellation": "23745837",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sc4v69",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sk4t8v",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Harvard University. Harvard College Library."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769457",
+            "targetConstellation": "76793535",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sc4v69",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65n6vgt",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Harvard Theater Collection, Houghton Library, Harvard College Library, Harvard University"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Harvard University, Harvard Theater Collection, Harvard College Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Cambridge, Massachusetts 02138  United States",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769462",
+                    "version": "11227553"
+                }
+            ],
+            "id": "76769461",
+            "version": "11227553"
+        }
+    ],
+    "id": "76769457",
+    "version": "11227556"
+}

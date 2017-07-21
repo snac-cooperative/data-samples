@@ -1,0 +1,58 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w63z8wkt",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:30:52",
+            "standardDateTime": "2016-11-28T17:30:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of Central Florida, Special Collections and University Archives, University of Central Florida Libraries, P. O. Box 162666 Orlando, FL 32816, Telephone: 407-823-2576, E-mail: speccoll@mail.ucf.edu",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of Central Florida, Special Collections and University Archives, University of Central Florida Libraries, P. O. Box 162666 Orlando, FL 32816, Telephone: 407-823-2576, E-mail: speccoll@mail.ucf.edu",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76797571",
+                    "version": "11241329"
+                }
+            ],
+            "id": "76797570",
+            "version": "11241329"
+        }
+    ],
+    "id": "76797569",
+    "version": "11241332"
+}

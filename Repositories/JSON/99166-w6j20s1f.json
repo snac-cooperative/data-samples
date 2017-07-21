@@ -1,0 +1,78 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6j20s1f",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:29:07",
+            "standardDateTime": "2016-11-28T17:29:07",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "The Library of Virginia (Some records in this collection may be located at the State Records Center. Contact Archives Research Services for access information, directions, and hours.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "The Library of Virginia (Some records in this collection may be located at the State Records Center. Contact Archives Research Services for access information, directions, and hours.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76796738",
+                    "version": "11240573"
+                }
+            ],
+            "id": "76796737",
+            "version": "11240573"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796736",
+            "targetConstellation": "76794198",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6j20s1f",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6mx35x1",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Library of Virginia (Some records in this collection may be located at the State Records Center. Contact Archives Research Services for access information, directions, and hours.)"
+        }
+    ],
+    "id": "76796736",
+    "version": "11240576"
+}

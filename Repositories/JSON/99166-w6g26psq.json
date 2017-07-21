@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6g26psq",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:31:12",
+            "standardDateTime": "2016-11-28T17:31:12",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of Minnesota. Children's Literature Research Collections. [clrc]",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of Minnesota. Children's Literature Research Collections. [clrc]",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76797715",
+                    "version": "11241473"
+                }
+            ],
+            "id": "76797714",
+            "version": "11241473"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797713",
+            "targetConstellation": "46472020",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g26psq",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6102hgc",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Children's Literature Research Collections (University of Minnesota Libraries). Artefacts Collection."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797713",
+            "targetConstellation": "76797733",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g26psq",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6pm1531",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Minnesota Libraries Children's Literature Research Collections [clrc]"
+        }
+    ],
+    "id": "76797713",
+    "version": "11241476"
+}

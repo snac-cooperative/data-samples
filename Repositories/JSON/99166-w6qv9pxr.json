@@ -1,0 +1,419 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6qv9pxr",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28226",
+                "term": "viafID",
+                "uri": "http:\/\/viaf.org\/viaf\/terms#viafID",
+                "type": "record_type"
+            },
+            "uri": "150288496",
+            "id": "22734088",
+            "version": "3323627"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Gerald R. Ford Library and Museum",
+            "uri": "http:\/\/viaf.org\/viaf\/150288496",
+            "id": "22734089",
+            "version": "3323627"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/wcidentities\/lccn-n2001152831",
+            "id": "22734090",
+            "version": "3323627"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/id.loc.gov\/authorities\/names\/n2001152831",
+            "id": "22734091",
+            "version": "3323627"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-17",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T14:46:36",
+            "standardDateTime": "2016-08-11T14:46:36",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-11T14:46:36",
+            "standardDateTime": "2016-08-11T14:46:36",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: http:\/\/www.worldcat.org\/oclc\/668104555",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/668104555",
+            "id": "22734077",
+            "version": "3323627"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: http:\/\/viaf.org\/viaf\/150288496",
+            "uri": "http:\/\/viaf.org\/viaf\/150288496",
+            "id": "22734078",
+            "version": "3323627"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "22734079",
+            "version": "3323627"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Gerald R. Ford Library and Museum",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Gerald R. Ford Library and Museum",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "22734081",
+                    "version": "3323627"
+                }
+            ],
+            "id": "22734080",
+            "version": "3323627",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78664676",
+                    "version": "3323627"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Ford Library and Museum",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Ford Library and Museum",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "22734085",
+                    "version": "3323627"
+                }
+            ],
+            "id": "22734084",
+            "version": "3323627",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78664677",
+                    "version": "3323627"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "22734076",
+            "targetConstellation": "48781889",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qv9pxr",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64t79xt",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Smith, Frederick C., 1947-",
+            "id": "22734092",
+            "version": "3323627"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/668104555",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:668104555<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-JFK<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Smith, Frederick C., 1947-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>DePue, Mark R.,<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Abraham Lincoln Presidential Library.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>An interview with Frederick C. Smith \/ Frederick C. Smith ; Mark R. DePue, interviewer. 2010.<\/title>\n                  <\/titleInfo>\n                  <abstract>An interview of Frederick C. Smith conducted by Mark R. DePue for the Abraham Lincoln Presidential Library. Topics discussed include National Archives and Records Administration (NARA) Presidential Libraries and Museums; Herbert Hoover Presidential Library and Museum; Harry S. Truman Library and Museum; John F. Kennedy Library and Museum; Lyndon B. Johnson Library and Museum; Richard M. Nixon Library and Museum; Gerald Ford Library and Museum; Jimmy Carter Library and Museum; Ronald Reagan Library and Museum; George H.W. Bush Library and Museum; and William J. Clinton Library and Museum. <\/abstract>\n                  <name>\n                     <namePart>Abraham Lincoln Presidential Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "An interview with Frederick C. Smith \/ Frederick C. Smith ; Mark R. DePue, interviewer. 2010.",
+                "abstract": "An interview of Frederick C. Smith conducted by Mark R. DePue for the Abraham Lincoln Presidential Library. Topics discussed include National Archives and Records Administration (NARA) Presidential Libraries and Museums; Herbert Hoover Presidential Library and Museum; Harry S. Truman Library and Museum; John F. Kennedy Library and Museum; Lyndon B. Johnson Library and Museum; Richard M. Nixon Library and Museum; Gerald Ford Library and Museum; Jimmy Carter Library and Museum; Ronald Reagan Library and Museum; George H.W. Bush Library and Museum; and William J. Clinton Library and Museum. ",
+                "extent": "1 videodisc (61 min.) + 14 photos.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Smith, Frederick C., 1947-",
+                        "id": "10614313",
+                        "version": "7961201"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "DePue, Mark R.,",
+                        "id": "10614314",
+                        "version": "7961201"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Abraham Lincoln Presidential Library.",
+                        "id": "10614315",
+                        "version": "7961201"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6q922fv",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Abraham Lincoln Presidential Library",
+                            "preferenceScore": "99",
+                            "id": "76759491",
+                            "version": "11223809"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Abraham Lincoln Presidential Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "112 N. Sixth St",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759496",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Springfield",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759497",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-IL",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759498",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "62701-1507",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759499",
+                                    "version": "11223809"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76759500",
+                                    "version": "11223809"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17131",
+                                "name": "Abraham Lincoln Presidential Library",
+                                "latitude": "39.8024990",
+                                "longitude": "-89.6475580"
+                            },
+                            "confirmed": true,
+                            "id": "76759495",
+                            "version": "11223809"
+                        }
+                    ],
+                    "id": "76759490",
+                    "version": "11223812"
+                },
+                "id": "7961201",
+                "version": "7961201"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Smith, Frederick C., 1947-. An interview with Frederick C. Smith \/ Frederick C. Smith ; Mark R. DePue, interviewer.",
+            "id": "22734093",
+            "version": "3323627"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Gerald R. Ford Library and Museum, 2003:",
+                "id": "1957903",
+                "version": "1957903"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Gerald R. Ford Library and Museum, 2003:",
+            "id": "22734094",
+            "version": "3323627"
+        }
+    ],
+    "id": "22734076",
+    "version": "3323628"
+}

@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6hn5z66",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:24:43",
+            "standardDateTime": "2016-11-28T17:24:43",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Miriam Schapiro Archives on Women Artists. Margery Somers Foster Center, Rutgers University. Special Collections and University Archives.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Miriam Schapiro Archives on Women Artists. Margery Somers Foster Center, Rutgers University. Special Collections and University Archives.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794574",
+                    "version": "11238561"
+                }
+            ],
+            "id": "76794573",
+            "version": "11238561"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794572",
+            "targetConstellation": "76795681",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hn5z66",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6q05zmw",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Rutgers University Libraries, Margery Somers Foster Center"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794572",
+            "targetConstellation": "76795690",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hn5z66",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6fg4g74",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Rutgers University Libraries, Special Collections and University Archives, Miriam Schapiro Archives on Women Artists"
+        }
+    ],
+    "id": "76794572",
+    "version": "11238564"
+}

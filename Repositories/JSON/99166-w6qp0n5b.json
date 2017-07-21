@@ -1,0 +1,1472 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6qp0n5b",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28226",
+                "term": "viafID",
+                "uri": "http:\/\/viaf.org\/viaf\/terms#viafID",
+                "type": "record_type"
+            },
+            "uri": "157073970",
+            "id": "16512170",
+            "version": "2410847"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Chester County Historical Society (West Chester, Pa.)",
+            "uri": "http:\/\/viaf.org\/viaf\/157073970",
+            "id": "16512171",
+            "version": "2410847"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/wcidentities\/lccn-n50049149",
+            "id": "16512172",
+            "version": "2410847"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/id.loc.gov\/authorities\/names\/n50049149",
+            "id": "16512173",
+            "version": "2410847"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-19",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T23:10:13",
+            "standardDateTime": "2016-08-10T23:10:13",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-10T23:10:13",
+            "standardDateTime": "2016-08-10T23:10:13",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 3: http:\/\/www.worldcat.org\/oclc\/60246908",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/60246908",
+            "id": "16512154",
+            "version": "2410847"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 5: http:\/\/viaf.org\/viaf\/157073970",
+            "uri": "http:\/\/viaf.org\/viaf\/157073970",
+            "id": "16512156",
+            "version": "2410847"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: http:\/\/www.worldcat.org\/oclc\/164038394",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/164038394",
+            "id": "16512153",
+            "version": "2410847"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: http:\/\/www.worldcat.org\/oclc\/80027069",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/80027069",
+            "id": "16512152",
+            "version": "2410847"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 4: EAD from http:\/\/quod.lib.umich.edu\/c\/clementsmss\/umich-wcl-M-2424pro?rgn=main;view=text",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/umi\/clementsmss\/proceedingsinter_final.xml<\/filename>\n                  <ead_entity en_type=\"corpname\" encodinganalog=\"610\" source=\"lcnaf\">Chester County Historical Society (West Chester, Pa.)<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/quod.lib.umich.edu\/c\/clementsmss\/umich-wcl-M-2424pro?rgn=main;view=text",
+            "id": "16512155",
+            "version": "2410847"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "16512157",
+            "version": "2410847"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Chester County Historical Society (West Chester, Pa.)",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Chester County Historical Society (West Chester, Pa.)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "16512159",
+                    "version": "2410847"
+                }
+            ],
+            "id": "16512158",
+            "version": "2410847",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"umi\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78154134",
+                    "version": "2410847"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "CCHS",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "CCHS",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "16512164",
+                    "version": "2410847"
+                }
+            ],
+            "id": "16512163",
+            "version": "2410847",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "78154135",
+                    "version": "2410847"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "16512151",
+            "targetConstellation": "15082192",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qp0n5b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zg7wjx",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Brinton, Clement S. (Clement Starr), 1875-1963.",
+            "id": "16512175",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "16512151",
+            "targetConstellation": "32815329",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qp0n5b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w63206zg",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Davis, W. W. H. (William Watts Hart), 1820-1910",
+            "id": "16512176",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "16512151",
+            "targetConstellation": "1401091",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qp0n5b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6s21wpr",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Pew Charitable Trusts.",
+            "id": "16512174",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "16512151",
+            "targetConstellation": "76764108",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qp0n5b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6s001gn",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Chester County Historical Society Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "16512151",
+            "targetConstellation": "76792566",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qp0n5b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6j49g8z",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Chester County Historical Society"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/quod.lib.umich.edu\/c\/clementsmss\/umich-wcl-M-2424pro?rgn=main;view=text",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <origination>\n                     <persname> Davis, W. W. H. (William Watts Hart), 1820-1910<\/persname>\n                  <\/origination>\n                  <unittitle>Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894, \n<unitdate>1894-1902<\/unitdate>\n                     <unitdate>1894<\/unitdate>\n                  <\/unittitle>\n                  <unittitle>Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894<\/unittitle>\n                  <physdesc>\n                     <extent>1 volume<\/extent>\n                  <\/physdesc>\n                  <langmaterial>The material is in <language>English<\/language>\n                  <\/langmaterial>\n                  <abstract> This 108-page scrapbook contains newspaper clippings, letters, and ephemera related to the \"Inter-County Historical Meeting\" of representatives from Bucks, Montgomery, and Chester counties in Pennsylvania.  At the July 17, 1894, meeting, held in Hatboro, Pennsylvania, seven speakers addressed topics related to local history, the American Revolution, and the use and study of history.  William Watts Hart Davis of Doylestown, Pennsylvania, compiled the scrapbook in the fall of 1894.<\/abstract>\n                  <repository>\n                     <corpname>\n                        <subarea>William L. Clements Library<\/subarea>, University of Michigan<\/corpname>\n                     <extptr\/>\n                  <\/repository>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894, 1894-1902 1894 Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894",
+                "abstract": "This 108-page scrapbook contains newspaper clippings, letters, and ephemera related to the \"Inter-County Historical Meeting\" of representatives from Bucks, Montgomery, and Chester counties in Pennsylvania.  At the July 17, 1894, meeting, held in Hatboro, Pennsylvania, seven speakers addressed topics related to local history, the American Revolution, and the use and study of history.  William Watts Hart Davis of Doylestown, Pennsylvania, compiled the scrapbook in the fall of 1894.",
+                "extent": "1 volume",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": " Davis, W. W. H. (William Watts Hart), 1820-1910",
+                        "id": "11447419",
+                        "version": "6391343"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "id": "11447420",
+                        "version": "6391343"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6nq2tb4",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "William L. Clements Library , University of Michigan",
+                            "preferenceScore": "99",
+                            "id": "76798470",
+                            "version": "11242241"
+                        }
+                    ],
+                    "id": "76798469",
+                    "version": "11242244"
+                },
+                "id": "6391343",
+                "version": "6391343"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894, Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894, 1894-1902, 1894",
+            "id": "16512180",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Early charcoal iron forges, furnaces and slitting mills in Chester County, Pennsylvania 1718-1830 : including sketches on the works and a finding aid for the original forge and furnace books at the Chester County Historical Society",
+                "id": "1498616",
+                "version": "1498616"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Early charcoal iron forges, furnaces and slitting mills in Chester County, Pennsylvania 1718-1830 : including sketches on the works and a finding aid for the original forge and furnace books at the Chester County Historical Society",
+            "id": "16512195",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/80027069",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:80027069<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-DEH<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Pew Charitable Trusts.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Grant products reports, 1988-2002.<\/title>\n                  <\/titleInfo>\n                  <abstract>This series consists of both published and unpublished documents that constituted the final report or product of grants made by The Pew Charitable Trusts, the copies being submitted by the grant recipients. They document the scope of Pew's grant-making activities from 1988 to 2002. All program areas are represented, including: conservation and the environment, culture, education, health and human services, public policy, and religion. <\/abstract>\n                  <name>\n                     <namePart>Hagley Museum &amp; Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Grant products reports, 1988-2002.",
+                "abstract": "This series consists of both published and unpublished documents that constituted the final report or product of grants made by The Pew Charitable Trusts, the copies being submitted by the grant recipients. They document the scope of Pew's grant-making activities from 1988 to 2002. All program areas are represented, including: conservation and the environment, culture, education, health and human services, public policy, and religion. ",
+                "extent": "125 linear ft.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pew Charitable Trusts.",
+                        "id": "11081186",
+                        "version": "8238900"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6ch0chp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Hagley Museum & Library",
+                            "preferenceScore": "99",
+                            "id": "76768939",
+                            "version": "11227349"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Hagley Museum & Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "298 Buck Road",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768944",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Wilmington",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768945",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-DE",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768946",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19807",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768947",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768948",
+                                    "version": "11227349"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15211",
+                                "name": "Hagley Museum & Library",
+                                "latitude": "39.7879000",
+                                "longitude": "-75.5811000"
+                            },
+                            "confirmed": true,
+                            "id": "76768943",
+                            "version": "11227349"
+                        }
+                    ],
+                    "id": "76768938",
+                    "version": "11227352"
+                },
+                "id": "8238900",
+                "version": "8238900"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Pew Charitable Trusts. Grant products reports, 1988-2002.",
+            "id": "16512177",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Records of Orphans' Court for Chester County, Pennsylvania, 1747-1761",
+                "id": "4227708",
+                "version": "4227708"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Records of Orphans' Court for Chester County, Pennsylvania, 1747-1761",
+            "id": "16512188",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The potters and potteries of Chester County, Pennsylvania",
+                "id": "5370341",
+                "version": "5370341"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The potters and potteries of Chester County, Pennsylvania",
+            "id": "16512183",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Chester County",
+                "id": "883553",
+                "version": "883553"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Chester County",
+            "id": "16512200",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Coverlets in the collection of the Chester County Historical Society : from an exhibition, June 6th to October 2nd, 1976, 225 North High Street, West Chester, Pennsylvania",
+                "id": "1078639",
+                "version": "1078639"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Coverlets in the collection of the Chester County Historical Society : from an exhibition, June 6th to October 2nd, 1976, 225 North High Street, West Chester, Pennsylvania",
+            "id": "16512197",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Reflected light : a century of photography in Chester County",
+                "id": "4247614",
+                "version": "4247614"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Reflected light : a century of photography in Chester County",
+            "id": "16512187",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Covered bridges of Chester County, Pennsylvania",
+                "id": "1078511",
+                "version": "1078511"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Covered bridges of Chester County, Pennsylvania",
+            "id": "16512198",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Guide to records of the Court of Quarter Sessions, Chester County, Pennsylvania, 1681-1969 : records of the clerk of courts, records of the Court of Oyer and Terminer and General Jail Delivery, criminal records of the sheriff",
+                "id": "2057180",
+                "version": "2057180"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Guide to records of the Court of Quarter Sessions, Chester County, Pennsylvania, 1681-1969 : records of the clerk of courts, records of the Court of Oyer and Terminer and General Jail Delivery, criminal records of the sheriff",
+            "id": "16512191",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Barclay Rubincam : a retrospective",
+                "id": "565185",
+                "version": "565185"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Barclay Rubincam : a retrospective",
+            "id": "16512203",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The Pennsylvania spice box : paneled doors and secret drawers : essay and catalogue",
+                "id": "5349635",
+                "version": "5349635"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The Pennsylvania spice box : paneled doors and secret drawers : essay and catalogue",
+            "id": "16512185",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Two hundred years of chairs and chairmaking : an exhibition of chairs from the Chester County Historical Society",
+                "id": "5700265",
+                "version": "5700265"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Two hundred years of chairs and chairmaking : an exhibition of chairs from the Chester County Historical Society",
+            "id": "16512181",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Delectable collectables",
+                "id": "1205770",
+                "version": "1205770"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Delectable collectables",
+            "id": "16512196",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Teachers manual for inservice program: Project 1776: a bicentennial pilot program in early American culture for elementary school pupils of Chester County.",
+                "id": "4909208",
+                "version": "4909208"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Teachers manual for inservice program: Project 1776: a bicentennial pilot program in early American culture for elementary school pupils of Chester County.",
+            "id": "16512186",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "&quot;If thee must fight&quot; : a Civil War history of Chester County, Pennsylvania",
+                "id": "4164163",
+                "version": "4164163"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "&quot;If thee must fight&quot; : a Civil War history of Chester County, Pennsylvania",
+            "id": "16512204",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Bulletins of the Chester County Historical Society",
+                "id": "746371",
+                "version": "746371"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Bulletins of the Chester County Historical Society",
+            "id": "16512202",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Congress--the Chester County line",
+                "id": "1022840",
+                "version": "1022840"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Congress--the Chester County line",
+            "id": "16512199",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Fitting and proper",
+                "id": "1809128",
+                "version": "1809128"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Fitting and proper",
+            "id": "16512193",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/60246908",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:60246908<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-HVC<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Price, Walter Ferris, 1857-1951.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Darlington, Isabel.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Hole, Helen G. (Helen Griscom), 1906-1983.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Kelsey, Rayner Wickersham, 1879-1934.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Shipley, Walter Penn, b. 1860.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Smith, Albanus.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Thomas, Wilbur K. (Wilbur Kelsey), 1882-1953.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Walter F. Price papers, 1878-1945.<\/title>\n                  <\/titleInfo>\n                  <abstract>Price's papers include 3 albums containing materials relating to Haverford College's Class of 1881 over time, such as class reports, photos of classmates and faculty, letters, programs, and notes. Also letters of Walter Price, including some to Mary Vaux Walcott relating to the building of the Washington, D.C. (Quaker) Meetinghouse and other correspondence relating to architectural work at Chester County Historical Society. His correspondents include Isabel Darlington, Helen Hole, Rayner Kelsey, Walter Penn Shipley, Albanus Smith, and Wilbur K. Thomas. <\/abstract>\n                  <name>\n                     <namePart>Haverford College Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Walter F. Price papers, 1878-1945.",
+                "abstract": "Price's papers include 3 albums containing materials relating to Haverford College's Class of 1881 over time, such as class reports, photos of classmates and faculty, letters, programs, and notes. Also letters of Walter Price, including some to Mary Vaux Walcott relating to the building of the Washington, D.C. (Quaker) Meetinghouse and other correspondence relating to architectural work at Chester County Historical Society. His correspondents include Isabel Darlington, Helen Hole, Rayner Kelsey, Walter Penn Shipley, Albanus Smith, and Wilbur K. Thomas. ",
+                "extent": "1 box and 3 albums (1.5 linear ft.)",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Price, Walter Ferris, 1857-1951.",
+                        "id": "10134774",
+                        "version": "7776547"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Darlington, Isabel.",
+                        "id": "10134775",
+                        "version": "7776547"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hole, Helen G. (Helen Griscom), 1906-1983.",
+                        "id": "10134776",
+                        "version": "7776547"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Kelsey, Rayner Wickersham, 1879-1934.",
+                        "id": "10134777",
+                        "version": "7776547"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Shipley, Walter Penn, b. 1860.",
+                        "id": "10134778",
+                        "version": "7776547"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Smith, Albanus.",
+                        "id": "10134779",
+                        "version": "7776547"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Thomas, Wilbur K. (Wilbur Kelsey), 1882-1953.",
+                        "id": "10134780",
+                        "version": "7776547"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6qd0rxp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Haverford College Library",
+                            "preferenceScore": "99",
+                            "id": "76769607",
+                            "version": "11227617"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Haverford College Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "370 Lancaster Avenue",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769611",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Haverford",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769612",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-PA",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769613",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19041-1392",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769614",
+                                    "version": "11227617"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76769615",
+                                    "version": "11227617"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17254",
+                                "name": "Haverford College Library",
+                                "latitude": "40.0138284",
+                                "longitude": "-75.3028411"
+                            },
+                            "confirmed": true,
+                            "id": "76769610",
+                            "version": "11227617"
+                        }
+                    ],
+                    "id": "76769606",
+                    "version": "11227620"
+                },
+                "id": "7776547",
+                "version": "7776547"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Price, Walter Ferris, 1857-1951. Walter F. Price papers, 1878-1945.",
+            "id": "16512179",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Fitting &amp; proper : 18th century clothing from the collection of the Chester County Historical Society",
+                "id": "1809127",
+                "version": "1809127"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Fitting &amp; proper : 18th century clothing from the collection of the Chester County Historical Society",
+            "id": "16512194",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "To everything a season : the art and life of Ida Jones",
+                "id": "5593406",
+                "version": "5593406"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "To everything a season : the art and life of Ida Jones",
+            "id": "16512182",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Just over the line: Chester County and the underground railroad",
+                "id": "2561178",
+                "version": "2561178"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Just over the line: Chester County and the underground railroad",
+            "id": "16512189",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/164038394",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:164038394<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-DEH<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Brinton, Clement S. (Clement Starr), 1875-1963.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>The Clement S. Brinton collection on the history of the iron industry, 1889-1957.<\/title>\n                  <\/titleInfo>\n                  <abstract>The Brinton Collection is a useful source on the early iron industry in the northeastern states. <\/abstract>\n                  <name>\n                     <namePart>Hagley Museum &amp; Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "The Clement S. Brinton collection on the history of the iron industry, 1889-1957.",
+                "abstract": "The Brinton Collection is a useful source on the early iron industry in the northeastern states. ",
+                "extent": "Mss. 2.8 linear ft.Photographs 1,288 items.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Brinton, Clement S. (Clement Starr), 1875-1963.",
+                        "id": "8760451",
+                        "version": "6907439"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6ch0chp",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Hagley Museum & Library",
+                            "preferenceScore": "99",
+                            "id": "76768939",
+                            "version": "11227349"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Hagley Museum & Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "298 Buck Road",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768944",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Wilmington",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768945",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-DE",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768946",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "19807",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768947",
+                                    "version": "11227349"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76768948",
+                                    "version": "11227349"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15211",
+                                "name": "Hagley Museum & Library",
+                                "latitude": "39.7879000",
+                                "longitude": "-75.5811000"
+                            },
+                            "confirmed": true,
+                            "id": "76768943",
+                            "version": "11227349"
+                        }
+                    ],
+                    "id": "76768938",
+                    "version": "11227352"
+                },
+                "id": "6907439",
+                "version": "6907439"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Brinton, Clement S. (Clement Starr), 1875-1963. The Clement S. Brinton collection on the history of the iron industry, 1889-1957.",
+            "id": "16512178",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "CCHS newsletter, fall 2000:",
+                "id": "838196",
+                "version": "838196"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "CCHS newsletter, fall 2000:",
+            "id": "16512201",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Horace Pippin : a Chester County artist",
+                "id": "2220207",
+                "version": "2220207"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Horace Pippin : a Chester County artist",
+            "id": "16512190",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Guide to records of the Court of Common Pleas, Chester County, Pennsylvania, 1681-1900 : records of the prothonotary, civil records of the sheriff, select civil records of the Circuit Court of Chester County, and the Supreme Court of Pennsylvania",
+                "id": "2057179",
+                "version": "2057179"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Guide to records of the Court of Common Pleas, Chester County, Pennsylvania, 1681-1900 : records of the prothonotary, civil records of the sheriff, select civil records of the Circuit Court of Chester County, and the Supreme Court of Pennsylvania",
+            "id": "16512192",
+            "version": "2410847"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The individual and the community;",
+                "id": "5206829",
+                "version": "5206829"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The individual and the community;",
+            "id": "16512184",
+            "version": "2410847"
+        }
+    ],
+    "id": "16512151",
+    "version": "2410848"
+}

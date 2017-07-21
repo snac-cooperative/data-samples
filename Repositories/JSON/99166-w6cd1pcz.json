@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6cd1pcz",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "CU-AM",
+            "id": "76785883",
+            "version": "11233665"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "5698",
+            "id": "76785884",
+            "version": "11233665"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:46:44",
+            "standardDateTime": "2016-11-22T11:46:44",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of California, Davis Health Sciences Libraries, Carlson Health Sciences Library (HSL) & Blaisdell Medical Library (BML)",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of California, Davis Health Sciences Libraries, Carlson Health Sciences Library (HSL) & Blaisdell Medical Library (BML)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76785882",
+                    "version": "11233665"
+                }
+            ],
+            "id": "76785881",
+            "version": "11233665"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "University of California, Davis Health Sciences Libraries, Carlson Health Sciences Library (HSL) & Blaisdell Medical Library (BML)",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Uc  Davis Carlson Health Sciences Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785886",
+                    "version": "11233665"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "One Shields Avenue, Med Sci B",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785887",
+                    "version": "11233665"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Davis",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785888",
+                    "version": "11233665"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-CA",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785889",
+                    "version": "11233665"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "95616-5292",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785890",
+                    "version": "11233665"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785891",
+                    "version": "11233665"
+                }
+            ],
+            "geoplace": {
+                "id": "17390",
+                "name": "University of California, Davis Health Sciences Libraries, Carlson Health Sciences Library (HSL) & Blaisdell Medical Library (BML)",
+                "latitude": "38.5814323",
+                "longitude": "-121.7666930"
+            },
+            "confirmed": true,
+            "id": "76785885",
+            "version": "11233665"
+        }
+    ],
+    "id": "76785880",
+    "version": "11233668"
+}

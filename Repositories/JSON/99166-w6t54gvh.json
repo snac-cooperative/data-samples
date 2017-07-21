@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6t54gvh",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:28:01",
+            "standardDateTime": "2016-11-28T17:28:01",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Special Collections & Archives, University of Houston Libraries",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Special Collections & Archives, University of Houston Libraries",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76796233",
+                    "version": "11240069"
+                }
+            ],
+            "id": "76796232",
+            "version": "11240069"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796231",
+            "targetConstellation": "19069295",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6t54gvh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6k42bsp",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Oregon. Libraries. Division of Special Collections & University Archives"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796231",
+            "targetConstellation": "76796378",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6t54gvh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6wt9h17",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Special Collections, University of Houston Libraries"
+        }
+    ],
+    "id": "76796231",
+    "version": "11240072"
+}

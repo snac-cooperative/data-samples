@@ -1,0 +1,87 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6524mzk",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:23:41",
+            "standardDateTime": "2016-11-28T17:23:41",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "J. Willard Marriott Library, University of UtahUniversity Archives and Records Management",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "J. Willard Marriott Library, University of UtahUniversity Archives and Records Management",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794054",
+                    "version": "11238077"
+                }
+            ],
+            "id": "76794053",
+            "version": "11238077"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "J. Willard Marriott Library, University of UtahUniversity Archives and Records Management",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "University Archives & Records Management Special Collections J. Willard Marriott Library, 666 Guardsman Way Salt Lake City, UT 84112 Tel: 801-581-8242 Fax: 801-581-8192",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76794056",
+                    "version": "11238077"
+                }
+            ],
+            "id": "76794055",
+            "version": "11238077"
+        }
+    ],
+    "id": "76794052",
+    "version": "11238080"
+}

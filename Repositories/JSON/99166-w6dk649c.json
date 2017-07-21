@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6dk649c",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "71498",
+            "id": "76783196",
+            "version": "11232673"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:44:28",
+            "standardDateTime": "2016-11-22T11:44:28",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Stellenbosch University Library and Information Service, J S Gericke Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Stellenbosch University Library and Information Service, J S Gericke Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76783195",
+                    "version": "11232673"
+                }
+            ],
+            "id": "76783194",
+            "version": "11232673"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Stellenbosch University Library and Information Service, J S Gericke Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "JS Marais Square",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783198",
+                    "version": "11232673"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "c\/o Victoria and Ryneveld Streets",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783199",
+                    "version": "11232673"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Stellenbosch",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783200",
+                    "version": "11232673"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "7602",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783201",
+                    "version": "11232673"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "ZA",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76783202",
+                    "version": "11232673"
+                }
+            ],
+            "geoplace": {
+                "id": "15791",
+                "name": "Stellenbosch University Library and Information Service, J S Gericke Library",
+                "latitude": "-33.9327927",
+                "longitude": "18.8639984"
+            },
+            "confirmed": true,
+            "id": "76783197",
+            "version": "11232673"
+        }
+    ],
+    "id": "76783193",
+    "version": "11232676"
+}

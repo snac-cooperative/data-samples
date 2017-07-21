@@ -1,0 +1,161 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6912skv",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:28:19",
+            "standardDateTime": "2016-11-28T17:28:19",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Special Collections, University Libraries",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Special Collections, University Libraries",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76796368",
+                    "version": "11240209"
+                }
+            ],
+            "id": "76796367",
+            "version": "11240209"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796366",
+            "targetConstellation": "1989593",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6912skv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cs337p",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Stanford University. Libraries. Dept. of Special Collections."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796366",
+            "targetConstellation": "76798030",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6912skv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zm65kp",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Southampton Libraries Special Collections"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796366",
+            "targetConstellation": "76798033",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6912skv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6tv5dvz",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Southampton Libraries Special Libraries"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796366",
+            "targetConstellation": "76798199",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6912skv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6j785t2",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "USC Libraries Special Collections"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Special Collections, University Libraries",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "University of Arizona PO Box 210055 Tucson, AZ 85721-0055 Phone: 520-621-6423 Fax: 520-621-9733 URL: http:\/\/speccoll.library.arizona.edu\/",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76796370",
+                    "version": "11240209"
+                }
+            ],
+            "id": "76796369",
+            "version": "11240209"
+        }
+    ],
+    "id": "76796366",
+    "version": "11240212"
+}

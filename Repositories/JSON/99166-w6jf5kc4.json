@@ -1,0 +1,167 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6jf5kc4",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "112848",
+            "id": "76782844",
+            "version": "11232545"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:44:11",
+            "standardDateTime": "2016-11-22T11:44:11",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Sovereign Military Order of Malta, Order of Malta",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Sovereign Military Order of Malta, Order of Malta",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76782843",
+                    "version": "11232545"
+                }
+            ],
+            "id": "76782842",
+            "version": "11232545"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76782841",
+            "targetConstellation": "6559922",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6jf5kc4",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6p640xq",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Order of Malta"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Sovereign Military Order of Malta, Order of Malta",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Via Condotti 68",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782846",
+                    "version": "11232545"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Roma",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782847",
+                    "version": "11232545"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "00187",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782848",
+                    "version": "11232545"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "IT",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76782849",
+                    "version": "11232545"
+                }
+            ],
+            "geoplace": {
+                "id": "15583",
+                "name": "Sovereign Military Order of Malta, Order of Malta",
+                "latitude": "41.9051975",
+                "longitude": "12.4806324"
+            },
+            "confirmed": true,
+            "id": "76782845",
+            "version": "11232545"
+        }
+    ],
+    "id": "76782841",
+    "version": "11232548"
+}

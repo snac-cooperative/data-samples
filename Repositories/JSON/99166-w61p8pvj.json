@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w61p8pvj",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:19:27",
+            "standardDateTime": "2016-11-28T17:19:27",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Berkeley Art Museum\/Pacific Film Archive",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Berkeley Art Museum\/Pacific Film Archive",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792064",
+                    "version": "11236161"
+                }
+            ],
+            "id": "76792063",
+            "version": "11236161"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792062",
+            "targetConstellation": "18457334",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61p8pvj",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w69w8nmj",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University Art Museum and Pacific Film Archive."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792062",
+            "targetConstellation": "76797060",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61p8pvj",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w62k71pb",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "UC Berkeley Art Museum and Pacific Film Archive"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Berkeley Art Museum\/Pacific Film Archive",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Berkeley, California 94720-2250",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792066",
+                    "version": "11236161"
+                }
+            ],
+            "id": "76792065",
+            "version": "11236161"
+        }
+    ],
+    "id": "76792062",
+    "version": "11236164"
+}

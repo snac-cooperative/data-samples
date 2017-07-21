@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w63s1gkg",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:20:55",
+            "standardDateTime": "2016-11-28T17:20:55",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Columbia University, Bakhmeteff Archive, Rare Book and Manuscript Library,",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Columbia University, Bakhmeteff Archive, Rare Book and Manuscript Library,",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792747",
+                    "version": "11236809"
+                }
+            ],
+            "id": "76792746",
+            "version": "11236809"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792745",
+            "targetConstellation": "5486871",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w63s1gkg",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6wq4cdk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Columbia University. Rare Book and Manuscript Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792745",
+            "targetConstellation": "76792773",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w63s1gkg",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g26pmg",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Columbia University. Rare Book and Manuscript Library. Bakhmeteff Archive"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Columbia University, Bakhmeteff Archive, Rare Book and Manuscript Library,",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Butler Library, New York, N.Y. 10027.",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792749",
+                    "version": "11236809"
+                }
+            ],
+            "id": "76792748",
+            "version": "11236809"
+        }
+    ],
+    "id": "76792745",
+    "version": "11236812"
+}

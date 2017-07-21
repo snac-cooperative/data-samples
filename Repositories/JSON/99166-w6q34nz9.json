@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6q34nz9",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:19:54",
+            "standardDateTime": "2016-11-28T17:19:54",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Brown University Archives, John Hay Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Brown University Archives, John Hay Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792245",
+                    "version": "11236357"
+                }
+            ],
+            "id": "76792244",
+            "version": "11236357"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792243",
+            "targetConstellation": "76762666",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6q34nz9",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6330j80",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Brown University, John Hay Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792243",
+            "targetConstellation": "76792260",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6q34nz9",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w69x1473",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Brown University Library University Archives"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Brown University Archives, John Hay Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Box A Brown University Providence, RI 02912 Tel: 401-863-2148 Fax: 401-863-2093 email: archives@brown.edu",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792247",
+                    "version": "11236357"
+                }
+            ],
+            "id": "76792246",
+            "version": "11236357"
+        }
+    ],
+    "id": "76792243",
+    "version": "11236360"
+}

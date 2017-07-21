@@ -1,0 +1,171 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6md9nmw",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "WMaPI-RL",
+            "id": "76780395",
+            "version": "11231645"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "49001",
+            "id": "76780396",
+            "version": "11231645"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:42:09",
+            "standardDateTime": "2016-11-22T11:42:09",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Resources for Libraries & Lifelong Learning (RL&LL), Wisconsin Department of Public Instruction",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Resources for Libraries & Lifelong Learning (RL&LL), Wisconsin Department of Public Instruction",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76780394",
+                    "version": "11231645"
+                }
+            ],
+            "id": "76780393",
+            "version": "11231645"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Resources for Libraries & Lifelong Learning (RL&LL), Wisconsin Department of Public Instruction",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "2109 South Stoughton Road",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780398",
+                    "version": "11231645"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Madison",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780399",
+                    "version": "11231645"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-WI",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780400",
+                    "version": "11231645"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "53716-2899",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780401",
+                    "version": "11231645"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76780402",
+                    "version": "11231645"
+                }
+            ],
+            "geoplace": {
+                "id": "17103",
+                "name": "Resources for Libraries & Lifelong Learning (RL&LL), Wisconsin Department of Public Instruction",
+                "latitude": "43.0680000",
+                "longitude": "-89.3080000"
+            },
+            "confirmed": true,
+            "id": "76780397",
+            "version": "11231645"
+        }
+    ],
+    "id": "76780392",
+    "version": "11231648"
+}

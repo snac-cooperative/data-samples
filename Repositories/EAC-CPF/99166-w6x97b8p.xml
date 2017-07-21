@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6x97b8p</recordId>
+    <otherRecordId localType="http://viaf.org/viaf/terms#viafID">262062082</otherRecordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <languageDeclaration>
+      <language languageCode="eng">English</language>
+      <script scriptCode="Latn">Latin</script>
+    </languageDeclaration>
+    <conventionDeclaration>
+      <citation>VIAF</citation>
+    </conventionDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="">2015-09-19</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>CPF merge program</agent>
+        <eventDescription>Merge v2.0</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-19T20:54:49">2016-08-19T20:54:49</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Parser</agent>
+        <eventDescription>Bulk ingest into SNAC Database</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-19T20:54:49">2016-08-19T20:54:49</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription/>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+      <source xlink:href="http://www.worldcat.org/oclc/700265232" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/700267591" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/173863206" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/668104555" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://viaf.org/viaf/262062082" xlink:type="simple">
+                
+            </source>
+    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <nameEntry snac:preferenceScore="99">
+        <part>Jimmy Carter Library</part>
+      </nameEntry>
+      <nameEntry snac:preferenceScore="1">
+        <part>Jimmy Carter Presidential Library and Museum</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Carter Library</part>
+      </nameEntry>
+      <nameEntry>
+        <part>Jimmy Carter Presidential Libary and Museum Atlanta, Ga.</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates>
+        <dateRange>
+          <fromDate localType="http://socialarchive.iath.virginia.edu/control/term#Active" standardDate="1977">active 1977</fromDate>
+          <toDate notBefore="1981" notAfter="1981" localType="http://socialarchive.iath.virginia.edu/control/term#Active" standardDate="1981">active 1981 or 1981</toDate>
+        </dateRange>
+      </existDates>
+      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+        <term>Holy Crown of Hungary--Archives</term>
+      </localDescription>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>Hungary</placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>United States</placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>Hungary</placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry>United States</placeEntry>
+      </place>
+      <biogHist>
+        <p xmlns="urn:isbn:1-931666-33-4">At the end of World War II, the Hungarian Crown guard transferred the Crown of St. Stephen, a symbol of the Hungarian nation, to U.S. Army officers to prevent the Crown from falling into the hands of the Soviet army. Later, Cold War tensions prevented the crown from being returned to the Hungarian people. In 1978, the Crown was returned to Hungary by order of President Jimmy Carter.</p>
+        <citation xmlns="urn:isbn:1-931666-33-4">From the description of Documents from the Carter Presidential Papers White House Central File, [manuscript] [1977-1981] / Jimmy Carter Library. (Indiana University). WorldCat record id: 700265232</citation>
+        <citation xmlns="urn:isbn:1-931666-33-4">From the description of Documents related to the Crown of St. Stephen, [manuscript] [1977-1981] / Jimmy Carter Library. (Indiana University). WorldCat record id: 700267591</citation>
+      </biogHist>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6n5920p">
+        <relationEntry>Brzezinski, Zbigniew, 1928-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w60g8rcq">
+        <relationEntry>CAUTION, Inc.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w64t79xt">
+        <relationEntry>Smith, Frederick C., 1947-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6cv9j71">
+        <relationEntry>United States. Assistant to the President for National Security Affairs.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w69s6rg6">
+        <relationEntry>United States. President (1977-1981 : Carter)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w6v80741">
+        <relationEntry>Jimmy Carter Library</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://viaf.org/viaf/262062082">
+        <relationEntry>Jimmy Carter Library</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://www.worldcat.org/wcidentities/lccn-n90638933">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://id.loc.gov/authorities/names/n90638933">
+        <relationEntry/>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/700265232">
+        <relationEntry>Jimmy Carter Library. Documents from the Carter Presidential Papers White House Central File, [manuscript] [1977-1981] / Jimmy Carter Library.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Jimmy Carter Library.</persname>
+              <persname>United States. President (1977-1981 : Carter)</persname>
+            </origination>
+            <unittitle>Documents from the Carter Presidential Papers White House Central File, [manuscript] [1977-1981] / Jimmy Carter Library.</unittitle>
+            <physdesc>
+              <extent>1 v. (unpaged) : photocopies ; 29 cm.</extent>
+            </physdesc>
+            <abstract>Documents are photocopied from the Carter Presidential Papers, White House Central File. Documents include correspondence, memorandums, telegrams, and newspaper clippings pertaining to the return of the Crown of St. Stephen to Hungary. Some documents have been declassified. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6n11w06">Indiana University</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/668104555">
+        <relationEntry>Smith, Frederick C., 1947-. An interview with Frederick C. Smith / Frederick C. Smith ; Mark R. DePue, interviewer.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Smith, Frederick C., 1947-</persname>
+              <persname>DePue, Mark R.,</persname>
+              <persname>Abraham Lincoln Presidential Library.</persname>
+            </origination>
+            <unittitle>An interview with Frederick C. Smith / Frederick C. Smith ; Mark R. DePue, interviewer. 2010.</unittitle>
+            <physdesc>
+              <extent>1 videodisc (61 min.) + 14 photos.</extent>
+            </physdesc>
+            <abstract>An interview of Frederick C. Smith conducted by Mark R. DePue for the Abraham Lincoln Presidential Library. Topics discussed include National Archives and Records Administration (NARA) Presidential Libraries and Museums; Herbert Hoover Presidential Library and Museum; Harry S. Truman Library and Museum; John F. Kennedy Library and Museum; Lyndon B. Johnson Library and Museum; Richard M. Nixon Library and Museum; Gerald Ford Library and Museum; Jimmy Carter Library and Museum; Ronald Reagan Library and Museum; George H.W. Bush Library and Museum; and William J. Clinton Library and Museum. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6q922fv">Abraham Lincoln Presidential Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Women and the Constitution : a bicentennial perspective</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Women and the Constitution : a bicentennial perspective</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/700267591">
+        <relationEntry>Jimmy Carter Library. Documents related to the Crown of St. Stephen, [manuscript] [1977-1981] / Jimmy Carter Library.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Jimmy Carter Library.</persname>
+              <persname>United States. Assistant to the President for National Security Affairs.</persname>
+              <persname>Brzezinski, Zbigniew, 1928-</persname>
+            </origination>
+            <unittitle>Documents related to the Crown of St. Stephen, [manuscript] [1977-1981] / Jimmy Carter Library.</unittitle>
+            <physdesc>
+              <extent>1 v. (unpaged) : photocopies ; 29 cm.</extent>
+            </physdesc>
+            <abstract>Documents are photocopied from the Country File on Hungary from the Carter Presidental Papers--Staff Offices, National Security Affairs--Brzezinksi Material. Documents include correspondence, memorandums, and telegrams pertaining to the return of the Crown of St. Stephen to Hungary. Most of these documents have been declassified. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6n11w06">Indiana University</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/173863206">
+        <relationEntry>CAUTION, Inc. CAUTION, Inc. records, 1982-1986.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>CAUTION, Inc.</persname>
+            </origination>
+            <unittitle>CAUTION, Inc. records, 1982-1986.</unittitle>
+            <physdesc>
+              <extent>58 linear ft. (58 boxes, 14 0 p., 12 oversized papers rolls)</extent>
+            </physdesc>
+            <abstract>The collection consists of records of CAUTION, Inc. (Coalition Against Unnecessary Thoroughfares in Our Neighborhood) from 1982-1986. The records include correspondence, legal documents, traffic observations, photographs, diagrams, maps and drawings relating to CAUTION's fight against the parkway leading to the Jimmy Carter Library (Atlanta, Ga.). </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6sk27z1">Emory University Library, Special Collect Department</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Records of the Japan-U.S. Economic Group</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Records of the Japan-U.S. Economic Group</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Also known as: Records of the Japan-U.S. Economic Relations Group</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Also known as: Records of the Japan-U.S. Economic Relations Group</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Women, politics, and the Constitution</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Women, politics, and the Constitution</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

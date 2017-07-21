@@ -1,0 +1,167 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6wj3cm5",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "46631",
+            "id": "76785486",
+            "version": "11233525"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:46:24",
+            "standardDateTime": "2016-11-22T11:46:24",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Universidad de Valladolid, Biblioteca Universitaria",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Universidad de Valladolid, Biblioteca Universitaria",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76785485",
+                    "version": "11233525"
+                }
+            ],
+            "id": "76785484",
+            "version": "11233525"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76785483",
+            "targetConstellation": "50720484",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6wj3cm5",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hf2r7z",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Biblioteca Universitaria de Sevilla"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Universidad de Valladolid, Biblioteca Universitaria",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "C\/Chanciller\u00eda 6",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785488",
+                    "version": "11233525"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Valladolid",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785489",
+                    "version": "11233525"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "47003",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785490",
+                    "version": "11233525"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "ES",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76785491",
+                    "version": "11233525"
+                }
+            ],
+            "geoplace": {
+                "id": "15141",
+                "name": "Universidad de Valladolid, Biblioteca Universitaria",
+                "latitude": "41.6568000",
+                "longitude": "-4.7200600"
+            },
+            "confirmed": true,
+            "id": "76785487",
+            "version": "11233525"
+        }
+    ],
+    "id": "76785483",
+    "version": "11233528"
+}

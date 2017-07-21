@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6n9804n",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "18538",
+            "id": "76761855",
+            "version": "11224709"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:26:25",
+            "standardDateTime": "2016-11-22T11:26:25",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Bibliotheksservice-Zentrum Baden-W\u00fcrttemberg, BSZ",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Bibliotheksservice-Zentrum Baden-W\u00fcrttemberg, BSZ",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76761854",
+                    "version": "11224709"
+                }
+            ],
+            "id": "76761853",
+            "version": "11224709"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Bibliotheksservice-Zentrum Baden-W\u00fcrttemberg, BSZ",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Universit\u00e4t Konstanz",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761857",
+                    "version": "11224709"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Felix-Wankel-Str. 4",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761858",
+                    "version": "11224709"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Konstanz",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761859",
+                    "version": "11224709"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "78457",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761860",
+                    "version": "11224709"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "DE",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761861",
+                    "version": "11224709"
+                }
+            ],
+            "geoplace": {
+                "id": "15885",
+                "name": "Bibliotheksservice-Zentrum Baden-W\u00fcrttemberg, BSZ",
+                "latitude": "47.6612820",
+                "longitude": "9.1720600"
+            },
+            "confirmed": true,
+            "id": "76761856",
+            "version": "11224709"
+        }
+    ],
+    "id": "76761852",
+    "version": "11224712"
+}

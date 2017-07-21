@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6qp0n5b</recordId>
+    <otherRecordId localType="http://viaf.org/viaf/terms#viafID">157073970</otherRecordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <conventionDeclaration>
+      <citation>VIAF</citation>
+    </conventionDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="">2015-09-19</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>CPF merge program</agent>
+        <eventDescription>Merge v2.0</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-10T23:10:13">2016-08-10T23:10:13</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Parser</agent>
+        <eventDescription>Bulk ingest into SNAC Database</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-08-10T23:10:13">2016-08-10T23:10:13</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription/>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+      <source xlink:href="http://www.worldcat.org/oclc/60246908" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://viaf.org/viaf/157073970" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/164038394" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/80027069" xlink:type="simple">
+                
+            </source>
+      <source xlink:href="http://quod.lib.umich.edu/c/clementsmss/umich-wcl-M-2424pro?rgn=main;view=text" xlink:type="simple">
+        <objectXMLWrap>
+          <container xmlns="">
+            <filename>/data/source/findingAids/umi/clementsmss/proceedingsinter_final.xml</filename>
+            <ead_entity en_type="corpname" encodinganalog="610" source="lcnaf">Chester County Historical Society (West Chester, Pa.)</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <nameEntry snac:preferenceScore="99">
+        <part>Chester County Historical Society (West Chester, Pa.)</part>
+      </nameEntry>
+      <nameEntry>
+        <part>CCHS</part>
+      </nameEntry>
+    </identity>
+    <description>
+                                                                                                            
+            
+            
+            
+            
+                        
+        </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6zg7wjx">
+        <relationEntry>Brinton, Clement S. (Clement Starr), 1875-1963.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w63206zg">
+        <relationEntry>Davis, W. W. H. (William Watts Hart), 1820-1910</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6s21wpr">
+        <relationEntry>Pew Charitable Trusts.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w6s001gn">
+        <relationEntry>Chester County Historical Society Library</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w6j49g8z">
+        <relationEntry>Chester County Historical Society</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://viaf.org/viaf/157073970">
+        <relationEntry>Chester County Historical Society (West Chester, Pa.)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://www.worldcat.org/wcidentities/lccn-n50049149">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="http://id.loc.gov/authorities/names/n50049149">
+        <relationEntry/>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://quod.lib.umich.edu/c/clementsmss/umich-wcl-M-2424pro?rgn=main;view=text">
+        <relationEntry>Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894, Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894, 1894-1902, 1894</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname> Davis, W. W. H. (William Watts Hart), 1820-1910</persname>
+            </origination>
+            <unittitle>Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894, 1894-1902 1894 Proceedings of Inter-County Historical Meeting at Hatboro, Montgomery County, Pa. July 17, 1894</unittitle>
+            <physdesc>
+              <extent>1 volume</extent>
+            </physdesc>
+            <abstract>This 108-page scrapbook contains newspaper clippings, letters, and ephemera related to the "Inter-County Historical Meeting" of representatives from Bucks, Montgomery, and Chester counties in Pennsylvania.  At the July 17, 1894, meeting, held in Hatboro, Pennsylvania, seven speakers addressed topics related to local history, the American Revolution, and the use and study of history.  William Watts Hart Davis of Doylestown, Pennsylvania, compiled the scrapbook in the fall of 1894.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nq2tb4">William L. Clements Library , University of Michigan</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Early charcoal iron forges, furnaces and slitting mills in Chester County, Pennsylvania 1718-1830 : including sketches on the works and a finding aid for the original forge and furnace books at the Chester County Historical Society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Early charcoal iron forges, furnaces and slitting mills in Chester County, Pennsylvania 1718-1830 : including sketches on the works and a finding aid for the original forge and furnace books at the Chester County Historical Society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/80027069">
+        <relationEntry>Pew Charitable Trusts. Grant products reports, 1988-2002.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Pew Charitable Trusts.</persname>
+            </origination>
+            <unittitle>Grant products reports, 1988-2002.</unittitle>
+            <physdesc>
+              <extent>125 linear ft.</extent>
+            </physdesc>
+            <abstract>This series consists of both published and unpublished documents that constituted the final report or product of grants made by The Pew Charitable Trusts, the copies being submitted by the grant recipients. They document the scope of Pew's grant-making activities from 1988 to 2002. All program areas are represented, including: conservation and the environment, culture, education, health and human services, public policy, and religion. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6ch0chp">Hagley Museum &amp; Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Records of Orphans' Court for Chester County, Pennsylvania, 1747-1761</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Records of Orphans' Court for Chester County, Pennsylvania, 1747-1761</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The potters and potteries of Chester County, Pennsylvania</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The potters and potteries of Chester County, Pennsylvania</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Chester County</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Chester County</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Coverlets in the collection of the Chester County Historical Society : from an exhibition, June 6th to October 2nd, 1976, 225 North High Street, West Chester, Pennsylvania</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Coverlets in the collection of the Chester County Historical Society : from an exhibition, June 6th to October 2nd, 1976, 225 North High Street, West Chester, Pennsylvania</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Reflected light : a century of photography in Chester County</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Reflected light : a century of photography in Chester County</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Covered bridges of Chester County, Pennsylvania</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Covered bridges of Chester County, Pennsylvania</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Guide to records of the Court of Quarter Sessions, Chester County, Pennsylvania, 1681-1969 : records of the clerk of courts, records of the Court of Oyer and Terminer and General Jail Delivery, criminal records of the sheriff</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Guide to records of the Court of Quarter Sessions, Chester County, Pennsylvania, 1681-1969 : records of the clerk of courts, records of the Court of Oyer and Terminer and General Jail Delivery, criminal records of the sheriff</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Barclay Rubincam : a retrospective</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Barclay Rubincam : a retrospective</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The Pennsylvania spice box : paneled doors and secret drawers : essay and catalogue</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Pennsylvania spice box : paneled doors and secret drawers : essay and catalogue</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Two hundred years of chairs and chairmaking : an exhibition of chairs from the Chester County Historical Society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Two hundred years of chairs and chairmaking : an exhibition of chairs from the Chester County Historical Society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Delectable collectables</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Delectable collectables</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Teachers manual for inservice program: Project 1776: a bicentennial pilot program in early American culture for elementary school pupils of Chester County.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Teachers manual for inservice program: Project 1776: a bicentennial pilot program in early American culture for elementary school pupils of Chester County.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>&amp;quot;If thee must fight&amp;quot; : a Civil War history of Chester County, Pennsylvania</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>&amp;quot;If thee must fight&amp;quot; : a Civil War history of Chester County, Pennsylvania</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Bulletins of the Chester County Historical Society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Bulletins of the Chester County Historical Society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Congress--the Chester County line</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Congress--the Chester County line</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Fitting and proper</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Fitting and proper</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/60246908">
+        <relationEntry>Price, Walter Ferris, 1857-1951. Walter F. Price papers, 1878-1945.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Price, Walter Ferris, 1857-1951.</persname>
+              <persname>Darlington, Isabel.</persname>
+              <persname>Hole, Helen G. (Helen Griscom), 1906-1983.</persname>
+              <persname>Kelsey, Rayner Wickersham, 1879-1934.</persname>
+              <persname>Shipley, Walter Penn, b. 1860.</persname>
+              <persname>Smith, Albanus.</persname>
+              <persname>Thomas, Wilbur K. (Wilbur Kelsey), 1882-1953.</persname>
+            </origination>
+            <unittitle>Walter F. Price papers, 1878-1945.</unittitle>
+            <physdesc>
+              <extent>1 box and 3 albums (1.5 linear ft.)</extent>
+            </physdesc>
+            <abstract>Price's papers include 3 albums containing materials relating to Haverford College's Class of 1881 over time, such as class reports, photos of classmates and faculty, letters, programs, and notes. Also letters of Walter Price, including some to Mary Vaux Walcott relating to the building of the Washington, D.C. (Quaker) Meetinghouse and other correspondence relating to architectural work at Chester County Historical Society. His correspondents include Isabel Darlington, Helen Hole, Rayner Kelsey, Walter Penn Shipley, Albanus Smith, and Wilbur K. Thomas. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6qd0rxp">Haverford College Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Fitting &amp;amp; proper : 18th century clothing from the collection of the Chester County Historical Society</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Fitting &amp;amp; proper : 18th century clothing from the collection of the Chester County Historical Society</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>To everything a season : the art and life of Ida Jones</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>To everything a season : the art and life of Ida Jones</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Just over the line: Chester County and the underground railroad</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Just over the line: Chester County and the underground railroad</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/164038394">
+        <relationEntry>Brinton, Clement S. (Clement Starr), 1875-1963. The Clement S. Brinton collection on the history of the iron industry, 1889-1957.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Brinton, Clement S. (Clement Starr), 1875-1963.</persname>
+            </origination>
+            <unittitle>The Clement S. Brinton collection on the history of the iron industry, 1889-1957.</unittitle>
+            <physdesc>
+              <extent>Mss. 2.8 linear ft.Photographs 1,288 items.</extent>
+            </physdesc>
+            <abstract>The Brinton Collection is a useful source on the early iron industry in the northeastern states. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6ch0chp">Hagley Museum &amp; Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>CCHS newsletter, fall 2000:</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>CCHS newsletter, fall 2000:</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Horace Pippin : a Chester County artist</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Horace Pippin : a Chester County artist</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>Guide to records of the Court of Common Pleas, Chester County, Pennsylvania, 1681-1900 : records of the prothonotary, civil records of the sheriff, select civil records of the Circuit Court of Chester County, and the Supreme Court of Pennsylvania</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Guide to records of the Court of Common Pleas, Chester County, Pennsylvania, 1681-1900 : records of the prothonotary, civil records of the sheriff, select civil records of the Circuit Court of Chester County, and the Supreme Court of Pennsylvania</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#BibliographicResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="">
+        <relationEntry>The individual and the community;</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The individual and the community;</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6ck938b",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:25:16",
+            "standardDateTime": "2016-11-28T17:25:16",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Naval War College Library, Naval Historical Collection",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Naval War College Library, Naval Historical Collection",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794851",
+                    "version": "11238813"
+                }
+            ],
+            "id": "76794850",
+            "version": "11238813"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794849",
+            "targetConstellation": "76776726",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ck938b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6jb6vzd",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Naval War College, Henry E. Eccles Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794849",
+            "targetConstellation": "76797108",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ck938b",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nd6q2q",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "United States Naval War College Naval Historical Collection"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Naval War College Library, Naval Historical Collection",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "686 Cushing Road Newport, RI 02841-1207 Tel: 401-841-2435 E-mail: nhc@usnwc.edu Website: http:\/\/www.usnwc.edu\/Academics\/Library\/Naval-Historical-Collection.aspx\/",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76794853",
+                    "version": "11238813"
+                }
+            ],
+            "id": "76794852",
+            "version": "11238813"
+        }
+    ],
+    "id": "76794849",
+    "version": "11238816"
+}

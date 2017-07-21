@@ -1,0 +1,138 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w67763rs",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "TxHM",
+            "id": "76769879",
+            "version": "11227725"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:33:13",
+            "standardDateTime": "2016-11-22T11:33:13",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Hirsch Library Museum of Fine Arts, Houston",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Hirsch Library Museum of Fine Arts, Houston",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76769878",
+                    "version": "11227725"
+                }
+            ],
+            "id": "76769877",
+            "version": "11227725"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769876",
+            "targetConstellation": "38718404",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w67763rs",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6bg6m0g",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Museum of Fine Arts, Houston"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76769876",
+            "targetConstellation": "76775820",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w67763rs",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nm43k9",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Museum of Fine Arts, Houston - Hirsch Library, Hirsch Library"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Hirsch Library Museum of Fine Arts, Houston",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "1001 Bissonnet  Houston, Texas 77265  United States",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76769881",
+                    "version": "11227725"
+                }
+            ],
+            "id": "76769880",
+            "version": "11227725"
+        }
+    ],
+    "id": "76769876",
+    "version": "11227728"
+}

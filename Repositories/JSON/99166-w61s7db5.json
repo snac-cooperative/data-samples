@@ -1,0 +1,179 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w61s7db5",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:26:15",
+            "standardDateTime": "2016-11-28T17:26:15",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Princeton University. Library. Dept. of Rare Books and Special Collections",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Princeton University. Library. Dept. of Rare Books and Special Collections",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76795338",
+                    "version": "11239257"
+                }
+            ],
+            "id": "76795337",
+            "version": "11239257"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76795336",
+            "targetConstellation": "36536485",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61s7db5",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6p02bzg",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Princeton university, Library, Department of rare books and special collections"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76795336",
+            "targetConstellation": "76795347",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61s7db5",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6s86559",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Princeton University. Library. Dept. of Rare Books and Special CollectionsGraphic Arts Collection"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76795336",
+            "targetConstellation": "76795352",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61s7db5",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nh5dfk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Princeton University. Library. Dept. of Rare Books and Special CollectionsManuscripts Division"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76795336",
+            "targetConstellation": "76795357",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61s7db5",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hr4nr9",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Princeton University. Library. Dept. of Rare Books and Special CollectionsRare Book Division"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76795336",
+            "targetConstellation": "76795362",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w61s7db5",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6d03wz0",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Princeton University. Library. Dept. of Rare Books and Special Collections.Seeley G. Mudd Manuscript Library. Princeton University Archives."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Princeton University. Library. Dept. of Rare Books and Special Collections",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "One Washington Road Princeton, New Jersey 08544 USA",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76795340",
+                    "version": "11239257"
+                }
+            ],
+            "id": "76795339",
+            "version": "11239257"
+        }
+    ],
+    "id": "76795336",
+    "version": "11239260"
+}

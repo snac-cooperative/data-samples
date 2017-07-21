@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6bw85ft",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:23:15",
+            "standardDateTime": "2016-11-28T17:23:15",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Indiana University Office of University Archives and Records Managementhttp:\/\/www.libraries.iub.edu\/archives",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Indiana University Office of University Archives and Records Managementhttp:\/\/www.libraries.iub.edu\/archives",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76793849",
+                    "version": "11237885"
+                }
+            ],
+            "id": "76793848",
+            "version": "11237885"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793847",
+            "targetConstellation": "59958795",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6bw85ft",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6jt65w2",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Indiana University, Bloomington. Office of University Archives and Records Management"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Indiana University Office of University Archives and Records Managementhttp:\/\/www.libraries.iub.edu\/archives",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "1320 East Tenth Street Herman B Wells Library E460 Bloomington, IN 47405-7000 Phone: 812-855-1127 Fax: 812-855-8104 Website: http:\/\/www.libraries.iub.edu\/archives Email: archives@indiana.edu",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76793851",
+                    "version": "11237885"
+                }
+            ],
+            "id": "76793850",
+            "version": "11237885"
+        }
+    ],
+    "id": "76793847",
+    "version": "11237888"
+}

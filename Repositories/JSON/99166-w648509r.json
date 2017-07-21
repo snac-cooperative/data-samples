@@ -1,0 +1,147 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w648509r",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "48196",
+            "id": "76761892",
+            "version": "11224725"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:26:27",
+            "standardDateTime": "2016-11-22T11:26:27",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Biblioth\u00e8que de Gen\u00e8ve, BGE",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Biblioth\u00e8que de Gen\u00e8ve, BGE",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76761891",
+                    "version": "11224725"
+                }
+            ],
+            "id": "76761890",
+            "version": "11224725"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Biblioth\u00e8que de Gen\u00e8ve, BGE",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Promenade des Bastions",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761894",
+                    "version": "11224725"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Gen\u00e8ve 4",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761895",
+                    "version": "11224725"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "1211",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761896",
+                    "version": "11224725"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "CH",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761897",
+                    "version": "11224725"
+                }
+            ],
+            "geoplace": {
+                "id": "15799",
+                "name": "Biblioth\u00e8que de Gen\u00e8ve, BGE",
+                "latitude": "46.2084000",
+                "longitude": "6.1427000"
+            },
+            "confirmed": true,
+            "id": "76761893",
+            "version": "11224725"
+        }
+    ],
+    "id": "76761889",
+    "version": "11224728"
+}

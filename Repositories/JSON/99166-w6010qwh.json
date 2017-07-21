@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6010qwh",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:20:55",
+            "standardDateTime": "2016-11-28T17:20:55",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Columbia University. Columbia University Archives Rare Book and Manuscript Library.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Columbia University. Columbia University Archives Rare Book and Manuscript Library.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792752",
+                    "version": "11236813"
+                }
+            ],
+            "id": "76792751",
+            "version": "11236813"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792750",
+            "targetConstellation": "5486871",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6010qwh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6wq4cdk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Columbia University. Rare Book and Manuscript Library"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792750",
+            "targetConstellation": "76792788",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6010qwh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w62s4ff3",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Columbia University. Rare Book and Manuscript Library, University Archives"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Columbia University. Columbia University Archives Rare Book and Manuscript Library.",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Rare Books and Manuscript Library Butler Library, 6th floor 535 West 114th Street New York, NY 10027",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792754",
+                    "version": "11236813"
+                }
+            ],
+            "id": "76792753",
+            "version": "11236813"
+        }
+    ],
+    "id": "76792750",
+    "version": "11236816"
+}

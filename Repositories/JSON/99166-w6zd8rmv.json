@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6zd8rmv",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:18:32",
+            "standardDateTime": "2016-11-28T17:18:32",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "American Heritage Center. University of Wyoming",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "American Heritage Center. University of Wyoming",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76791657",
+                    "version": "11235761"
+                }
+            ],
+            "id": "76791656",
+            "version": "11235761"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791655",
+            "targetConstellation": "75968570",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zd8rmv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cp1mv5",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Wyoming. American Heritage Center"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76791655",
+            "targetConstellation": "76797117",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zd8rmv",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6cw56mn",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Univerisity of Wyoming. American Heritage Center."
+        }
+    ],
+    "id": "76791655",
+    "version": "11235764"
+}

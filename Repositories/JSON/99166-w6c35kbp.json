@@ -1,0 +1,114 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6c35kbp",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:31:25",
+            "standardDateTime": "2016-11-28T17:31:25",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of Minnesota Libraries. Special Collections and Rare Books.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of Minnesota Libraries. Special Collections and Rare Books.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76797794",
+                    "version": "11241569"
+                }
+            ],
+            "id": "76797793",
+            "version": "11241569"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797792",
+            "targetConstellation": "30782074",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c35kbp",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w66q89mr",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Missouri--Columbia. Libraries. Special Collections and Rare Books."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797792",
+            "targetConstellation": "76797799",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c35kbp",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w63p2sbd",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Minnesota Libraries. Special Collections and Rare Books [speccoll]"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797792",
+            "targetConstellation": "76797802",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c35kbp",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zx28tn",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Minnesota Libraries. Tretter Collection. Special Collections and Rare Books [scrbt]"
+        }
+    ],
+    "id": "76797792",
+    "version": "11241572"
+}

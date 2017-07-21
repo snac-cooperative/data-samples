@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:snac="http://socialarchive.iath.virginia.edu/">
+  <control>
+    <recordId>http://n2t.net/ark:/99166/w6718q76</recordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <languageDeclaration>
+      <language languageCode="eng">English</language>
+      <script scriptCode="Latn">Latin</script>
+    </languageDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2016-11-28T17:25:05">2016-11-28T17:25:05</eventDateTime>
+        <agentType>human</agentType>
+        <agent>System Service (system@localhost)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2017-04-12T09:35:15">2017-04-12T09:35:15</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Jerry Simmons (jerry.simmons@nara.gov)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2017-05-08T14:36:11">2017-05-08T14:36:11</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Jerry Simmons (jerry.simmons@nara.gov)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+                    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>corporateBody</entityType>
+      <nameEntry snac:preferenceScore="99">
+        <part>United States. National Archives and Records Administration</part>
+      </nameEntry>
+      <nameEntry>
+        <part>National Archives and Records Administration (U.S.)</part>
+      </nameEntry>
+      <nameEntry>
+        <part/>
+      </nameEntry>
+    </identity>
+    <description><existDates><date standardDate="1985-04-01">April 1, 1985</date><descriptiveNote>
+                                        The National Archives and Records Service became the National Archives and Records Administration on April 1, 1985.
+                                    </descriptiveNote></existDates><localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject"><term>Records management</term></localDescription><localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject"><term>Archives</term></localDescription><place localType="http://socialarchive.iath.virginia.edu/control/term#Address"><snac:placeEntry><placeEntry>National Archives and Records Administration</placeEntry><snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="http://www.geonames.org/4138106" latitude="38.9170600" longitude="-77.0002500" administrationCode="DC" countryCode="US">District of Columbia
+                    </snac:placeEntryBestMaybeSame></snac:placeEntry></place>
+                                                
+            
+            
+            
+            
+                        The National Archives and Records Administration, also known as NARA, is an independent agency of the United States government charged with preserving and documenting government and historical records and with increasing public access to those documents, which comprise the National Archives. NARA is officially responsible for maintaining and publishing the legally authentic and authoritative copies of acts of Congress, presidential proclamations and executive orders, and federal regulations. The NARA also transmits votes of the Electoral College to Congress.
+        </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="employerOf" xlink:href="http://n2t.net/ark:/99166/w6nj0tr1">
+        <relationEntry>Grover, Wayne C. (Wayne Clayton)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="isSuccessorOf" xlink:href="http://n2t.net/ark:/99166/w61c5n88">
+        <relationEntry>United States. National Archives and Records Service</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="mayBeSameAs" xlink:href="http://n2t.net/ark:/99166/w65f9ffg">
+        <relationEntry>National Archives Library, National Archives Records Administration</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://lccn.loc.gov/n84176101">
+        <relationEntry>United States. National Archives and Records Administration</relationEntry>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="https://catalog.archives.gov/id/40570933">
+        <relationEntry>Records relating to management program data pertaining to records scheduling programs, 1956-1971</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Records relating to management program data pertaining to records scheduling programs, 1956-1971</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract>This series contains surveys and reports governing practical paperwork management and summary sheets of records scheduling programs regarding record groups within Federal Records Centers.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6718q76">United States. National Archives and Records Administration</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

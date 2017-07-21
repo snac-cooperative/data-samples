@@ -1,0 +1,160 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6sc4v7r",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "115718",
+            "id": "76773569",
+            "version": "11229101"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:36:20",
+            "standardDateTime": "2016-11-22T11:36:20",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Mahatma Phule Krishi Vidyapeeth, MPKV",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Mahatma Phule Krishi Vidyapeeth, MPKV",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76773568",
+                    "version": "11229101"
+                }
+            ],
+            "id": "76773567",
+            "version": "11229101"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Mahatma Phule Krishi Vidyapeeth, MPKV",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "University Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76773571",
+                    "version": "11229101"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Nagar Manmad Road",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76773572",
+                    "version": "11229101"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Ahmednagar, Maharashtra",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76773573",
+                    "version": "11229101"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "413 722",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76773574",
+                    "version": "11229101"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "IN",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76773575",
+                    "version": "11229101"
+                }
+            ],
+            "geoplace": {
+                "id": "16776",
+                "name": "Mahatma Phule Krishi Vidyapeeth, MPKV",
+                "latitude": "22.6710000",
+                "longitude": "79.1440000"
+            },
+            "confirmed": true,
+            "id": "76773570",
+            "version": "11229101"
+        }
+    ],
+    "id": "76773566",
+    "version": "11229104"
+}

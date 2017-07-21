@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6zq4vw8",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:24:49",
+            "standardDateTime": "2016-11-28T17:24:49",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Montana State University-Bozeman Library, Merrill G Burlingame Special Collections",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Montana State University-Bozeman Library, Merrill G Burlingame Special Collections",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794631",
+                    "version": "11238609"
+                }
+            ],
+            "id": "76794630",
+            "version": "11238609"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794629",
+            "targetConstellation": "76794674",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6zq4vw8",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sz731z",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "MSU-Bozeman Library, Merrill G Burlingame Special Collections"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Montana State University-Bozeman Library, Merrill G Burlingame Special Collections",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "P.O. Box 173320 Bozeman, MT 59717-3320 United States Phone (406) 994-4242 Fax (406) 994-2851 http:\/\/www.lib.montana.edu\/archives\/ University Archivist spcoll@www.lib.montana.edu",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76794633",
+                    "version": "11238609"
+                }
+            ],
+            "id": "76794632",
+            "version": "11238609"
+        }
+    ],
+    "id": "76794629",
+    "version": "11238612"
+}

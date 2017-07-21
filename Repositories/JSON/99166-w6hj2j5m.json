@@ -1,0 +1,1888 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6hj2j5m",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28226",
+                "term": "viafID",
+                "uri": "http:\/\/viaf.org\/viaf\/terms#viafID",
+                "type": "record_type"
+            },
+            "uri": "136204389",
+            "id": "67626857",
+            "version": "9884561"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "University of New England",
+            "uri": "http:\/\/viaf.org\/viaf\/136204389",
+            "id": "67626858",
+            "version": "9884561"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/wcidentities\/lccn-n80069074",
+            "id": "67626859",
+            "version": "9884561"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "http:\/\/id.loc.gov\/authorities\/names\/n80069074",
+            "id": "67626860",
+            "version": "9884561"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-17",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-18T03:26:41",
+            "standardDateTime": "2016-08-18T03:26:41",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-18T03:26:41",
+            "standardDateTime": "2016-08-18T03:26:41",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 5: EAD from http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=hou00046",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/harvard\/hou00046.xml<\/filename>\n                  <ead_entity en_type=\"corpname\">University of New England.<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=hou00046",
+            "id": "67626816",
+            "version": "9884561"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 1: http:\/\/www.worldcat.org\/oclc\/192007324",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/192007324",
+            "id": "67626812",
+            "version": "9884561"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 2: http:\/\/www.worldcat.org\/oclc\/262623467",
+            "uri": "http:\/\/www.worldcat.org\/oclc\/262623467",
+            "id": "67626813",
+            "version": "9884561"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 6: http:\/\/viaf.org\/viaf\/136204389",
+            "uri": "http:\/\/viaf.org\/viaf\/136204389",
+            "id": "67626817",
+            "version": "9884561"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 3: EAD from http:\/\/www.oac.cdlib.org\/ark:\/13030\/tf8g5006rh",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/oac\/berkeley\/bancroft\/m69_33_cubanc.xml<\/filename>\n                  <ead_entity en_type=\"corpname\">University of New England<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/www.oac.cdlib.org\/ark:\/13030\/tf8g5006rh",
+            "id": "67626814",
+            "version": "9884561"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "displayName": "Source 4: EAD from http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=sch01194",
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/harvard\/sch01194.xml<\/filename>\n                  <ead_entity en_type=\"corpname\">University of New England,<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=sch01194",
+            "id": "67626815",
+            "version": "9884561"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "67626818",
+            "version": "9884561"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of New England",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of New England",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626820",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626819",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"oac\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"NLA\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"harvard\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LAC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332468",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "New England University",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "New England University",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626829",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626828",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332469",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Armidale, Australia. University of New England",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Armidale, Australia. University of New England",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626832",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626831",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332470",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "University of New England Ehemalige Vorzugsbenennung SWD",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of New England Ehemalige Vorzugsbenennung SWD",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626835",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626834",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332471",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "University of New England - Armidale",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of New England - Armidale",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626838",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626837",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332472",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "UNE",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "UNE",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626841",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626840",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332473",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "UNE Abkuerzung",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "UNE Abkuerzung",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626844",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626843",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332474",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "University of New England, NSW",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of New England, NSW",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626847",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626846",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332475",
+                    "version": "9884561"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Armidale (N.S.W.) University of New England",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Armidale (N.S.W.) University of New England",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "67626850",
+                    "version": "9884561"
+                }
+            ],
+            "id": "67626849",
+            "version": "9884561",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82332476",
+                    "version": "9884561"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "67626811",
+            "targetConstellation": "52616756",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hj2j5m",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gt7scj",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Bernice Resnick Sandler",
+            "id": "67626864",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "67626811",
+            "targetConstellation": "8076675",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hj2j5m",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6086gfg",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Condliffe, J. B. (John Bell), 1891-1981",
+            "id": "67626863",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "67626811",
+            "targetConstellation": "25827795",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hj2j5m",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hn17gk",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Deborah Morton Society (University of New England)",
+            "id": "67626861",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "67626811",
+            "targetConstellation": "17500592",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hj2j5m",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6p58t9r",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Glassman, Caroline D. (Caroline Duby), 1922-",
+            "id": "67626862",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "67626811",
+            "targetConstellation": "70172209",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6hj2j5m",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64f246n",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Yourcenar, Marguerite.",
+            "id": "67626865",
+            "version": "9884561"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Acta of the University of New England (Armidale, Australia)",
+                "id": "101489",
+                "version": "101489"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Acta of the University of New England (Armidale, Australia)",
+            "id": "67626901",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Time and geology",
+                "id": "5579769",
+                "version": "5579769"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Time and geology",
+            "id": "67626878",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The role of science in the development of the animal industries of Australia",
+                "id": "5415279",
+                "version": "5415279"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The role of science in the development of the animal industries of Australia",
+            "id": "67626879",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Literature and its study in a university context",
+                "id": "3082198",
+                "version": "3082198"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Literature and its study in a university context",
+            "id": "67626891",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Working the walk : activating reconciliation",
+                "id": "6039318",
+                "version": "6039318"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Working the walk : activating reconciliation",
+            "id": "67626875",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Wildlife conservation in Eastern Australia.",
+                "id": "5998347",
+                "version": "5998347"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Wildlife conservation in Eastern Australia.",
+            "id": "67626876",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "J. educ. adm.",
+                "id": "2486757",
+                "version": "2486757"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "J. educ. adm.",
+            "id": "67626893",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "&quot;Dictionary&quot; Johnson",
+                "id": "4161447",
+                "version": "4161447"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "&quot;Dictionary&quot; Johnson",
+            "id": "67626902",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Eternal vigilance; the duplicity of psychology",
+                "id": "1683020",
+                "version": "1683020"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Eternal vigilance; the duplicity of psychology",
+            "id": "67626895",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Monographs",
+                "id": "3425686",
+                "version": "3425686"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Monographs",
+            "id": "67626889",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Recent advances in animal nutrition in Australia.",
+                "id": "4216618",
+                "version": "4216618"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Recent advances in animal nutrition in Australia.",
+            "id": "67626887",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Sustainable education on engineering sustainability",
+                "id": "4849100",
+                "version": "4849100"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Sustainable education on engineering sustainability",
+            "id": "67626885",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.oac.cdlib.org\/ark:\/13030\/tf8g5006rh",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unittitle>J. B. (John Bell) Condliffe Papers: Additions<\/unittitle>\n                  <unitdate>1919-1981<\/unitdate>\n                  <unitdate>1960-1969<\/unitdate>\n                  <unitid>BANC MSS 69\/33 c<\/unitid>\n                  <origination>\n                     <persname>Condliffe, J. B. (John Bell),\n          1891-1981<\/persname>\n                  <\/origination>\n                  <physdesc>\n                     <extent>Number of containers: 14 boxes, 24 cartons, 1 oversize folder<\/extent>\n                     <extent>Linear feet: 35.8<\/extent>\n                  <\/physdesc>\n                  <repository>The <corpname>Bancroft Library.<\/corpname>\n                     <address>\n                        <addressline>University of California, Berkeley<\/addressline>\n                        <addressline>Berkeley, CA 94720-6000<\/addressline>\n                        <addressline>Phone: (510) 642-6481<\/addressline>\n                        <addressline>Fax: (510) 642-7589<\/addressline>\n                        <addressline>Email: bancref@library.berkeley.edu<\/addressline>\n                        <addressline>URL: http:\/\/bancroft.berkeley.edu\/<\/addressline>\n                     <\/address>\n                  <\/repository>\n                  <abstract>Correspondence (personal and professional); manuscripts of his\n        autobiography and other writings, speeches, and lecture notes; correspondence and subject\n        files relating to his work with Stanford Research Institute; Subject files; clippings, and\n        miscellaneous personal papers concerning his life and activities with family, friends, and\n        associates involved in teaching and writing.<\/abstract>\n                  <langmaterial>Collection materials are in <language>English<\/language>\n                  <\/langmaterial>\n                  <physloc>For current information on the location of these materials,\n        please consult the Library's online catalog.<\/physloc>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "J. B. (John Bell) Condliffe Papers: Additions 1919-1981 1960-1969",
+                "abstract": "Correspondence (personal and professional); manuscripts of his        autobiography and other writings, speeches, and lecture notes; correspondence and subject        files relating to his work with Stanford Research Institute; Subject files; clippings, and        miscellaneous personal papers concerning his life and activities with family, friends, and        associates involved in teaching and writing.",
+                "extent": "Number of containers: 14 boxes, 24 cartons, 1 oversize folder; Linear feet: 35.8",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Condliffe, J. B. (John Bell),          1891-1981",
+                        "id": "11306111",
+                        "version": "6666338"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "id": "11306112",
+                        "version": "6666338"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6xf1qhg",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "The Bancroft Library.",
+                            "preferenceScore": "99",
+                            "id": "76796580",
+                            "version": "11240437"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "The Bancroft Library.",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "University of California, Berkeley Berkeley, California, 94720-6000 Phone: (510) 642-2933 Fax: (510) 642-7589 Email: uarchive@library.berkeley.edu URL: http:\/\/www.lib.berkeley.edu\/BANC\/UARC",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76796583",
+                                    "version": "11240437"
+                                }
+                            ],
+                            "id": "76796582",
+                            "version": "11240437"
+                        }
+                    ],
+                    "id": "76796579",
+                    "version": "11240440"
+                },
+                "id": "6666338",
+                "version": "6666338"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "J. B. (John Bell) Condliffe Papers: Additions, 1919-1981, 1960-1969",
+            "id": "67626868",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Hypermedia Joyce studies",
+                "id": "2260990",
+                "version": "2260990"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Hypermedia Joyce studies",
+            "id": "67626872",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "[Papers.",
+                "id": "3815733",
+                "version": "3815733"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "[Papers.",
+            "id": "67626874",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Sex, politics, and religion, 1999:",
+                "id": "4550338",
+                "version": "4550338"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Sex, politics, and religion, 1999:",
+            "id": "67626886",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=hou00046",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <repository>Houghton Library, Harvard College Library, Harvard University.<\/repository>\n                  <physloc>b<\/physloc>\n                  <unitid>MS Fr 372.2<\/unitid>\n                  <origination>\n                     <persname>Yourcenar, Marguerite. <\/persname>\n                  <\/origination>\n                  <unittitle>Marguerite Yourcenar additional papers, <\/unittitle>\n                  <unitdate>1842-1996.<\/unitdate>\n                  <physdesc>\n                     <extent>144 boxes and 53 volumes (52 linear ft.)<\/extent>\n                  <\/physdesc>\n                  <langmaterial>Materials in <language>French<\/language> and <language>English. <\/language>\n                  <\/langmaterial>\n                  <abstract>Additional papers of Marguerite Yourcenar (1903-1987), the French author, as well as\n        papers of her companion, Grace Frick.<\/abstract>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "Marguerite Yourcenar additional papers, 1842-1996.",
+                "abstract": "Additional papers of Marguerite Yourcenar (1903-1987), the French author, as well as        papers of her companion, Grace Frick.",
+                "extent": "144 boxes and 53 volumes (52 linear ft.)",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Yourcenar, Marguerite. ",
+                        "id": "11431007",
+                        "version": "6383206"
+                    }
+                ],
+                "languages": [
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "144",
+                            "term": "fre",
+                            "type": "language_code",
+                            "description": "French"
+                        },
+                        "id": "11431008",
+                        "version": "6383206"
+                    },
+                    {
+                        "dataType": "Language",
+                        "language": {
+                            "id": "130",
+                            "term": "eng",
+                            "type": "language_code",
+                            "description": "English"
+                        },
+                        "id": "11431009",
+                        "version": "6383206"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6zt3k8j",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Houghton Library, , Harvard College Library, Harvard University",
+                            "preferenceScore": "99",
+                            "id": "76793732",
+                            "version": "11237773"
+                        }
+                    ],
+                    "id": "76793731",
+                    "version": "11237776"
+                },
+                "id": "6383206",
+                "version": "6383206"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Marguerite Yourcenar additional papers, 1842-1996.",
+            "id": "67626870",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Future pathways : equity or isolation",
+                "id": "1907325",
+                "version": "1907325"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Future pathways : equity or isolation",
+            "id": "67626894",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/262623467",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:262623467<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-RU9<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Glassman, Caroline D. (Caroline Duby), 1922-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Justice Caroline D. Glassman collection, ca. 1940-2007 (bulk 1983-2007).<\/title>\n                  <\/titleInfo>\n                  <abstract>The collection contains a 1983 scrapbook documenting Glassman's nomination to Maine's Supreme Judicial Court by Governor Joseph E. Brennan, her appointment, and swearing in celebrations. Contents include newspaper clippings; personal data documents, photographs, and official and personal congratulatory messages. Also included in the collection: biographical information; official and candid photographs; correspondence; invitations; speeches; documents regarding her reappointment to the Supreme Court; and honors including Deborah Morton Award given by the Deborah Morton Society (University of New England, formerly Westbrook College), and honorary degrees from Bowdoin College, Husson College, Willamette University, and the University of New England. Other articles and notes regarding the Maine State Bar Association Caroline Duby Glassman Award, the University of Maine School of Law Justice Harry Glassman Scholarship, and her 1997 retirement from the Supreme Court are included. <\/abstract>\n                  <name>\n                     <namePart>Maine Historical Society Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Justice Caroline D. Glassman collection, ca. 1940-2007 (bulk 1983-2007).",
+                "abstract": "The collection contains a 1983 scrapbook documenting Glassman's nomination to Maine's Supreme Judicial Court by Governor Joseph E. Brennan, her appointment, and swearing in celebrations. Contents include newspaper clippings; personal data documents, photographs, and official and personal congratulatory messages. Also included in the collection: biographical information; official and candid photographs; correspondence; invitations; speeches; documents regarding her reappointment to the Supreme Court; and honors including Deborah Morton Award given by the Deborah Morton Society (University of New England, formerly Westbrook College), and honorary degrees from Bowdoin College, Husson College, Willamette University, and the University of New England. Other articles and notes regarding the Maine State Bar Association Caroline Duby Glassman Award, the University of Maine School of Law Justice Harry Glassman Scholarship, and her 1997 retirement from the Supreme Court are included. ",
+                "extent": "1 scrapbook (oversized)",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Glassman, Caroline D. (Caroline Duby), 1922-",
+                        "id": "9136589",
+                        "version": "7158600"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6d619fj",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Maine Historical Society Library",
+                            "preferenceScore": "99",
+                            "id": "76773593",
+                            "version": "11229113"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Maine Historical Society Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "485 Congress St",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773598",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Portland",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773599",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-ME",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773600",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "04101",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773601",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773602",
+                                    "version": "11229113"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "16491",
+                                "name": "Maine Historical Society Library",
+                                "latitude": "43.6568000",
+                                "longitude": "-70.2602000"
+                            },
+                            "confirmed": true,
+                            "id": "76773597",
+                            "version": "11229113"
+                        }
+                    ],
+                    "id": "76773592",
+                    "version": "11229116"
+                },
+                "id": "7158600",
+                "version": "7158600"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Glassman, Caroline D. (Caroline Duby), 1922-. Justice Caroline D. Glassman collection, ca. 1940-2007 (bulk 1983-2007).",
+            "id": "67626867",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Local government and citizenship; selected papers from two seminars, Grafton-Taree, 1962.",
+                "id": "3097832",
+                "version": "3097832"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Local government and citizenship; selected papers from two seminars, Grafton-Taree, 1962.",
+            "id": "67626890",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Policy and planning in higher education: [papers]",
+                "id": "3977524",
+                "version": "3977524"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Policy and planning in higher education: [papers]",
+            "id": "67626888",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Uses of history",
+                "id": "5789221",
+                "version": "5789221"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Uses of history",
+            "id": "67626877",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The political economy of broadcasting",
+                "id": "5365286",
+                "version": "5365286"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The political economy of broadcasting",
+            "id": "67626881",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Careers in agricultural economics",
+                "id": "795491",
+                "version": "795491"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Careers in agricultural economics",
+            "id": "67626900",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Justice in black hands : a new approach for a new millennia",
+                "id": "2559772",
+                "version": "2559772"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Justice in black hands : a new approach for a new millennia",
+            "id": "67626892",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/oasis.lib.harvard.edu\/\/oasis\/deliver\/deepLink?_collection=oasis&uniqueId=sch01194",
+                "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unitid>MC 558; PhotoCD-4; CD-26; T-290; Vt-151<\/unitid>\n                  <repository>\n                     <extref>Schlesinger Library, Radcliffe Institute<\/extref>\n                  <\/repository>\n                  <origination>\n                     <persname>Bernice Resnick Sandler<\/persname>\n                  <\/origination>\n                  <unittitle>Papers of Bernice Resnick Sandler, <unitdate>1963-2008<\/unitdate>\n                  <\/unittitle>\n                  <physdesc>\n                     <extent>28.98 linear ft. <\/extent>\n                     <extent>(69 + 1\/2 file boxes) plus 1 folio folder, 2 folio+ folders, 1 oversize folder, 2 supersize folders, 2 audiotapes, 16 videotapes, 1 CD, 5 photograph folders, 1 photoCD, 29 objects, and electronic records<\/extent>\n                  <\/physdesc>\n                  <langmaterial>Materials in English.<\/langmaterial>\n                  <abstract>Correspondence, writings, testimonies, speeches, subject files, photographs, and audiovisual material of Bernice Resnick Sandler, feminist and activist specializing in  educational equity for women, gender issues in higher education, and other issues of women's rights and equality.<\/abstract>\n               <\/did>\n            <\/objectXMLWrap>",
+                "title": "Papers of Bernice Resnick Sandler, 1963-2008",
+                "abstract": "Correspondence, writings, testimonies, speeches, subject files, photographs, and audiovisual material of Bernice Resnick Sandler, feminist and activist specializing in  educational equity for women, gender issues in higher education, and other issues of women's rights and equality.",
+                "extent": "28.98 linear ft.; (69 + 1\/2 file boxes) plus 1 folio folder, 2 folio+ folders, 1 oversize folder, 2 supersize folders, 2 audiotapes, 16 videotapes, 1 CD, 5 photograph folders, 1 photoCD, 29 objects, and electronic records",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Bernice Resnick Sandler",
+                        "id": "11440512",
+                        "version": "6387231"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6wf4pf0",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Schlesinger Library, Radcliffe Institute",
+                            "preferenceScore": "99",
+                            "id": "76795912",
+                            "version": "11239757"
+                        }
+                    ],
+                    "id": "76795911",
+                    "version": "11239760"
+                },
+                "id": "6387231",
+                "version": "6387231"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Papers of Bernice Resnick Sandler, 1963-2008",
+            "id": "67626869",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The poverty and promise of sociology in Australia",
+                "id": "5370491",
+                "version": "5370491"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The poverty and promise of sociology in Australia",
+            "id": "67626880",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/192007324",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:192007324<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-RU9<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Deborah Morton Society (University of New England)<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Butler, Joyce.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Deborah Morton Society, University of New England collection, 2000-2007.<\/title>\n                  <\/titleInfo>\n                  <abstract>The collection contains papers related mainly to the Deborah Morton Society, namely steering committee lists, a nomination worksheet, programs for the society convocation ceremonies (2000, 2004-2006), a society newsletter (vol. 3, no. 3, July 2004), and personal thank yous from award winners. Other miscellaneous documents include official letters from the University of New England president to alumni, friends, and supporters; an obituary for Louise Parker James clipped from the Portland Press Herald; and a photocopy of a Down East magazine article about the university. The collection was compiled by Joyce Butler, a previous recipient of the award, and a member of the steering committee. <\/abstract>\n                  <name>\n                     <namePart>Maine Historical Society Library<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Deborah Morton Society, University of New England collection, 2000-2007.",
+                "abstract": "The collection contains papers related mainly to the Deborah Morton Society, namely steering committee lists, a nomination worksheet, programs for the society convocation ceremonies (2000, 2004-2006), a society newsletter (vol. 3, no. 3, July 2004), and personal thank yous from award winners. Other miscellaneous documents include official letters from the University of New England president to alumni, friends, and supporters; an obituary for Louise Parker James clipped from the Portland Press Herald; and a photocopy of a Down East magazine article about the university. The collection was compiled by Joyce Butler, a previous recipient of the award, and a member of the steering committee. ",
+                "extent": ".25 linear ft.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Deborah Morton Society (University of New England)",
+                        "id": "8851807",
+                        "version": "6962577"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Butler, Joyce.",
+                        "id": "8851808",
+                        "version": "6962577"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6d619fj",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Maine Historical Society Library",
+                            "preferenceScore": "99",
+                            "id": "76773593",
+                            "version": "11229113"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Maine Historical Society Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "485 Congress St",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773598",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Portland",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773599",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-ME",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773600",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "04101",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773601",
+                                    "version": "11229113"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76773602",
+                                    "version": "11229113"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "16491",
+                                "name": "Maine Historical Society Library",
+                                "latitude": "43.6568000",
+                                "longitude": "-70.2602000"
+                            },
+                            "confirmed": true,
+                            "id": "76773597",
+                            "version": "11229113"
+                        }
+                    ],
+                    "id": "76773592",
+                    "version": "11229116"
+                },
+                "id": "6962577",
+                "version": "6962577"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Deborah Morton Society (University of New England). Deborah Morton Society, University of New England collection, 2000-2007.",
+            "id": "67626866",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Country press; proceedings of the second seminar for provincial journalists held at the University of New England, May, 1966.",
+                "id": "1073236",
+                "version": "1073236"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Country press; proceedings of the second seminar for provincial journalists held at the University of New England, May, 1966.",
+            "id": "67626899",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The agronomist and pasture production.",
+                "id": "4958552",
+                "version": "4958552"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The agronomist and pasture production.",
+            "id": "67626883",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The land of Ulitarra; early records of the aborigines of the mid-north coast of New South Wales",
+                "id": "5231619",
+                "version": "5231619"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The land of Ulitarra; early records of the aborigines of the mid-north coast of New South Wales",
+            "id": "67626882",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Education in the organizational society; the role of a faculty of education",
+                "id": "1526308",
+                "version": "1526308"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Education in the organizational society; the role of a faculty of education",
+            "id": "67626897",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "HJS",
+                "id": "2201458",
+                "version": "2201458"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "HJS",
+            "id": "67626873",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "University of New England monographs.",
+                "id": "5762083",
+                "version": "5762083"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "University of New England monographs.",
+            "id": "67626871",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Einstein, mathematics, and reality",
+                "id": "1550974",
+                "version": "1550974"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Einstein, mathematics, and reality",
+            "id": "67626896",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "The Journal of educational administration.",
+                "id": "5221034",
+                "version": "5221034"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "The Journal of educational administration.",
+            "id": "67626884",
+            "version": "9884561"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "697",
+                    "term": "BibliographicResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#BibliographicResource",
+                    "type": "document_type"
+                },
+                "title": "Does where we live matter?",
+                "id": "1441221",
+                "version": "1441221"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Does where we live matter?",
+            "id": "67626898",
+            "version": "9884561"
+        }
+    ],
+    "id": "67626811",
+    "version": "9884562"
+}

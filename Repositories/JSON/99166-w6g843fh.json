@@ -1,0 +1,114 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6g843fh",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:22:12",
+            "standardDateTime": "2016-11-28T17:22:12",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Glasgow University Archive Services",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Glasgow University Archive Services",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76793389",
+                    "version": "11237417"
+                }
+            ],
+            "id": "76793388",
+            "version": "11237417"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793387",
+            "targetConstellation": "12775666",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g843fh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g0296b",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Glasgow University Archive Services"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793387",
+            "targetConstellation": "76793397",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g843fh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6301v82",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Glasgow University Archives Services"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793387",
+            "targetConstellation": "76793406",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g843fh",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ps8jq1",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Glasgow Unviersity Archive Services"
+        }
+    ],
+    "id": "76793387",
+    "version": "11237420"
+}

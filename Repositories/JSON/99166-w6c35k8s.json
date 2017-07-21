@@ -1,0 +1,114 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6c35k8s",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:27:55",
+            "standardDateTime": "2016-11-28T17:27:55",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Special Collections and Archives, University of Massachusetts Amherst Libraries",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Special Collections and Archives, University of Massachusetts Amherst Libraries",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76796188",
+                    "version": "11240021"
+                }
+            ],
+            "id": "76796187",
+            "version": "11240021"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796186",
+            "targetConstellation": "5185847",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c35k8s",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6tc3d3h",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Stanford University. Libraries. Dept. of Special Collections and University Archives."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796186",
+            "targetConstellation": "76796202",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c35k8s",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6qd0s91",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Special Collections and University Archives, UMass Amherst Libraries"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796186",
+            "targetConstellation": "76796210",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6c35k8s",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6fv98tz",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Special Collections and University Archives, University of Massachusetts Amherst Libraries"
+        }
+    ],
+    "id": "76796186",
+    "version": "11240024"
+}

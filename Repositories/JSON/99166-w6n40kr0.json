@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6n40kr0",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:28:38",
+            "standardDateTime": "2016-11-28T17:28:38",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Supreme Court of Virginia Archives, Virginia State Law Library.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Supreme Court of Virginia Archives, Virginia State Law Library.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76796502",
+                    "version": "11240353"
+                }
+            ],
+            "id": "76796501",
+            "version": "11240353"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796500",
+            "targetConstellation": "35872800",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6n40kr0",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w67x9fkq",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Virginia. Supreme Court. State Law Library."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796500",
+            "targetConstellation": "76798293",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6n40kr0",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ps8jtc",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Virginia State Law Library, Supreme Court of Virginia Archives"
+        }
+    ],
+    "id": "76796500",
+    "version": "11240356"
+}

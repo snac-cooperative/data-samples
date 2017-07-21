@@ -1,0 +1,143 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6gv6b1n",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:27:54",
+            "standardDateTime": "2016-11-28T17:27:54",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Special Collections and Archives, University of California, Irvine Libraries",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Special Collections and Archives, University of California, Irvine Libraries",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76796183",
+                    "version": "11240017"
+                }
+            ],
+            "id": "76796182",
+            "version": "11240017"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796181",
+            "targetConstellation": "24231747",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gv6b1n",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65g0wg7",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of California Irvine. Library. Special Collections and Archives."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796181",
+            "targetConstellation": "76797336",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gv6b1n",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6sr9p98",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of California, Irvine. Libraries. Special Collections and Archives."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76796181",
+            "targetConstellation": "76797342",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6gv6b1n",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6p08xjd",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of California, Irvine. Libraries. Special Collections and Archives.>"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Special Collections and Archives, University of California, Irvine Libraries",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Irvine, California 92623-9557",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76796185",
+                    "version": "11240017"
+                }
+            ],
+            "id": "76796184",
+            "version": "11240017"
+        }
+    ],
+    "id": "76796181",
+    "version": "11240020"
+}

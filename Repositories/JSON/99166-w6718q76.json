@@ -1,0 +1,464 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6718q76",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "otherRecordIDs": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "United States. National Archives and Records Administration",
+            "uri": "https:\/\/lccn.loc.gov\/n84176101",
+            "id": "76799391",
+            "version": "11243521"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:25:05",
+            "standardDateTime": "2016-11-28T17:25:05",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2017-04-12T09:35:15",
+            "standardDateTime": "2017-04-12T09:35:15",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Jerry Simmons (jerry.simmons@nara.gov)",
+            "eventDescription": "User published constellation"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2017-05-08T14:36:11",
+            "standardDateTime": "2017-05-08T14:36:11",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "Jerry Simmons (jerry.simmons@nara.gov)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "United States. National Archives and Records Administration",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "United States",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76794770",
+                    "version": "11243514"
+                },
+                {
+                    "dataType": "NameComponent",
+                    "text": "National Archives and Records Administration",
+                    "order": "1",
+                    "type": {
+                        "id": "400230",
+                        "term": "SubdivisionName",
+                        "type": "name_component"
+                    },
+                    "id": "76799381",
+                    "version": "11243514"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "76799382",
+                "version": "11243514"
+            },
+            "id": "76794769",
+            "version": "11243514"
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "National Archives and Records Administration (U.S.)",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "National Archives and Records Administration (U.S.)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76799393",
+                    "version": "11243523"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "76799394",
+                "version": "11243522"
+            },
+            "id": "76799392",
+            "version": "11243522"
+        },
+        {
+            "dataType": "NameEntry",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "NARA (National Archives and Records Administration)",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76799396",
+                    "version": "11243523"
+                }
+            ],
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "76799397",
+                "version": "11243523"
+            },
+            "id": "76799395",
+            "version": "11243523"
+        }
+    ],
+    "biogHists": [
+        {
+            "dataType": "BiogHist",
+            "language": {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "76799384",
+                "version": "11243515"
+            },
+            "text": "The National Archives and Records Administration, also known as NARA, is an independent agency of the United States government charged with preserving and documenting government and historical records and with increasing public access to those documents, which comprise the National Archives. NARA is officially responsible for maintaining and publishing the legally authentic and authoritative copies of acts of Congress, presidential proclamations and executive orders, and federal regulations. The NARA also transmits votes of the Electoral College to Congress.",
+            "id": "76799383",
+            "version": "11243515"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794768",
+            "targetConstellation": "65514055",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6718q76",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6nj0tr1",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28251",
+                "term": "employerOf",
+                "type": "relation_type"
+            },
+            "content": "Grover, Wayne C. (Wayne Clayton)",
+            "note": "Wayne C. Grover served as the third Archivist of the United States.",
+            "id": "76799390",
+            "version": "11243520"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794768",
+            "targetConstellation": "9325755",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6718q76",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w61c5n88",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "400459",
+                "term": "isSuccessorOf",
+                "type": "relation_type"
+            },
+            "content": "United States. National Archives and Records Service",
+            "id": "76799921",
+            "version": "11244527"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76794768",
+            "targetConstellation": "76776085",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6718q76",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65f9ffg",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "National Archives Library, National Archives Records Administration"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "https:\/\/catalog.archives.gov\/id\/40570933",
+                "title": "Records relating to management program data pertaining to records scheduling programs, 1956-1971",
+                "abstract": "This series contains surveys and reports governing practical paperwork management and summary sheets of records scheduling programs regarding record groups within Federal Records Centers.",
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6718q76",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "United States. National Archives and Records Administration",
+                            "preferenceScore": "99",
+                            "id": "76794769",
+                            "version": "11243514"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "National Archives and Records Administration",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Washington, D.C.",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400245",
+                                        "term": "City",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#City",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76794772",
+                                    "version": "11243517"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "3512",
+                                "uri": "http:\/\/www.geonames.org\/4138106",
+                                "name": "District of Columbia",
+                                "latitude": "38.9170600",
+                                "longitude": "-77.0002500",
+                                "administrationCode": "DC",
+                                "countryCode": "US"
+                            },
+                            "id": "76794771",
+                            "version": "11243517"
+                        }
+                    ],
+                    "id": "76794768",
+                    "version": "11244528"
+                },
+                "id": "11612349",
+                "version": "8359291"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Records relating to management program data pertaining to records scheduling programs, 1956-1971",
+            "id": "76799389",
+            "version": "11243519"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "National Archives and Records Administration",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Washington, D.C.",
+                    "order": "0",
+                    "type": {
+                        "id": "400245",
+                        "term": "City",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#City",
+                        "type": "address_part"
+                    },
+                    "id": "76794772",
+                    "version": "11243517"
+                }
+            ],
+            "geoplace": {
+                "id": "3512",
+                "uri": "http:\/\/www.geonames.org\/4138106",
+                "name": "District of Columbia",
+                "latitude": "38.9170600",
+                "longitude": "-77.0002500",
+                "administrationCode": "DC",
+                "countryCode": "US"
+            },
+            "id": "76794771",
+            "version": "11243517"
+        }
+    ],
+    "subjects": [
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "307333",
+                "term": "Records management",
+                "type": "subject"
+            },
+            "id": "76799387",
+            "version": "11243518"
+        },
+        {
+            "dataType": "Subject",
+            "term": {
+                "id": "51930",
+                "term": "Archives",
+                "type": "subject"
+            },
+            "id": "76799388",
+            "version": "11243518"
+        }
+    ],
+    "id": "76794768",
+    "version": "11244528",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1985-04-01",
+            "fromDateOriginal": "April 1, 1985",
+            "fromRange": {
+                "notBefore": null,
+                "notAfter": null
+            },
+            "toRange": {
+                "notBefore": null,
+                "notAfter": null
+            },
+            "note": "The National Archives and Records Service became the National Archives and Records Administration on April 1, 1985.",
+            "id": "76799385",
+            "version": "11243516"
+        }
+    ]
+}

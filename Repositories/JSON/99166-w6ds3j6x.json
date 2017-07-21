@@ -1,0 +1,96 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6ds3j6x",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:21:33",
+            "standardDateTime": "2016-11-28T17:21:33",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Earl Gregg Swem Library, College of William and Mary.",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Earl Gregg Swem Library, College of William and Mary.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76793081",
+                    "version": "11237109"
+                }
+            ],
+            "id": "76793080",
+            "version": "11237109"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793079",
+            "targetConstellation": "3100173",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ds3j6x",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w68d4ck4",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "College of William and Mary. Swem Library."
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76793079",
+            "targetConstellation": "76796252",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ds3j6x",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6wx86jw",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Special Collections, Earl Gregg Swem Library, College of William and Mary"
+        }
+    ],
+    "id": "76793079",
+    "version": "11237112"
+}

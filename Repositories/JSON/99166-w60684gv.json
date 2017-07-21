@@ -1,0 +1,184 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w60684gv",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "NmSoI",
+            "id": "76777195",
+            "version": "11230457"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "1820",
+            "id": "76777196",
+            "version": "11230457"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:39:24",
+            "standardDateTime": "2016-11-22T11:39:24",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "New Mexico Institute of Mining & Technology, NMT Joseph R. Skeen Library; Skeen Library; NMT Library",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "New Mexico Institute of Mining & Technology, NMT Joseph R. Skeen Library; Skeen Library; NMT Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76777194",
+                    "version": "11230457"
+                }
+            ],
+            "id": "76777193",
+            "version": "11230457"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "New Mexico Institute of Mining & Technology, NMT Joseph R. Skeen Library; Skeen Library; NMT Library",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "New Mexico Tech Library",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777198",
+                    "version": "11230457"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "801 Leroy Place",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777199",
+                    "version": "11230457"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Socorro",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777200",
+                    "version": "11230457"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-NM",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777201",
+                    "version": "11230457"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "87801-4796",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777202",
+                    "version": "11230457"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "5",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777203",
+                    "version": "11230457"
+                }
+            ],
+            "geoplace": {
+                "id": "16579",
+                "name": "New Mexico Institute of Mining & Technology, NMT Joseph R. Skeen Library; Skeen Library; NMT Library",
+                "latitude": "34.0677643",
+                "longitude": "-106.9040830"
+            },
+            "confirmed": true,
+            "id": "76777197",
+            "version": "11230457"
+        }
+    ],
+    "id": "76777192",
+    "version": "11230460"
+}

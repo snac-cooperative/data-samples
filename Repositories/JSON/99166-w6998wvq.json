@@ -1,0 +1,114 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6998wvq",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:31:17",
+            "standardDateTime": "2016-11-28T17:31:17",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "University of Minnesota Libraries. Jean-Nickolaus Tretter Collection in Gay, Lesbian, Bisexual and Transgender Studies",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "University of Minnesota Libraries. Jean-Nickolaus Tretter Collection in Gay, Lesbian, Bisexual and Transgender Studies",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76797745",
+                    "version": "11241509"
+                }
+            ],
+            "id": "76797744",
+            "version": "11241509"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797743",
+            "targetConstellation": "23888462",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6998wvq",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w64k5gz5",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Jean-Nickolaus Tretter Collection in Gay, Lesbian, Bisexual and Transgender Studies"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797743",
+            "targetConstellation": "76797747",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6998wvq",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65j854s",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Minnesota Libraries. Jean-Nickolaus Tretter Collection in Gay, Lesbian, Bi-Sexual and Transgender Studies [scrbt]"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76797743",
+            "targetConstellation": "76797751",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6998wvq",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w61w63tc",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Minnesota Libraries. Jean-Nickolaus Tretter Collection in Gay, Lesbian, Bisexual and Transgender Studies, Special Collections and Rare Books [scrbt]"
+        }
+    ],
+    "id": "76797743",
+    "version": "11241512"
+}

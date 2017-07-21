@@ -1,0 +1,245 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w67763pw",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "TxU",
+            "id": "76761641",
+            "version": "11224629"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "88388",
+            "id": "76761642",
+            "version": "11224629"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:26:14",
+            "standardDateTime": "2016-11-22T11:26:14",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Benson Latin American Collection; University of Texas at Austin, University of Texas Libraries",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Benson Latin American Collection; University of Texas at Austin, University of Texas Libraries",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76761640",
+                    "version": "11224629"
+                }
+            ],
+            "id": "76761639",
+            "version": "11224629"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76761638",
+            "targetConstellation": "24973572",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w67763pw",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6d27717",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University of Texas at Austin. Library. Latin American Collection"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76761638",
+            "targetConstellation": "76792042",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w67763pw",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6t54gr5",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Benson Latin American Collection, General Libraries, The University of Texas at Austin"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76761638",
+            "targetConstellation": "76792045",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w67763pw",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6ph2fdq",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Benson Latin American Collection, The University of Texas at Austin"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76761638",
+            "targetConstellation": "76792048",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w67763pw",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6jr1pqf",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Benson Latin American Collection; University of Texas at Austin, University of Texas Libraries",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Sid Richardson Hall 1.108",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761644",
+                    "version": "11224629"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Austin",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761645",
+                    "version": "11224629"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US-TX",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761646",
+                    "version": "11224629"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "78713-8916",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761647",
+                    "version": "11224629"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "US",
+                    "order": "4",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76761648",
+                    "version": "11224629"
+                }
+            ],
+            "geoplace": {
+                "id": "15110",
+                "name": "Benson Latin American Collection; University of Texas at Austin, University of Texas Libraries",
+                "latitude": "30.2800000",
+                "longitude": "-97.7300000"
+            },
+            "confirmed": true,
+            "id": "76761643",
+            "version": "11224629"
+        }
+    ],
+    "id": "76761638",
+    "version": "11224632"
+}

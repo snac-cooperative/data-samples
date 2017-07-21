@@ -1,0 +1,125 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6f58c3h",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:32:52",
+            "standardDateTime": "2016-11-28T17:32:52",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Willamette University Archives and Special Collections",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Willamette University Archives and Special Collections",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76798439",
+                    "version": "11242217"
+                }
+            ],
+            "id": "76798438",
+            "version": "11242217"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76798437",
+            "targetConstellation": "76797142",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6f58c3h",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6r60dmr",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "University Archives and Special Collections"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76798437",
+            "targetConstellation": "76798447",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6f58c3h",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w65n6vk5",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Willamette University University Archives and Special Collections"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Willamette University Archives and Special Collections",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "900 State Street Salem, Oregon 97301 USA Phone: 503\/370\/6764 Fax: 503\/370\/6141 Email: archives@willamette.edu URL: http:\/\/library.willamette.edu\/archives\/",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76798441",
+                    "version": "11242217"
+                }
+            ],
+            "id": "76798440",
+            "version": "11242217"
+        }
+    ],
+    "id": "76798437",
+    "version": "11242220"
+}

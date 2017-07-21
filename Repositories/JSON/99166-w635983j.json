@@ -1,0 +1,107 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w635983j",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-28T17:20:10",
+            "standardDateTime": "2016-11-28T17:20:10",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "California State University, Dominguez Hills Archives and Special Collections",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "California State University, Dominguez Hills Archives and Special Collections",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76792390",
+                    "version": "11236469"
+                }
+            ],
+            "id": "76792389",
+            "version": "11236469"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76792388",
+            "targetConstellation": "27805871",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w635983j",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6869pqg",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "California State University, Dominguez Hills University Library, Department of Archives and Special Collections"
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "California State University, Dominguez Hills Archives and Special Collections",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Archives & Special Collection University Library, Room G-145 1000 E. Victoria Street Carson, California 90747 Phone: (310) 243-3013 URL: http:\/\/www.csudh.edu\/archives\/csudh\/index.html",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76792392",
+                    "version": "11236469"
+                }
+            ],
+            "id": "76792391",
+            "version": "11236469"
+        }
+    ],
+    "id": "76792388",
+    "version": "11236472"
+}

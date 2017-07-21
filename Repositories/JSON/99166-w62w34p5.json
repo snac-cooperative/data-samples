@@ -1,0 +1,178 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w62w34p5",
+    "entityType": {
+        "id": "698",
+        "term": "corporateBody",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+        "type": "entity_type"
+    },
+    "entityIDs": [
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "703",
+                "term": "MARCOrg",
+                "type": "entityid_type"
+            },
+            "text": "GyGoN",
+            "id": "76777612",
+            "version": "11230609"
+        },
+        {
+            "dataType": "EntityId",
+            "type": {
+                "id": "400255",
+                "term": "OCLC ID",
+                "type": "entityid_type",
+                "description": "OCLC Numeric Identifier"
+            },
+            "text": "72112",
+            "id": "76777613",
+            "version": "11230609"
+        }
+    ],
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-11-22T11:39:46",
+            "standardDateTime": "2016-11-22T11:39:46",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)",
+            "eventDescription": "User published constellation"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Niedersa\u0308chsische Staats- und Universita\u0308tsbibliothek Go\u0308ttingen, SUB Go\u0308ttingen",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Niedersa\u0308chsische Staats- und Universita\u0308tsbibliothek Go\u0308ttingen, SUB Go\u0308ttingen",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "76777611",
+                    "version": "11230609"
+                }
+            ],
+            "id": "76777610",
+            "version": "11230609"
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "76777609",
+            "targetConstellation": "34934207",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w62w34p5",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w60d00wm",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "term": "mayBeSameAs",
+                "type": "relation_type"
+            },
+            "content": "Niedersa\u0308chsische Staats- und Universita\u0308tsbibliothek Go\u0308ttingen."
+        }
+    ],
+    "places": [
+        {
+            "dataType": "Place",
+            "original": "Niedersa\u0308chsische Staats- und Universita\u0308tsbibliothek Go\u0308ttingen, SUB Go\u0308ttingen",
+            "type": {
+                "id": "400242",
+                "term": "Address",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                "type": "place_type"
+            },
+            "address": [
+                {
+                    "dataType": "AddressLine",
+                    "text": "Platz der Go\u0308ttinger Sieben 1",
+                    "order": "0",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777615",
+                    "version": "11230609"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "Go\u0308ttingen",
+                    "order": "1",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777616",
+                    "version": "11230609"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "37073",
+                    "order": "2",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777617",
+                    "version": "11230609"
+                },
+                {
+                    "dataType": "AddressLine",
+                    "text": "DE",
+                    "order": "3",
+                    "type": {
+                        "id": "400243",
+                        "term": "Unspecified",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                        "type": "address_part"
+                    },
+                    "id": "76777618",
+                    "version": "11230609"
+                }
+            ],
+            "geoplace": {
+                "id": "15132",
+                "name": "Niedersa\u0308chsische Staats- und Universita\u0308tsbibliothek Go\u0308ttingen, SUB Go\u0308ttingen",
+                "latitude": "51.5397000",
+                "longitude": "9.9356500"
+            },
+            "confirmed": true,
+            "id": "76777614",
+            "version": "11230609"
+        }
+    ],
+    "id": "76777609",
+    "version": "11230612"
+}
