@@ -18,7 +18,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -37,11 +37,14 @@
     </identity>
     <description>
       <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
-        <snac:placeEntry>
-          <placeEntry>Conservatoire et Jardin botaniques Ville de Genève</placeEntry>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="46.2280000" longitude="6.1478000" administrationCode="" countryCode="">Conservatoire et Jardin botaniques Ville de Genève
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="" latitude="46.2280000" longitude="6.1478000" administrationCode="" countryCode="">Conservatoire et Jardin botaniques Ville de Genève
+                </placeEntry>
+        <address>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">1, ch. de l'Impératrice</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Chambésy/Genève</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">1292</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">CH</addressLine>
+        </address>
       </place>
     </description>
     <relations>

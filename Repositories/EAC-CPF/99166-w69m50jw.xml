@@ -18,7 +18,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -37,11 +37,16 @@
     </identity>
     <description>
       <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
-        <snac:placeEntry>
-          <placeEntry>Archives of the History of American Psychology</placeEntry>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="41.0842000" longitude="-81.5141000" administrationCode="" countryCode="">Archives of the History of American Psychology
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="" latitude="41.0842000" longitude="-81.5141000" administrationCode="" countryCode="">Archives of the History of American Psychology
+                </placeEntry>
+        <address>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Univ of Akron</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Polsky Building Ll10-A</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Akron</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">US-OH</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">44325-4302</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">US</addressLine>
+        </address>
       </place>
     </description>
     <relations>

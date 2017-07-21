@@ -18,7 +18,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -38,11 +38,16 @@
     </identity>
     <description>
       <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
-        <snac:placeEntry>
-          <placeEntry>Embry-Riddle Aeronautical University, Prescott Campus - Hazy Library and Learning Center</placeEntry>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="34.6162540" longitude="-112.4487630" administrationCode="" countryCode="">Embry-Riddle Aeronautical University, Prescott Campus - Hazy Library and Learning Center
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="" latitude="34.6162540" longitude="-112.4487630" administrationCode="" countryCode="">Embry-Riddle Aeronautical University, Prescott Campus - Hazy Library and Learning Center
+                </placeEntry>
+        <address>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">3700 Willow Creek Road</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Building 43</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Prescott</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">US-AZ</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">86301-3720</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">US</addressLine>
+        </address>
       </place>
     </description>
     <relations>

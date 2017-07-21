@@ -18,7 +18,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -37,11 +37,14 @@
     </identity>
     <description>
       <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
-        <snac:placeEntry>
-          <placeEntry>Sovereign Military Order of Malta, Order of Malta</placeEntry>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="41.9051975" longitude="12.4806324" administrationCode="" countryCode="">Sovereign Military Order of Malta, Order of Malta
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="" latitude="41.9051975" longitude="12.4806324" administrationCode="" countryCode="">Sovereign Military Order of Malta, Order of Malta
+                </placeEntry>
+        <address>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Via Condotti 68</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Roma</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">00187</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">IT</addressLine>
+        </address>
       </place>
     </description>
     <relations>

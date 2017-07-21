@@ -18,7 +18,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -38,11 +38,15 @@
     </identity>
     <description>
       <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
-        <snac:placeEntry>
-          <placeEntry>Hope International University, Hugh and Hazel Darling Library</placeEntry>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="33.8774109" longitude="-117.8851390" administrationCode="" countryCode="">Hope International University, Hugh and Hazel Darling Library
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="" latitude="33.8774109" longitude="-117.8851390" administrationCode="" countryCode="">Hope International University, Hugh and Hazel Darling Library
+                </placeEntry>
+        <address>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">2500 East Nutwood Avenue</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Fullerton</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">US-CA</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">92831</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">US</addressLine>
+        </address>
       </place>
     </description>
     <relations>

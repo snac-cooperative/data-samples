@@ -36,7 +36,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -61,7 +61,7 @@
     <description><existDates><date standardDate="1985-04-01">April 1, 1985</date><descriptiveNote>
                                         The National Archives and Records Service became the National Archives and Records Administration on April 1, 1985.
                                     </descriptiveNote></existDates><localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject"><term>Records management</term></localDescription><localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject"><term>Archives</term></localDescription><place localType="http://socialarchive.iath.virginia.edu/control/term#Address"><snac:placeEntry><placeEntry>National Archives and Records Administration</placeEntry><snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="http://www.geonames.org/4138106" latitude="38.9170600" longitude="-77.0002500" administrationCode="DC" countryCode="US">District of Columbia
-                    </snac:placeEntryBestMaybeSame></snac:placeEntry></place>
+                    </snac:placeEntryBestMaybeSame></snac:placeEntry><address><addressLine localType="http://socialarchive.iath.virginia.edu/control/term#City">Washington, D.C.</addressLine></address></place>
                                                 
             
             

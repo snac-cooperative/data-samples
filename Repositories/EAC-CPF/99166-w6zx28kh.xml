@@ -18,7 +18,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -38,11 +38,14 @@
     </identity>
     <description>
       <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
-        <snac:placeEntry>
-          <placeEntry>The Harvard University Center for Italian Renaissance Studies. Biblioteca Berenson - Villa I Tatti, Biblioteca Berenson - Villa I Tatti</placeEntry>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="43.7873000" longitude="11.3090000" administrationCode="" countryCode="">The Harvard University Center for Italian Renaissance Studies. Biblioteca Berenson - Villa I Tatti, Biblioteca Berenson - Villa I Tatti
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="" latitude="43.7873000" longitude="11.3090000" administrationCode="" countryCode="">The Harvard University Center for Italian Renaissance Studies. Biblioteca Berenson - Villa I Tatti, Biblioteca Berenson - Villa I Tatti
+                </placeEntry>
+        <address>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Via di Vincigliata 26</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Firenze</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">50135</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">IT</addressLine>
+        </address>
       </place>
     </description>
     <relations>

@@ -39,7 +39,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -57,11 +57,8 @@
     </identity>
     <description>
       <place localType="">
-        <snac:placeEntry>
-          <placeEntry/>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="http://www.geonames.org/5380748" latitude="37.4418800" longitude="-122.1430200" administrationCode="CA" countryCode="US">Palo Alto
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="http://www.geonames.org/5380748" latitude="37.4418800" longitude="-122.1430200" administrationCode="CA" countryCode="US">Palo Alto
+                </placeEntry>
       </place>
     </description>
     <relations>

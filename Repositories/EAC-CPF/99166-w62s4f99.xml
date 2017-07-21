@@ -18,7 +18,7 @@
       </maintenanceEvent>
       <maintenanceEvent>
         <eventType>created</eventType>
-        <eventDateTime standardDateTime="2017-07-20">2017-07-20</eventDateTime>
+        <eventDateTime standardDateTime="2017-07-21">2017-07-21</eventDateTime>
         <agentType>machine</agentType>
         <agent>SNAC EAC-CPF Serializer</agent>
         <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
@@ -38,11 +38,14 @@
     </identity>
     <description>
       <place localType="http://socialarchive.iath.virginia.edu/control/term#Address">
-        <snac:placeEntry>
-          <placeEntry>The Alma Jordan Library, The University of the West Indies, Saint Augustine, Main Library, The University of the West Indies, Saint Augustine</placeEntry>
-          <snac:placeEntryBestMaybeSame certaintyScore="" vocabularySource="" latitude="10.6390629" longitude="-61.3971481" administrationCode="" countryCode="">The Alma Jordan Library, The University of the West Indies, Saint Augustine, Main Library, The University of the West Indies, Saint Augustine
-                    </snac:placeEntryBestMaybeSame>
-        </snac:placeEntry>
+        <placeEntry certaintyScore="" vocabularySource="" latitude="10.6390629" longitude="-61.3971481" administrationCode="" countryCode="">The Alma Jordan Library, The University of the West Indies, Saint Augustine, Main Library, The University of the West Indies, Saint Augustine
+                </placeEntry>
+        <address>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">The Alma Jordan Library, The University of the West Indies</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Saint Augustine Campus</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">Saint Augustine</addressLine>
+          <addressLine localType="http://socialarchive.iath.virginia.edu/control/term#Unspecified">TT</addressLine>
+        </address>
       </place>
     </description>
     <relations>
