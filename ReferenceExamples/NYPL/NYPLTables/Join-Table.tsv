@@ -1,0 +1,569 @@
+CPF-Source-ID-Anchor	CPF-Type	CPF-Relation-Type	CPF-Source-ID-Target	RD-Type	RD-Relation-Type	RD-Source-ID
+24325.r001	corporateBody	associatedWith	24325.c01	ArchivalResource	referencedIn	24325.xml
+24325.r002	corporateBody	associatedWith	24325.c01	ArchivalResource	referencedIn	24325.xml
+24325.c01	person	associatedWith	24325.r001	ArchivalResource	creatorOf	24325.xml
+	person	associatedWith	24325.r002
+24669.r001				ArchivalResource	referencedIn	24669.xml
+24669.r002				ArchivalResource	referencedIn	24669.xml
+24669.r003				ArchivalResource	referencedIn	24669.xml
+24669.r004				ArchivalResource	referencedIn	24669.xml
+24669.r005				ArchivalResource	referencedIn	24669.xml
+24669.r006				ArchivalResource	referencedIn	24669.xml
+24669.r007				ArchivalResource	referencedIn	24669.xml
+24669.r008				ArchivalResource	referencedIn	24669.xml
+24669.r009				ArchivalResource	referencedIn	24669.xml
+24669.r010				ArchivalResource	referencedIn	24669.xml
+24669.r011				ArchivalResource	referencedIn	24669.xml
+24669.r012				ArchivalResource	referencedIn	24669.xml
+24669.r013				ArchivalResource	referencedIn	24669.xml
+24669.r014				ArchivalResource	referencedIn	24669.xml
+24669.r015				ArchivalResource	referencedIn	24669.xml
+24669.r016				ArchivalResource	referencedIn	24669.xml
+24669.r017				ArchivalResource	referencedIn	24669.xml
+24669.r018				ArchivalResource	referencedIn	24669.xml
+24669.r019				ArchivalResource	referencedIn	24669.xml
+24669.r020				ArchivalResource	referencedIn	24669.xml
+24669.r021				ArchivalResource	referencedIn	24669.xml
+24669.r022				ArchivalResource	referencedIn	24669.xml
+24669.r023				ArchivalResource	referencedIn	24669.xml
+24898.c01				ArchivalResource	creatorOf	24898.xml
+24078.c01	person	associatedWith	24078.r001	ArchivalResource	creatorOf	24078.xml
+	person	associatedWith	24078.r002
+	corporateBody	associatedWith	24078.r003
+	corporateBody	associatedWith	24078.r004
+24078.r001	person	associatedWith	24078.c01	ArchivalResource	referencedIn	24078.xml
+24078.r002	person	associatedWith	24078.c01	ArchivalResource	referencedIn	24078.xml
+24078.r003	person	associatedWith	24078.c01	ArchivalResource	referencedIn	24078.xml
+24078.r004	person	associatedWith	24078.c01	ArchivalResource	referencedIn	24078.xml
+23930.c01	person	correspondedWith	23930.r001	ArchivalResource	creatorOf	23930.xml
+23930.r001	person	correspondedWith	23930.c01	ArchivalResource	referencedIn	23930.xml
+24508.c01	person	associatedWith	24508.r001	ArchivalResource	creatorOf	24508.xml
+	corporateBody	associatedWith	24508.r002
+24508.r001	person	associatedWith	24508.c01	ArchivalResource	referencedIn	24508.xml
+24508.r002	person	associatedWith	24508.c01	ArchivalResource	referencedIn	24508.xml
+24680.c01	person	associatedWith	24680.r001	ArchivalResource	creatorOf	24680.xml
+24680.r001	person	associatedWith	24680.c01	ArchivalResource	referencedIn	24680.xml
+25777.c01	person	associatedWith	25777.r001	ArchivalResource	creatorOf	25777.xml
+	person	correspondedWith	25777.r002
+	person	associatedWith	25777.r003
+	person	correspondedWith	25777.r004
+	person	correspondedWith	25777.r005
+	person	associatedWith	25777.r006
+	person	associatedWith	25777.r007
+	person	associatedWith	25777.r008
+	person	associatedWith	25777.r009
+	person	associatedWith	25777.r010
+	person	associatedWith	25777.r011
+	person	associatedWith	25777.r012
+	person	associatedWith	25777.r013
+	person	associatedWith	25777.r014
+	person	associatedWith	25777.r015
+	person	associatedWith	25777.r016
+	person	associatedWith	25777.r017
+	person	associatedWith	25777.r018
+	person	associatedWith	25777.r019
+	person	associatedWith	25777.r020
+	person	associatedWith	25777.r021
+	person	associatedWith	25777.r022
+	person	associatedWith	25777.r023
+	person	associatedWith	25777.r024
+	corporateBody	associatedWith	25777.r025
+	corporateBody	associatedWith	25777.r026
+	corporateBody	associatedWith	25777.r027
+25777.r001	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r002	person	correspondedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r003	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r004	person	correspondedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r005	person	correspondedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r006	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r007	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r008	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r009	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r010	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r011	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r012	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r013	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r014	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r015	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r016	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r017	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r018	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r019	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r020	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r021	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r022	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r023	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r024	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r025	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r026	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25777.r027	person	associatedWith	25777.c01	ArchivalResource	referencedIn	25777.xml
+25763.c01	person	associatedWith	25763.r001	ArchivalResource	creatorOf	25763.xml
+	person	associatedWith	25763.r002
+	person	associatedWith	25763.r003
+	person	associatedWith	25763.r004
+	person	associatedWith	25763.r005
+25763.r001	person	associatedWith	25763.c01	ArchivalResource	referencedIn	25763.xml
+25763.r002	person	associatedWith	25763.c01	ArchivalResource	referencedIn	25763.xml
+25763.r003	person	associatedWith	25763.c01	ArchivalResource	referencedIn	25763.xml
+25763.r004	person	associatedWith	25763.c01	ArchivalResource	referencedIn	25763.xml
+25763.r005	person	associatedWith	25763.c01	ArchivalResource	referencedIn	25763.xml
+24928.c01	person	associatedWith	24928.r001	ArchivalResource	creatorOf	24928.xml
+	person	associatedWith	24928.r002
+	person	associatedWith	24928.r003
+	person	associatedWith	24928.r004
+	person	associatedWith	24928.r005
+	corporateBody	associatedWith	24928.r006
+24928.r001	person	associatedWith	24928.c01	ArchivalResource	referencedIn	24928.xml
+24928.r002	person	associatedWith	24928.c01	ArchivalResource	referencedIn	24928.xml
+24928.r003	person	associatedWith	24928.c01	ArchivalResource	referencedIn	24928.xml
+24928.r004	person	associatedWith	24928.c01	ArchivalResource	referencedIn	24928.xml
+24928.r005	person	associatedWith	24928.c01	ArchivalResource	referencedIn	24928.xml
+24928.r006	person	associatedWith	24928.c01	ArchivalResource	referencedIn	24928.xml
+25767.c01	person	associatedWith	25767.r001	ArchivalResource	creatorOf	25767.xml
+25767.r001	person	associatedWith	25767.c01	ArchivalResource	referencedIn	25767.xml
+24874.c01	person	associatedWith	24874.r001	ArchivalResource	creatorOf	24874.xml
+24874.r001	person	associatedWith	24874.c01	ArchivalResource	referencedIn	24874.xml
+25772.c01				ArchivalResource	creatorOf	25772.xml
+25809.r001				ArchivalResource	referencedIn	25809.xml
+25809.r002				ArchivalResource	referencedIn	25809.xml
+25809.r003				ArchivalResource	referencedIn	25809.xml
+25809.r004				ArchivalResource	referencedIn	25809.xml
+25764.c01	person	associatedWith	25764.r001	ArchivalResource	creatorOf	25764.xml
+	person	associatedWith	25764.r002
+	person	associatedWith	25764.r003
+	person	associatedWith	25764.r004
+	person	associatedWith	25764.r005
+	person	associatedWith	25764.r006
+	person	associatedWith	25764.r007
+	corporateBody	associatedWith	25764.r008
+25764.r001	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+25764.r002	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+25764.r003	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+25764.r004	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+25764.r005	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+25764.r006	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+25764.r007	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+25764.r008	person	associatedWith	25764.c01	ArchivalResource	referencedIn	25764.xml
+24888.c01	person	associatedWith	24888.r001	ArchivalResource	creatorOf	24888.xml
+	person	correspondedWith	24888.r002
+24888.r001	person	associatedWith	24888.c01	ArchivalResource	referencedIn	24888.xml
+24888.r002	person	correspondedWith	24888.c01	ArchivalResource	referencedIn	24888.xml
+24877.c01	corporateBody	associatedWith	24877.r001	ArchivalResource	creatorOf	24877.xml
+24877.r001	person	associatedWith	24877.c01	ArchivalResource	referencedIn	24877.xml
+24862.c01	person	correspondedWith	24862.r001	ArchivalResource	creatorOf	24862.xml
+	person	correspondedWith	24862.r002
+	person	correspondedWith	24862.r003
+	person	associatedWith	24862.r004
+	person	correspondedWith	24862.r005
+	person	associatedWith	24862.r006
+	person	correspondedWith	24862.r007
+	person	correspondedWith	24862.r008
+	person	correspondedWith	24862.r009
+	family	associatedWith	24862.r010
+	family	correspondedWith	24862.r011
+	corporateBody	associatedWith	24862.r012
+24862.r001	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r002	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r003	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r004	person	associatedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r005	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r006	person	associatedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r007	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r008	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r009	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r010	person	associatedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r011	person	correspondedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24862.r012	person	associatedWith	24862.c01	ArchivalResource	referencedIn	24862.xml
+24876.c01	person	correspondedWith	24876.r001	ArchivalResource	creatorOf	24876.xml
+	person	correspondedWith	24876.r002
+	person	correspondedWith	24876.r003
+	person	correspondedWith	24876.r004
+	corporateBody	associatedWith	24876.r005
+24876.r001	person	correspondedWith	24876.c01	ArchivalResource	referencedIn	24876.xml
+24876.r002	person	correspondedWith	24876.c01	ArchivalResource	referencedIn	24876.xml
+24876.r003	person	correspondedWith	24876.c01	ArchivalResource	referencedIn	24876.xml
+24876.r004	person	correspondedWith	24876.c01	ArchivalResource	referencedIn	24876.xml
+24876.r005	person	associatedWith	24876.c01	ArchivalResource	referencedIn	24876.xml
+29942.c01	person	associatedWith	29942.r001	ArchivalResource	creatorOf	29942.xml
+	person	associatedWith	29942.r002
+	person	associatedWith	29942.r003
+	corporateBody	associatedWith	29942.r004
+29942.r001	person	associatedWith	29942.c01	ArchivalResource	referencedIn	29942.xml
+29942.r002	person	associatedWith	29942.c01	ArchivalResource	referencedIn	29942.xml
+29942.r003	person	associatedWith	29942.c01	ArchivalResource	referencedIn	29942.xml
+29942.r004	person	associatedWith	29942.c01	ArchivalResource	referencedIn	29942.xml
+25822.c01	person	associatedWith	25822.r001	ArchivalResource	creatorOf	25822.xml
+	person	correspondedWith	25822.r002
+25822.r001	person	associatedWith	25822.c01	ArchivalResource	referencedIn	25822.xml
+25822.r002	person	correspondedWith	25822.c01	ArchivalResource	referencedIn	25822.xml
+28385.c01	person	correspondedWith	28385.r001	ArchivalResource	creatorOf	28385.xml
+28385.r001	person	correspondedWith	28385.c01	ArchivalResource	referencedIn	28385.xml
+28384.c01	person	correspondedWith	28384.r001	ArchivalResource	creatorOf	28384.xml
+	person	correspondedWith	28384.r002
+28384.r001	person	correspondedWith	28384.c01	ArchivalResource	referencedIn	28384.xml
+28384.r002	person	correspondedWith	28384.c01	ArchivalResource	referencedIn	28384.xml
+29932.c01	person	associatedWith	29932.r001	ArchivalResource	creatorOf	29932.xml
+29932.r001	person	associatedWith	29932.c01	ArchivalResource	referencedIn	29932.xml
+29926.c01	person	correspondedWith	29926.r001	ArchivalResource	creatorOf	29926.xml
+29926.r001	person	correspondedWith	29926.c01	ArchivalResource	referencedIn	29926.xml
+28386.c01	person	correspondedWith	28386.r001	ArchivalResource	creatorOf	28386.xml
+28386.r001	person	correspondedWith	28386.c01	ArchivalResource	referencedIn	28386.xml
+24580.c01	person	associatedWith	24580.r001	ArchivalResource	creatorOf	24580.xml
+	person	associatedWith	24580.r002
+	person	associatedWith	24580.r003
+	person	associatedWith	24580.r004
+	person	associatedWith	24580.r005
+	person	associatedWith	24580.r006
+	person	associatedWith	24580.r007
+	person	associatedWith	24580.r008
+	person	associatedWith	24580.r009
+	person	associatedWith	24580.r010
+	person	associatedWith	24580.r011
+	person	associatedWith	24580.r012
+	person	associatedWith	24580.r013
+	person	associatedWith	24580.r014
+24580.r001	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r002	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r003	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r004	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r005	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r006	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r007	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r008	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r009	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r010	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r011	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r012	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r013	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24580.r014	person	associatedWith	24580.c01	ArchivalResource	referencedIn	24580.xml
+24620.r001	corporateBody	associatedWith	24620.c01	ArchivalResource	referencedIn	24620.xml
+24620.c01	person	associatedWith	24620.r001	ArchivalResource	creatorOf	24620.xml
+24618.c01	person	associatedWith	24618.r001	ArchivalResource	creatorOf	24618.xml
+	person	associatedWith	24618.r002
+	person	associatedWith	24618.r003
+	person	associatedWith	24618.r004
+	person	associatedWith	24618.r005
+	person	associatedWith	24618.r006
+	person	associatedWith	24618.r007
+	person	associatedWith	24618.r008
+	person	associatedWith	24618.r009
+	person	associatedWith	24618.r010
+	person	associatedWith	24618.r011
+	person	associatedWith	24618.r012
+	person	associatedWith	24618.r013
+	person	associatedWith	24618.r014
+	person	associatedWith	24618.r015
+	person	associatedWith	24618.r016
+	person	associatedWith	24618.r017
+	person	associatedWith	24618.r018
+	person	associatedWith	24618.r019
+	person	associatedWith	24618.r020
+	corporateBody	associatedWith	24618.r021
+24618.r001	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r002	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r003	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r004	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r005	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r006	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r007	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r008	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r009	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r010	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r011	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r012	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r013	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r014	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r015	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r016	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r017	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r018	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r019	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r020	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+24618.r021	person	associatedWith	24618.c01	ArchivalResource	referencedIn	24618.xml
+26967.c01	corporateBody	associatedWith	26967.r001	ArchivalResource	creatorOf	26967.xml
+26967.r001	person	associatedWith	26967.c01	ArchivalResource	referencedIn	26967.xml
+24551.c01				ArchivalResource	creatorOf	24551.xml
+24592.c01	person	associatedWith	24592.r001	ArchivalResource	creatorOf	24592.xml
+	corporateBody	associatedWith	24592.r002
+24592.r001	person	associatedWith	24592.c01	ArchivalResource	referencedIn	24592.xml
+24592.r002	person	associatedWith	24592.c01	ArchivalResource	referencedIn	24592.xml
+29934.c01	person	associatedWith	29934.r001	ArchivalResource	creatorOf	29934.xml
+	person	associatedWith	29934.r002
+	person	associatedWith	29934.r003
+	person	associatedWith	29934.r004
+	person	associatedWith	29934.r005
+29934.r001	person	associatedWith	29934.c01	ArchivalResource	referencedIn	29934.xml
+29934.r002	person	associatedWith	29934.c01	ArchivalResource	referencedIn	29934.xml
+29934.r003	person	associatedWith	29934.c01	ArchivalResource	referencedIn	29934.xml
+29934.r004	person	associatedWith	29934.c01	ArchivalResource	referencedIn	29934.xml
+29934.r005	person	associatedWith	29934.c01	ArchivalResource	referencedIn	29934.xml
+24828.c01	person	associatedWith	24828.r001	ArchivalResource	creatorOf	24828.xml
+	person	associatedWith	24828.r002
+	person	associatedWith	24828.r003
+	person	associatedWith	24828.r004
+	person	associatedWith	24828.r005
+	person	associatedWith	24828.r006
+	person	associatedWith	24828.r007
+24828.r001	person	associatedWith	24828.c01	ArchivalResource	referencedIn	24828.xml
+24828.r002	person	associatedWith	24828.c01	ArchivalResource	referencedIn	24828.xml
+24828.r003	person	associatedWith	24828.c01	ArchivalResource	referencedIn	24828.xml
+24828.r004	person	associatedWith	24828.c01	ArchivalResource	referencedIn	24828.xml
+24828.r005	person	associatedWith	24828.c01	ArchivalResource	referencedIn	24828.xml
+24828.r006	person	associatedWith	24828.c01	ArchivalResource	referencedIn	24828.xml
+24828.r007	person	associatedWith	24828.c01	ArchivalResource	referencedIn	24828.xml
+29935.c01	person	correspondedWith	29935.r001	ArchivalResource	creatorOf	29935.xml
+	person	correspondedWith	29935.r002
+	person	correspondedWith	29935.r003
+29935.r001	person	correspondedWith	29935.c01	ArchivalResource	referencedIn	29935.xml
+29935.r002	person	correspondedWith	29935.c01	ArchivalResource	referencedIn	29935.xml
+29935.r003	person	correspondedWith	29935.c01	ArchivalResource	referencedIn	29935.xml
+24593.c01	person	associatedWith	24593.r001	ArchivalResource	creatorOf	24593.xml
+	person	associatedWith	24593.r002
+	person	associatedWith	24593.r003
+	corporateBody	associatedWith	24593.r004
+	corporateBody	associatedWith	24593.r005
+	corporateBody	associatedWith	24593.r006
+	corporateBody	associatedWith	24593.r007
+	corporateBody	associatedWith	24593.r008
+	corporateBody	associatedWith	24593.r009
+	corporateBody	associatedWith	24593.r010
+24593.r001	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r002	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r003	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r004	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r005	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r006	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r007	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r008	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r009	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+24593.r010	person	associatedWith	24593.c01	ArchivalResource	referencedIn	24593.xml
+29909.c01	person	associatedWith	29909.r001	ArchivalResource	creatorOf	29909.xml
+29909.r001	person	associatedWith	29909.c01	ArchivalResource	referencedIn	29909.xml
+29910.c01	person	associatedWith	29910.r001	ArchivalResource	creatorOf	29910.xml
+	person	associatedWith	29910.r002
+29910.r001	person	associatedWith	29910.c01	ArchivalResource	referencedIn	29910.xml
+29910.r002	person	associatedWith	29910.c01	ArchivalResource	referencedIn	29910.xml
+24818.c01	person	associatedWith	24818.r001	ArchivalResource	creatorOf	24818.xml
+	person	correspondedWith	24818.r002
+	family	associatedWith	24818.r003
+	family	associatedWith	24818.r004
+	family	associatedWith	24818.r005
+	family	associatedWith	24818.r006
+	family	associatedWith	24818.r007
+	corporateBody	associatedWith	24818.r008
+24818.r001	person	associatedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+24818.r002	person	correspondedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+24818.r003	person	associatedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+24818.r004	person	associatedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+24818.r005	person	associatedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+24818.r006	person	associatedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+24818.r007	person	associatedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+24818.r008	person	associatedWith	24818.c01	ArchivalResource	referencedIn	24818.xml
+25285.c01	corporateBody	associatedWith	25285.r001	ArchivalResource	creatorOf	25285.xml
+25285.r001	person	associatedWith	25285.c01	ArchivalResource	referencedIn	25285.xml
+24831.c01	person	correspondedWith	24831.r001	ArchivalResource	creatorOf	24831.xml
+	person	correspondedWith	24831.r002
+	person	associatedWith	24831.r003
+	corporateBody	associatedWith	24831.r004
+24831.r001	person	correspondedWith	24831.c01	ArchivalResource	referencedIn	24831.xml
+24831.r002	person	correspondedWith	24831.c01	ArchivalResource	referencedIn	24831.xml
+24831.r003	person	associatedWith	24831.c01	ArchivalResource	referencedIn	24831.xml
+24831.r004	person	associatedWith	24831.c01	ArchivalResource	referencedIn	24831.xml
+24602.c01	person	associatedWith	24602.r001	ArchivalResource	creatorOf	24602.xml
+	person	associatedWith	24602.r002
+	person	associatedWith	24602.r003
+	person	associatedWith	24602.r004
+	corporateBody	associatedWith	24602.r005
+24602.r001	person	associatedWith	24602.c01	ArchivalResource	referencedIn	24602.xml
+24602.r002	person	associatedWith	24602.c01	ArchivalResource	referencedIn	24602.xml
+24602.r003	person	associatedWith	24602.c01	ArchivalResource	referencedIn	24602.xml
+24602.r004	person	associatedWith	24602.c01	ArchivalResource	referencedIn	24602.xml
+24602.r005	person	associatedWith	24602.c01	ArchivalResource	referencedIn	24602.xml
+29911.c01	person	correspondedWith	29911.r001	ArchivalResource	creatorOf	29911.xml
+29911.r001	person	correspondedWith	29911.c01	ArchivalResource	referencedIn	29911.xml
+25656.c01				ArchivalResource	creatorOf	25656.xml
+24576.c01	person	associatedWith	24576.r001	ArchivalResource	creatorOf	24576.xml
+	person	associatedWith	24576.r002
+	person	associatedWith	24576.r003
+	person	associatedWith	24576.r004
+	person	associatedWith	24576.r005
+	person	associatedWith	24576.r006
+	person	associatedWith	24576.r007
+	person	associatedWith	24576.r008
+	person	associatedWith	24576.r009
+	person	associatedWith	24576.r010
+	family	associatedWith	24576.r011
+	corporateBody	associatedWith	24576.r012
+24576.r001	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r002	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r003	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r004	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r005	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r006	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r007	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r008	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r009	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r010	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r011	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+24576.r012	person	associatedWith	24576.c01	ArchivalResource	referencedIn	24576.xml
+25287.r001	corporateBody	associatedWith	25287.c01	ArchivalResource	referencedIn	25287.xml
+25287.r002	corporateBody	associatedWith	25287.c01	ArchivalResource	referencedIn	25287.xml
+25287.r003	corporateBody	associatedWith	25287.c01	ArchivalResource	referencedIn	25287.xml
+25287.c01	person	associatedWith	25287.r001	ArchivalResource	creatorOf	25287.xml
+	person	associatedWith	25287.r002
+	person	associatedWith	25287.r003
+24833.c01	person	associatedWith	24833.r001	ArchivalResource	creatorOf	24833.xml
+	corporateBody	associatedWith	24833.r002
+24833.r001	person	associatedWith	24833.c01	ArchivalResource	referencedIn	24833.xml
+24833.r002	person	associatedWith	24833.c01	ArchivalResource	referencedIn	24833.xml
+24832.c01				ArchivalResource	creatorOf	24832.xml
+25286.c01	person	associatedWith	25286.r001	ArchivalResource	creatorOf	25286.xml
+	corporateBody	associatedWith	25286.r002
+25286.r001	person	associatedWith	25286.c01	ArchivalResource	referencedIn	25286.xml
+25286.r002	person	associatedWith	25286.c01	ArchivalResource	referencedIn	25286.xml
+24588.c01	corporateBody	associatedWith	24588.r001	ArchivalResource	creatorOf	24588.xml
+24588.r001	person	associatedWith	24588.c01	ArchivalResource	referencedIn	24588.xml
+24834.c01				ArchivalResource	creatorOf	24834.xml
+28388.c01				ArchivalResource	creatorOf	28388.xml
+24264.c01	person	associatedWith	24264.r001	ArchivalResource	creatorOf	24264.xml
+24264.r001	person	associatedWith	24264.c01	ArchivalResource	referencedIn	24264.xml
+24846.c01	person	associatedWith	24846.r001	ArchivalResource	creatorOf	24846.xml
+	person	associatedWith	24846.r002
+	person	associatedWith	24846.r003
+	corporateBody	associatedWith	24846.r004
+	corporateBody	associatedWith	24846.r005
+	corporateBody	associatedWith	24846.r006
+	corporateBody	associatedWith	24846.r007
+	corporateBody	associatedWith	24846.r008
+	corporateBody	associatedWith	24846.r009
+24846.r001	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r002	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r003	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r004	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r005	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r006	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r007	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r008	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24846.r009	person	associatedWith	24846.c01	ArchivalResource	referencedIn	24846.xml
+24885.c01	person	associatedWith	24885.r001	ArchivalResource	creatorOf	24885.xml
+24885.r001	person	associatedWith	24885.c01	ArchivalResource	referencedIn	24885.xml
+24891.c01	person	associatedWith	24891.r001	ArchivalResource	creatorOf	24891.xml
+	person	associatedWith	24891.r002
+	person	associatedWith	24891.r003
+	person	associatedWith	24891.r004
+24891.r001	person	associatedWith	24891.c01	ArchivalResource	referencedIn	24891.xml
+24891.r002	person	associatedWith	24891.c01	ArchivalResource	referencedIn	24891.xml
+24891.r003	person	associatedWith	24891.c01	ArchivalResource	referencedIn	24891.xml
+24891.r004	person	associatedWith	24891.c01	ArchivalResource	referencedIn	24891.xml
+24515.c01				ArchivalResource	creatorOf	24515.xml
+24887.c01	person	correspondedWith	24887.r001	ArchivalResource	creatorOf	24887.xml
+	person	correspondedWith	24887.r002
+24887.r001	person	correspondedWith	24887.c01	ArchivalResource	referencedIn	24887.xml
+24887.r002	person	correspondedWith	24887.c01	ArchivalResource	referencedIn	24887.xml
+24893.c01	person	associatedWith	24893.r001	ArchivalResource	creatorOf	24893.xml
+	person	associatedWith	24893.r002
+	corporateBody	associatedWith	24893.r003
+24893.r001	person	associatedWith	24893.c01	ArchivalResource	referencedIn	24893.xml
+24893.r002	person	associatedWith	24893.c01	ArchivalResource	referencedIn	24893.xml
+24893.r003	person	associatedWith	24893.c01	ArchivalResource	referencedIn	24893.xml
+25596.c01	corporateBody	associatedWith	25596.r001	ArchivalResource	creatorOf	25596.xml
+25596.r001	person	associatedWith	25596.c01	ArchivalResource	referencedIn	25596.xml
+24845.r001				ArchivalResource	referencedIn	24845.xml
+24845.r002				ArchivalResource	referencedIn	24845.xml
+24845.r003				ArchivalResource	referencedIn	24845.xml
+24845.r004				ArchivalResource	referencedIn	24845.xml
+24845.r005				ArchivalResource	referencedIn	24845.xml
+24845.r006				ArchivalResource	referencedIn	24845.xml
+24845.r007				ArchivalResource	referencedIn	24845.xml
+24676.c01	person	associatedWith	24676.r001	ArchivalResource	creatorOf	24676.xml
+	person	associatedWith	24676.r002
+	corporateBody	associatedWith	24676.r003
+	corporateBody	associatedWith	24676.r004
+24676.r001	person	associatedWith	24676.c01	ArchivalResource	referencedIn	24676.xml
+24676.r002	person	associatedWith	24676.c01	ArchivalResource	referencedIn	24676.xml
+24676.r003	person	associatedWith	24676.c01	ArchivalResource	referencedIn	24676.xml
+24676.r004	person	associatedWith	24676.c01	ArchivalResource	referencedIn	24676.xml
+24892.c01	person	associatedWith	24892.r001	ArchivalResource	creatorOf	24892.xml
+	corporateBody	associatedWith	24892.r002
+24892.r001	person	associatedWith	24892.c01	ArchivalResource	referencedIn	24892.xml
+24892.r002	person	associatedWith	24892.c01	ArchivalResource	referencedIn	24892.xml
+24886.c01	person	associatedWith	24886.r001	ArchivalResource	creatorOf	24886.xml
+	person	associatedWith	24886.r002
+	person	associatedWith	24886.r003
+	person	associatedWith	24886.r004
+	person	associatedWith	24886.r005
+	person	associatedWith	24886.r006
+	person	associatedWith	24886.r007
+	person	associatedWith	24886.r008
+	person	associatedWith	24886.r009
+24886.r001	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r002	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r003	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r004	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r005	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r006	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r007	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r008	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24886.r009	person	associatedWith	24886.c01	ArchivalResource	referencedIn	24886.xml
+24672.c01	person	correspondedWith	24672.r001	ArchivalResource	creatorOf	24672.xml
+	person	correspondedWith	24672.r002
+	person	correspondedWith	24672.r003
+	person	correspondedWith	24672.r004
+	person	correspondedWith	24672.r005
+	corporateBody	associatedWith	24672.r006
+	corporateBody	associatedWith	24672.r007
+	corporateBody	associatedWith	24672.r008
+24672.r001	person	correspondedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24672.r002	person	correspondedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24672.r003	person	correspondedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24672.r004	person	correspondedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24672.r005	person	correspondedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24672.r006	person	associatedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24672.r007	person	associatedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24672.r008	person	associatedWith	24672.c01	ArchivalResource	referencedIn	24672.xml
+24868.r001				ArchivalResource	referencedIn	24868.xml
+24868.r002				ArchivalResource	referencedIn	24868.xml
+24868.r003				ArchivalResource	referencedIn	24868.xml
+24868.r004				ArchivalResource	referencedIn	24868.xml
+24868.r005				ArchivalResource	referencedIn	24868.xml
+24868.r006				ArchivalResource	referencedIn	24868.xml
+24868.r007				ArchivalResource	referencedIn	24868.xml
+24868.r008				ArchivalResource	referencedIn	24868.xml
+24868.r009				ArchivalResource	referencedIn	24868.xml
+24868.r010				ArchivalResource	referencedIn	24868.xml
+24868.r011				ArchivalResource	referencedIn	24868.xml
+24868.r012				ArchivalResource	referencedIn	24868.xml
+24895.r001				ArchivalResource	referencedIn	24895.xml
+24895.r002				ArchivalResource	referencedIn	24895.xml
+24895.r003				ArchivalResource	referencedIn	24895.xml
+24895.r004				ArchivalResource	referencedIn	24895.xml
+24895.r005				ArchivalResource	referencedIn	24895.xml
+24895.r006				ArchivalResource	referencedIn	24895.xml
+24895.r007				ArchivalResource	referencedIn	24895.xml
+24895.r008				ArchivalResource	referencedIn	24895.xml
+24895.r009				ArchivalResource	referencedIn	24895.xml
+24895.r010				ArchivalResource	referencedIn	24895.xml
+24895.r011				ArchivalResource	referencedIn	24895.xml
+24895.r012				ArchivalResource	referencedIn	24895.xml
+24895.r013				ArchivalResource	referencedIn	24895.xml
+24895.r014				ArchivalResource	referencedIn	24895.xml
+24894.c01	person	associatedWith	24894.r001	ArchivalResource	creatorOf	24894.xml
+	person	associatedWith	24894.r002
+	person	associatedWith	24894.r003
+24894.r001	person	associatedWith	24894.c01	ArchivalResource	referencedIn	24894.xml
+24894.r002	person	associatedWith	24894.c01	ArchivalResource	referencedIn	24894.xml
+24894.r003	person	associatedWith	24894.c01	ArchivalResource	referencedIn	24894.xml
+21318.c01	person	associatedWith	21318.r001	ArchivalResource	creatorOf	21318.xml
+	person	associatedWith	21318.r002
+	person	associatedWith	21318.r003
+	person	associatedWith	21318.r004
+21318.r001	person	associatedWith	21318.c01	ArchivalResource	referencedIn	21318.xml
+21318.r002	person	associatedWith	21318.c01	ArchivalResource	referencedIn	21318.xml
+21318.r003	person	associatedWith	21318.c01	ArchivalResource	referencedIn	21318.xml
+21318.r004	person	associatedWith	21318.c01	ArchivalResource	referencedIn	21318.xml
+24923.c01	person	associatedWith	24923.r001	ArchivalResource	creatorOf	24923.xml
+	person	associatedWith	24923.r002
+	corporateBody	associatedWith	24923.r003
+24923.r001	person	associatedWith	24923.c01	ArchivalResource	referencedIn	24923.xml
+24923.r002	person	associatedWith	24923.c01	ArchivalResource	referencedIn	24923.xml
+24923.r003	person	associatedWith	24923.c01	ArchivalResource	referencedIn	24923.xml
